@@ -1,0 +1,28 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+
+# Local operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Heavy assets belong in external storage
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.aiff
+*.psd
+*.prproj
+*.aep
+node_modules/
+__pycache__/
+.venv/
+tmp/
