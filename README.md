@@ -12,6 +12,7 @@
 4. [Принятые решения](decisions/log.md) и отдельно [предложения](decisions/proposals.md).
 5. [Неотвеченные вопросы](brief/open-questions.md).
 6. [Варианты личного образа и стартовое интервью](brief/positioning-draft.md).
+7. [Принцип поиска: адаптация форматов между рынками](workflows/format-transfer.md).
 
 ## Карта базы
 
