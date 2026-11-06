@@ -11,7 +11,9 @@ import {PencilScene} from './scenes/PencilScene';
 import {Clock} from './scenes/Clock';
 import {Return} from './scenes/Return';
 import {LightStudy} from './v02/LightStudy';
+import {FilmV03,V03_FRAMES} from './v03/Film';
 export const Root = () => <>
+  <Composition id="FoldLightV03" component={FilmV03} width={1080} height={1920} fps={24} durationInFrames={V03_FRAMES}/>
   <Composition id="FoldLightV02" component={LightStudy} width={1080} height={1920} fps={24} durationInFrames={120}/>
   <Composition id="FoldStudy" component={Film} width={1080} height={1920} fps={24} durationInFrames={432}/>
   <Folder name="Scenes">

@@ -3,3 +3,5 @@ out/
 .cache/
 .remotion/
 public/*.wav
+public/v03-assets/
+build/

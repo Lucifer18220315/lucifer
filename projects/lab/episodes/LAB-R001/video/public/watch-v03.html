@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FOLD / 03 — размер источника и тень</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#17201d;color:#f3ead8;font:16px system-ui,sans-serif}main{max-width:1100px;margin:auto;padding:32px 24px;display:grid;grid-template-columns:minmax(220px,420px) 1fr;gap:44px;align-items:center}video{display:block;width:100%;max-height:89vh;background:#292821;border-radius:8px}.eyebrow{color:#d4b88f;letter-spacing:3px;font-size:12px}h1{font-size:48px;line-height:1.1;font-weight:500;letter-spacing:-2px}p{line-height:1.6;color:#babdb1}.scenes,.links{display:flex;flex-wrap:wrap;gap:10px;margin:24px 0}button{cursor:pointer;background:#25312b;color:#f3ead8;border:1px solid #57665a;border-radius:4px;padding:11px 14px}button:hover{background:#3d4d40}a{color:#d4b88f;text-underline-offset:4px}.note{font-size:13px}.scheme{width:100%;margin-top:16px;border:1px solid #39483e;border-radius:8px}@media(max-width:720px){main{grid-template-columns:1fr;gap:24px;padding:16px}video{max-height:75vh}h1{font-size:36px}}
+</style>
+<main>
+ <video id="film" controls playsinline loop preload="metadata" poster="v03-poster.jpg" src="LAB-R001-v03.mp4"></video>
+ <section><div class="eyebrow">LAB / ПОПЫТКА 03</div><h1>Размер источника<br>меняет тень</h1>
+  <p>14 секунд · 1080 × 1920 · 24 кадра/с.<br>Рабочая сцена, постановка света, сравнение и схема.</p>
+  <div class="scenes"><button data-start="0">Предметный кадр</button><button data-start="3">Где стоит свет</button><button data-start="6">4 × 4 см</button><button data-start="8.5">28 × 38 см</button><button data-start="11">Кромка и схема</button></div>
+  <div class="links"><a href="LAB-R001-v03.mp4" download>Скачать MP4</a><a href="v03-lighting.svg" download>Схема света</a><a href="watch-v02.html">Сравнить с v02</a></div>
+  <img class="scheme" src="v03-lighting.svg" alt="Схема: большой источник слева под 45°, расстояние до предмета 45 см, центр света 32 см над столом; справа белый отражатель, камера спереди">
+  <p class="note">В интервале 6–11 секунд сохранены камера, материал, положение и световой поток ключевого источника. Меняется его площадь. Тени на столе рассчитаны выборками по площади источника; локальное затенение и собственные тени сгибов заранее рассчитаны по геометрии. Многократные отражения света этой WebGL-сценой полностью не рассчитываются.</p>
+  <p class="note">Авторский синтез звука; субъективное прослушивание не выполнено. Озвучки нет. Прогноз сохранений и просмотров по этому рендеру не делается.</p>
+ </section>
+</main>
+<script>
+const film=document.getElementById('film');
+document.querySelectorAll('[data-start]').forEach(button=>button.addEventListener('click',()=>{film.currentTime=Number(button.dataset.start);film.play().catch(()=>{});}));
+</script>
+</html>

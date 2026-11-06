@@ -1,0 +1,280 @@
+{
+  "version": "v03",
+  "date": "2026-11-06",
+  "file": "/workspace/shared/downloads/LAB-R001-v03.mp4",
+  "sha256": "df65e2bf292d05917e715dcbd52783efd8416cd9861525f41c049ac60616b58d",
+  "bytes": 7113284,
+  "format": {
+    "filename": "/workspace/shared/downloads/LAB-R001-v03.mp4",
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "14.000000",
+    "size": "7113284",
+    "bit_rate": "4064733",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41",
+      "encoder": "Lavf61.7.103",
+      "comment": "Made with Remotion 4.0.541"
+    }
+  },
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 1080,
+      "height": 1920,
+      "coded_width": 1088,
+      "coded_height": 1920,
+      "closed_captions": 0,
+      "film_grain": 0,
+      "has_b_frames": 2,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "9:16",
+      "pix_fmt": "yuvj420p",
+      "level": 40,
+      "color_range": "pc",
+      "color_space": "bt470bg",
+      "chroma_location": "center",
+      "field_order": "progressive",
+      "refs": 4,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "24/1",
+      "avg_frame_rate": "24/1",
+      "time_base": "1/90000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 1260000,
+      "duration": "14.000000",
+      "bit_rate": "3929199",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "336",
+      "nb_read_frames": "336",
+      "extradata_size": 51,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler",
+        "vendor_id": "[0][0][0][0]"
+      },
+      "side_data_list": [
+        {
+          "side_data_type": "ICC Profile"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "sample_fmt": "fltp",
+      "sample_rate": "48000",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/48000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 672000,
+      "duration": "14.000000",
+      "bit_rate": "128665",
+      "nb_frames": "658",
+      "nb_read_frames": "657",
+      "extradata_size": 5,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "SoundHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    }
+  ],
+  "decode": "passed",
+  "visual_samples": 112,
+  "sheets": [
+    "LAB-R001-v03-frames-01.jpg",
+    "LAB-R001-v03-frames-02.jpg",
+    "LAB-R001-v03-frames-03.jpg"
+  ],
+  "audio": {
+    "original_synthesis": true,
+    "peak_dbfs": -25.913313900991408,
+    "subjective_listening": false
+  },
+  "geometry": {
+    "meshes": [
+      {
+        "name": "shell",
+        "vertices": 14007,
+        "triangles": 27520,
+        "minimumTriangleArea": 2.725036349307748e-05,
+        "degenerateTriangles": 0,
+        "nonfinite": 0,
+        "boundaryEdges": 492
+      },
+      {
+        "name": "front",
+        "vertices": 3322,
+        "triangles": 6640,
+        "minimumTriangleArea": 3.408540502294026e-07,
+        "degenerateTriangles": 0,
+        "nonfinite": 0,
+        "boundaryEdges": 0
+      },
+      {
+        "name": "back",
+        "vertices": 3322,
+        "triangles": 6640,
+        "minimumTriangleArea": 3.408540502294026e-07,
+        "degenerateTriangles": 0,
+        "nonfinite": 0,
+        "boundaryEdges": 0
+      }
+    ],
+    "maxFlapWallSeamMetres": 4.7393830349544685e-18,
+    "paperThicknessMetres": 0.000258
+  },
+  "geometric_lighting": {
+    "algorithm": "BVH visibility over actual source rectangles + cosine-weighted hemisphere AO",
+    "areaSamples": 48,
+    "aoSamples": 32,
+    "aoRangeMetres": 0.025,
+    "originOffsetMetres": 2.5e-05,
+    "geometrySHA256": "82d33defdbd2e224679c6386636b84ecd037df634b4c7d187fb5393d05e173d3",
+    "parameters": {
+      "cupScale": 0.043,
+      "cupPosition": [
+        0,
+        -0.00046,
+        0
+      ],
+      "lightPosition": [
+        -0.26,
+        0.32,
+        0.26
+      ],
+      "lightTarget": [
+        0,
+        0.055,
+        0
+      ],
+      "sourceSizes": [
+        [
+          0.04,
+          0.04
+        ],
+        [
+          0.28,
+          0.38
+        ]
+      ]
+    }
+  },
+  "shadow_masks": [
+    {
+      "samples": 48,
+      "resolution": 768,
+      "size": [
+        0.04,
+        0.04
+      ],
+      "partialPixels": 25524,
+      "opaquePixels": 75986,
+      "integratedOpacity": 88473.06666666348
+    },
+    {
+      "samples": 48,
+      "resolution": 768,
+      "size": [
+        0.28,
+        0.38
+      ],
+      "partialPixels": 126313,
+      "opaquePixels": 41759,
+      "integratedOpacity": 91207.3215686089
+    }
+  ],
+  "browser": {
+    "width": 1080,
+    "height": 1920,
+    "duration": 14,
+    "full_muted_playback_and_loop": true,
+    "scene_navigation": true,
+    "scheme_served": true,
+    "javascript_errors": []
+  },
+  "visual_review": {
+    "samples": 112,
+    "step_seconds": 0.125,
+    "additional_native_frames": [
+      0,
+      168,
+      228,
+      335
+    ],
+    "comparison_camera_fixed": true,
+    "blank_scenes_in_review": false,
+    "subjective_listening": false
+  }
+}

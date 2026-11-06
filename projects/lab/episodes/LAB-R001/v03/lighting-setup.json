@@ -1,0 +1,74 @@
+{
+  "units": "metres",
+  "key": {
+    "position": [
+      -0.26,
+      0.32,
+      0.26
+    ],
+    "target": [
+      0,
+      0.055,
+      0
+    ],
+    "sizes": {
+      "small": [
+        0.04,
+        0.04
+      ],
+      "large": [
+        0.28,
+        0.38
+      ]
+    },
+    "power_lumens": 2,
+    "distance_metres": 0.45323834789214384,
+    "horizontal_azimuth_degrees": -45
+  },
+  "comparison_camera": {
+    "position": [
+      0,
+      0.215,
+      0.485
+    ],
+    "target": [
+      0,
+      0.056,
+      0
+    ],
+    "vertical_fov_degrees": 36
+  },
+  "reflector_setup_model": {
+    "position": [
+      0.19,
+      0.1,
+      -0.09
+    ],
+    "size": [
+      0.004,
+      0.18,
+      0.12
+    ],
+    "note": "Displayed in setup reconstruction; full secondary bounce is not computed by WebGLRenderer."
+  },
+  "environment": {
+    "asset": "studio_small_09",
+    "intensity": 0.23,
+    "hemisphere_intensity": 0.18
+  },
+  "renderer": {
+    "tone_mapping": "ACESFilmic",
+    "exposure": 1.12,
+    "area_shadow_samples": 48,
+    "area_shadow_resolution": 768,
+    "ambient_occlusion": "Camera-independent cosine-hemisphere BVH vertex bake",
+    "ambient_occlusion_range_metres": 0.025,
+    "ambient_occlusion_samples": 32,
+    "self_shadow_area_samples": 48
+  },
+  "limits": [
+    "Ground area shadows are accumulated geometric shadow samples, not full path tracing.",
+    "The total partial-alpha area metric is not a penumbra-width measurement.",
+    "Paper fiber scale is an art parameter; provider has no physical size metadata."
+  ]
+}

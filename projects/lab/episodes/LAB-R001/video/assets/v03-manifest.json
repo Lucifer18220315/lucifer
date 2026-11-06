@@ -1,0 +1,85 @@
+{
+  "license_sources": [
+    "https://docs.ambientcg.com/license/",
+    "https://polyhaven.com/license"
+  ],
+  "assets": [
+    {
+      "id": "Paper001",
+      "url": "https://ambientcg.com/get?file=Paper001_2K-JPG.zip",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/a/Paper001",
+      "maps": [
+        "Color.jpg",
+        "NormalGL.jpg",
+        "Roughness.jpg"
+      ],
+      "download_sha256": "21b3b955d9cd8bd6c83ebac6a71f7dcbaea819d28b6a0f82a1a3805f67793dcb",
+      "files": [
+        {
+          "name": "Paper001_2K-JPG_Color.jpg",
+          "bytes": 1413518,
+          "sha256": "1ec1da7815c3e53e02f7f6f4c68b091dddd5d089ba9aa40ccebb7685e3032804"
+        },
+        {
+          "name": "Paper001_2K-JPG_NormalGL.jpg",
+          "bytes": 4905427,
+          "sha256": "16484650ca33080626a378f4a716099d4b24426eee4440df1339b03ec1295538"
+        },
+        {
+          "name": "Paper001_2K-JPG_Roughness.jpg",
+          "bytes": 1726250,
+          "sha256": "e797c76f257b4f9ff7c50f7a7298c349e73806fb55a251f9a01436be047caf16"
+        }
+      ]
+    },
+    {
+      "id": "Wood092",
+      "url": "https://ambientcg.com/get?file=Wood092_2K-JPG.zip",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/a/Wood092",
+      "maps": [
+        "Color.jpg",
+        "NormalGL.jpg",
+        "Roughness.jpg"
+      ],
+      "download_sha256": "4c392495ec8689024659de2099f538089556d77dd7c2f2c2d70a707fa7d29d54",
+      "files": [
+        {
+          "name": "Wood092_2K-JPG_Color.jpg",
+          "bytes": 3513545,
+          "sha256": "f070ac5b7e936666d5fcde0ab24744ec2cbb314ad01c9b389c9fae0d6a6a9f51"
+        },
+        {
+          "name": "Wood092_2K-JPG_NormalGL.jpg",
+          "bytes": 4855462,
+          "sha256": "1493a96b0c938cf301f894c164d9582965f654e638cb4598091e8de05ef05bd1"
+        },
+        {
+          "name": "Wood092_2K-JPG_Roughness.jpg",
+          "bytes": 1641674,
+          "sha256": "c3b7a9daf961ec4e5dd54601e2918f76b22fd86f59cc354b606aa9fae63e7fe4"
+        }
+      ]
+    },
+    {
+      "id": "studio_small_09",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/studio_small_09_1k.hdr",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/studio_small_09",
+      "author": "Sergej Majboroda",
+      "download_sha256": "e7cfda5f4e98e623db12b8bfd0184e048488e4855d9c83e2751fb44a32e80c45",
+      "files": [
+        {
+          "name": "studio_small_09_1k.hdr",
+          "bytes": 1615248,
+          "sha256": "e7cfda5f4e98e623db12b8bfd0184e048488e4855d9c83e2751fb44a32e80c45"
+        }
+      ]
+    }
+  ],
+  "scale_notes": {
+    "Wood092": "Provider metadata: 80 x 80 cm.",
+    "Paper001": "Provider metadata has no physical size; UV scale is a modeling parameter, not a measured fiber size."
+  }
+}
