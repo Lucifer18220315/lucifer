@@ -1,0 +1,528 @@
+{
+  "checked_on": "2026-11-06",
+  "timezone": "Europe/Moscow",
+  "scope": "bounded Instagram comparison of three selected foreign mechanics",
+  "method_limits": [
+    "seeded list, not representative market sample",
+    "unavailable profiles and wrong-name matches excluded from analogue evidence",
+    "4 frames each from 6 videos; no complete playback or audio assessment",
+    "local language is not proof of viewer geography",
+    "no exact photo-BTS or finance AI-check analogue established",
+    "view counts at different post ages cannot be compared as growth"
+  ],
+  "discovery_attempts": [
+    {
+      "url": "https://www.instagram.com/koldunovbrothers/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/koldunov/reels/",
+      "outcome": "no_public_reels_for_review"
+    },
+    {
+      "url": "https://www.instagram.com/alexandermuratov/reels/",
+      "outcome": "private_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/sergeysuxov/reels/",
+      "outcome": "retained_for_content_review"
+    },
+    {
+      "url": "https://www.instagram.com/chef_belkovich/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/alina_foodee/reels/",
+      "outcome": "no_public_reels_for_review"
+    },
+    {
+      "url": "https://www.instagram.com/olga_matvey/reels/",
+      "outcome": "private_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/rationalanswer/reels/",
+      "outcome": "retained_for_content_review"
+    },
+    {
+      "url": "https://www.instagram.com/investfuture/reels/",
+      "outcome": "no_public_reels_for_review"
+    },
+    {
+      "url": "https://www.instagram.com/bitkogan/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/dmitry.rogozhkin/reels/",
+      "outcome": "no_public_reels_for_review"
+    },
+    {
+      "url": "https://www.instagram.com/alexander_muratov/reels/",
+      "outcome": "no_public_reels_for_review"
+    },
+    {
+      "url": "https://www.instagram.com/koldunovs/reels/",
+      "outcome": "not_relevant_to_selected_mechanics"
+    },
+    {
+      "url": "https://www.instagram.com/belkovich/reels/",
+      "outcome": "retained_for_content_review"
+    },
+    {
+      "url": "https://www.instagram.com/olgamatvey/reels/",
+      "outcome": "no_public_reels_for_review"
+    },
+    {
+      "url": "https://www.instagram.com/natashashakinko/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/investfuture.ru/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/finindie/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/dmitryrogozhkin/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/kira_yukhtenko/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/igorfainman/reels/",
+      "outcome": "unavailable_excluded"
+    },
+    {
+      "url": "https://www.instagram.com/vkusnaya_minutka/reels/",
+      "outcome": "no_public_reels_for_review"
+    },
+    {
+      "url": "https://www.instagram.com/yuliya_small/reels/",
+      "outcome": "retained_for_content_review"
+    }
+  ],
+  "retained_profiles": [
+    {
+      "handle": "sergeysuxov",
+      "url": "https://www.instagram.com/sergeysuxov/reels/",
+      "followers_displayed": "687K",
+      "language_evidence": "Russian profile description and/or checked reel captions/onscreen text",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DVa9UlcDILR/",
+          "views_displayed": "20.1M"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DClzWvsKdJH/",
+          "views_displayed": "21.4M"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/C8mTCCaM0Rv/",
+          "views_displayed": "52.7M"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfUSJCnNrTX/",
+          "views_displayed": "177K"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfUNbrlsv0F/",
+          "views_displayed": "232K"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfR--9BsT0f/",
+          "views_displayed": "98.9K"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfPlqiHMjIS/",
+          "views_displayed": "215K"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfO9q3gsx6l/",
+          "views_displayed": "290K"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfKbcl1sxyO/",
+          "views_displayed": "330K"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfIGUkmMI7l/",
+          "views_displayed": "192K"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfG_s-AsHrk/",
+          "views_displayed": "361K"
+        },
+        {
+          "url": "https://www.instagram.com/sergeysuxov/reel/DfFRxELuwxi/",
+          "views_displayed": "278K"
+        }
+      ]
+    },
+    {
+      "handle": "rationalanswer",
+      "url": "https://www.instagram.com/rationalanswer/reels/",
+      "followers_displayed": "2,484",
+      "language_evidence": "Russian profile description and/or checked reel captions/onscreen text",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/CppJJUxApjh/",
+          "views_displayed": "14K"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/Cpu61O1ANok/",
+          "views_displayed": "14.2K"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/DUsuDHRiAv7/",
+          "views_displayed": "2,849"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/DUilcwiCPP1/",
+          "views_displayed": "4,837"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/C4INqZhqGRG/",
+          "views_displayed": "1,848"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/C4IMy3lqbiY/",
+          "views_displayed": "784"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/C3UwbiLqQH8/",
+          "views_displayed": "2,711"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/C3UwMPbqjWs/",
+          "views_displayed": "926"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/C2hZ6dAKAt6/",
+          "views_displayed": "946"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/C2hYhb5KDw7/",
+          "views_displayed": "649"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/C2cL0NfqAor/",
+          "views_displayed": "811"
+        },
+        {
+          "url": "https://www.instagram.com/rationalanswer/reel/C2cIMdpKBiG/",
+          "views_displayed": "1,211"
+        }
+      ]
+    },
+    {
+      "handle": "belkovich",
+      "url": "https://www.instagram.com/belkovich/reels/",
+      "followers_displayed": "62.3K",
+      "language_evidence": "Russian profile description and/or checked reel captions/onscreen text",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/belkovich/reel/C-Z6vkKtVZG/",
+          "views_displayed": "49.8K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/C3j-4fvN_2W/",
+          "views_displayed": "44.6K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/C7BVklgNiLA/",
+          "views_displayed": "45.9K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/DfWbhapNyId/",
+          "views_displayed": "8,698"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/DfMX2GPtUbT/",
+          "views_displayed": "13.1K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/DfCL4tONS4X/",
+          "views_displayed": "24.2K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/De00GCgNGzk/",
+          "views_displayed": "26.7K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/DerVwJKtU0E/",
+          "views_displayed": "95.2K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/Dei_69ht3fJ/",
+          "views_displayed": "26.1K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/DeYlIqFN6j4/",
+          "views_displayed": "14.7K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/DeRpERjNlSK/",
+          "views_displayed": "110K"
+        },
+        {
+          "url": "https://www.instagram.com/belkovich/reel/DeEsiLQtR4Z/",
+          "views_displayed": "18.2K"
+        }
+      ]
+    },
+    {
+      "handle": "yuliya_small",
+      "url": "https://www.instagram.com/yuliya_small/reels/",
+      "followers_displayed": "632K",
+      "language_evidence": "Russian profile description and/or checked reel captions/onscreen text",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/De2HESCMGjs/",
+          "views_displayed": "275K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DdtivRjsJg0/",
+          "views_displayed": "432K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DciyHPGs8Gk/",
+          "views_displayed": "280K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DfUSnF4sInj/",
+          "views_displayed": "138K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DfNS_a-MX2-/",
+          "views_displayed": "494K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DfFXUPgsdNX/",
+          "views_displayed": "71.9K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DfDGiufMnUf/",
+          "views_displayed": "172K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DfCmTUEsV0X/",
+          "views_displayed": "278K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DeuYmOGsGFg/",
+          "views_displayed": "168K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DerLTStMoWG/",
+          "views_displayed": "197K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DejuOAoMfzw/",
+          "views_displayed": "201K"
+        },
+        {
+          "url": "https://www.instagram.com/yuliya_small/reel/DecQf5dssU9/",
+          "views_displayed": "197K"
+        }
+      ]
+    }
+  ],
+  "reels": [
+    {
+      "code": "DVa9UlcDILR",
+      "handle": "sergeysuxov",
+      "source_grid_url": "https://www.instagram.com/sergeysuxov/reel/DVa9UlcDILR/",
+      "url": "https://www.instagram.com/sergeysuxov/reel/DVa9UlcDILR/",
+      "views_displayed": "20.1M",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-03-03T14:55:49+03:00",
+      "duration_seconds": 12.653469,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "code": "C8mTCCaM0Rv",
+      "handle": "sergeysuxov",
+      "source_grid_url": "https://www.instagram.com/sergeysuxov/reel/C8mTCCaM0Rv/",
+      "url": "https://www.instagram.com/sergeysuxov/reel/C8mTCCaM0Rv/",
+      "views_displayed": "52.7M",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2024-06-24T15:28:53+03:00",
+      "duration_seconds": 23.333197,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "code": "DfUSJCnNrTX",
+      "handle": "sergeysuxov",
+      "source_grid_url": "https://www.instagram.com/sergeysuxov/reel/DfUSJCnNrTX/",
+      "url": "https://www.instagram.com/mmmargaaret/reel/DfUSJCnNrTX/",
+      "views_displayed": "177K",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-11-04T13:51:49+03:00"
+    },
+    {
+      "code": "CppJJUxApjh",
+      "handle": "rationalanswer",
+      "source_grid_url": "https://www.instagram.com/rationalanswer/reel/CppJJUxApjh/",
+      "url": "https://www.instagram.com/rationalanswer/reel/CppJJUxApjh/",
+      "views_displayed": "14K",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2023-03-11T12:03:52+03:00"
+    },
+    {
+      "code": "DUsuDHRiAv7",
+      "handle": "rationalanswer",
+      "source_grid_url": "https://www.instagram.com/rationalanswer/reel/DUsuDHRiAv7/",
+      "url": "https://www.instagram.com/mustreader/reel/DUsuDHRiAv7/",
+      "views_displayed": "2,849",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-02-13T15:53:34+03:00"
+    },
+    {
+      "code": "DUilcwiCPP1",
+      "handle": "rationalanswer",
+      "source_grid_url": "https://www.instagram.com/rationalanswer/reel/DUilcwiCPP1/",
+      "url": "https://www.instagram.com/mustreader/reel/DUilcwiCPP1/",
+      "views_displayed": "4,837",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-02-09T17:24:51+03:00"
+    },
+    {
+      "code": "C-Z6vkKtVZG",
+      "handle": "belkovich",
+      "source_grid_url": "https://www.instagram.com/belkovich/reel/C-Z6vkKtVZG/",
+      "url": "https://www.instagram.com/belkovich/reel/C-Z6vkKtVZG/",
+      "views_displayed": "49.8K",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2024-08-08T13:07:55+03:00"
+    },
+    {
+      "code": "DfWbhapNyId",
+      "handle": "belkovich",
+      "source_grid_url": "https://www.instagram.com/belkovich/reel/DfWbhapNyId/",
+      "url": "https://www.instagram.com/belkovich/reel/DfWbhapNyId/",
+      "views_displayed": "8,698",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-11-05T09:54:01+03:00",
+      "duration_seconds": 110.988526,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "code": "DfCL4tONS4X",
+      "handle": "belkovich",
+      "source_grid_url": "https://www.instagram.com/belkovich/reel/DfCL4tONS4X/",
+      "url": "https://www.instagram.com/belkovich/reel/DfCL4tONS4X/",
+      "views_displayed": "24.2K",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-10-28T13:11:41+03:00"
+    },
+    {
+      "code": "C4INqZhqGRG",
+      "handle": "rationalanswer",
+      "source_grid_url": "https://www.instagram.com/rationalanswer/reel/C4INqZhqGRG/",
+      "url": "https://www.instagram.com/rationalanswer/reel/C4INqZhqGRG/",
+      "views_displayed": "1,848",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2024-03-05T12:57:52+03:00",
+      "duration_seconds": 27.689375,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "code": "C4IMy3lqbiY",
+      "handle": "rationalanswer",
+      "source_grid_url": "https://www.instagram.com/rationalanswer/reel/C4IMy3lqbiY/",
+      "url": "https://www.instagram.com/rationalanswer/reel/C4IMy3lqbiY/",
+      "views_displayed": "784",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2024-03-05T12:51:07+03:00"
+    },
+    {
+      "code": "C3UwbiLqQH8",
+      "handle": "rationalanswer",
+      "source_grid_url": "https://www.instagram.com/rationalanswer/reel/C3UwbiLqQH8/",
+      "url": "https://www.instagram.com/rationalanswer/reel/C3UwbiLqQH8/",
+      "views_displayed": "2,711",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2024-02-14T13:22:19+03:00"
+    },
+    {
+      "code": "C3UwMPbqjWs",
+      "handle": "rationalanswer",
+      "source_grid_url": "https://www.instagram.com/rationalanswer/reel/C3UwMPbqjWs/",
+      "url": "https://www.instagram.com/rationalanswer/reel/C3UwMPbqjWs/",
+      "views_displayed": "926",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2024-02-14T13:19:38+03:00",
+      "duration_seconds": 35.710708,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "code": "De2HESCMGjs",
+      "handle": "yuliya_small",
+      "source_grid_url": "https://www.instagram.com/yuliya_small/reel/De2HESCMGjs/",
+      "url": "https://www.instagram.com/yuliya_small/reel/De2HESCMGjs/",
+      "views_displayed": "275K",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-10-23T20:40:07+03:00"
+    },
+    {
+      "code": "DfUSnF4sInj",
+      "handle": "yuliya_small",
+      "source_grid_url": "https://www.instagram.com/yuliya_small/reel/DfUSnF4sInj/",
+      "url": "https://www.instagram.com/yuliya_small/reel/DfUSnF4sInj/",
+      "views_displayed": "138K",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-11-04T13:56:39+03:00",
+      "duration_seconds": 89.577375,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "code": "DfNS_a-MX2-",
+      "handle": "yuliya_small",
+      "source_grid_url": "https://www.instagram.com/yuliya_small/reel/DfNS_a-MX2-/",
+      "url": "https://www.instagram.com/yuliya_small/reel/DfNS_a-MX2-/",
+      "views_displayed": "494K",
+      "metadata_matches_media_code": true,
+      "method": "public page and caption checked",
+      "published_at_moscow": "2026-11-01T20:52:32+03:00"
+    }
+  ],
+  "native_discovery_attempts": [
+    {
+      "requested_url": "https://www.instagram.com/explore/tags/%D1%84%D0%BE%D1%82%D0%BE%D0%BB%D0%B0%D0%B9%D1%84%D1%85%D0%B0%D0%BA%D0%B8/",
+      "outcome": "public page did not provide accessible search results"
+    },
+    {
+      "requested_url": "https://www.instagram.com/explore/search/keyword/?q=%D0%B1%D1%8D%D0%BA%D1%81%D1%82%D0%B5%D0%B9%D0%B4%D0%B6%20%D1%84%D0%BE%D1%82%D0%BE",
+      "outcome": "public page did not provide accessible search results"
+    },
+    {
+      "requested_url": "https://www.instagram.com/explore/search/keyword/?q=%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B%20ChatGPT",
+      "outcome": "public page did not provide accessible search results"
+    }
+  ],
+  "verdicts": {
+    "visual_recipe": "local baseline present; no novelty advantage established",
+    "generic_finance_explainer": "local baseline present",
+    "specific_ai_finance_verification": "inconclusive; further targeted review needed",
+    "photo_process_to_result": "inconclusive; reviewed visual-blog examples not exact matches"
+  },
+  "ready_novelty_winners": 0
+}
