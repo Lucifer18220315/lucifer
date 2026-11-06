@@ -1,0 +1,2038 @@
+{
+  "checked_on": "2026-11-06",
+  "timezone": "Europe/Moscow",
+  "platform": "Instagram",
+  "criterion_user": "Искать узкие повторяемые зарубежные серии с хотя бы 100000 просмотров на каждом проверенном выпуске",
+  "sampling_assistant": "Проверять несколько выпусков одной механики; в этом проходе 5–7. Это операционное правило помощника, а не обещание устойчивого результата",
+  "limits": [
+    "Публичные округлённые просмотры, не уникальный охват и не внутренняя аналитика",
+    "Первые 12 карточек могут включать закреплённые; не вся история и не последние 12 публикаций",
+    "У 15 видео проверены четыре выборочных кадра; полного просмотра и оценки звука нет",
+    "Органическое происхождение просмотров, удержание и конверсия в подписку не установлены",
+    "Локальная редкость этих конкретных серий не проверена; большие просмотры автора не прогноз для нового аккаунта"
+  ],
+  "coverage": {
+    "profile_addresses_attempted": 18,
+    "profiles_with_grids": 12,
+    "grid_cards_checked": 144,
+    "reel_pages_checked": 59,
+    "videos_sampled_visually": 15,
+    "main_series_candidates": 1,
+    "reserve_groupings": 2
+  },
+  "profiles": [
+    {
+      "handle": "bayashi_tv",
+      "url": "https://www.instagram.com/bayashi_tv/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "5.9M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/DUJ8KeIkq5j/",
+          "code": "DUJ8KeIkq5j",
+          "views_displayed": "33.3M",
+          "views_approximate": 33300000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/DTVJAkhlpHO/",
+          "code": "DTVJAkhlpHO",
+          "views_displayed": "159M",
+          "views_approximate": 159000000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/DfY-tPMBTrX/",
+          "code": "DfY-tPMBTrX",
+          "views_displayed": "656K",
+          "views_approximate": 656000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/DfWwbyZJkvN/",
+          "code": "DfWwbyZJkvN",
+          "views_displayed": "568K",
+          "views_approximate": 568000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/DfT5T-UuFYf/",
+          "code": "DfT5T-UuFYf",
+          "views_displayed": "2.7M",
+          "views_approximate": 2700000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/DfRTDndvznB/",
+          "code": "DfRTDndvznB",
+          "views_displayed": "2.4M",
+          "views_approximate": 2400000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/DfHHd0SukzG/",
+          "code": "DfHHd0SukzG",
+          "views_displayed": "931K",
+          "views_approximate": 931000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/DfEi9rbOOSB/",
+          "code": "DfEi9rbOOSB",
+          "views_displayed": "894K",
+          "views_approximate": 894000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/De1SyOkhigj/",
+          "code": "De1SyOkhigj",
+          "views_displayed": "4.5M",
+          "views_approximate": 4500000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/Deyv5wOhpLY/",
+          "code": "Deyv5wOhpLY",
+          "views_displayed": "4.4M",
+          "views_approximate": 4400000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/Dev-uKqus6k/",
+          "code": "Dev-uKqus6k",
+          "views_displayed": "4.2M",
+          "views_approximate": 4200000
+        },
+        {
+          "url": "https://www.instagram.com/bayashi_tv/reel/Deqn8fiuO9x/",
+          "code": "Deqn8fiuO9x",
+          "views_displayed": "865K",
+          "views_approximate": 865000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 12,
+      "minimum_approximate": 568000,
+      "median_approximate": 2550000.0,
+      "outcome": "Порог просмотров пройден; пять проверенных тем не подтверждают одну узкую серию"
+    },
+    {
+      "handle": "andy_cooks",
+      "url": "https://www.instagram.com/andy_cooks/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Нерелевантный одноимённый аккаунт; найден правильный Andy Cooks: andyhearnden"
+    },
+    {
+      "handle": "cookingwithbello",
+      "url": "https://www.instagram.com/cookingwithbello/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "1.5M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/C7uHc2mo1sH/",
+          "code": "C7uHc2mo1sH",
+          "views_displayed": "627K",
+          "views_approximate": 627000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/DfSbjods2l5/",
+          "code": "DfSbjods2l5",
+          "views_displayed": "330K",
+          "views_approximate": 330000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/De9yaFnMqn1/",
+          "code": "De9yaFnMqn1",
+          "views_displayed": "579K",
+          "views_approximate": 579000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/De4lYVXMd22/",
+          "code": "De4lYVXMd22",
+          "views_displayed": "250K",
+          "views_approximate": 250000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/DeuP3sJsYge/",
+          "code": "DeuP3sJsYge",
+          "views_displayed": "489K",
+          "views_approximate": 489000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/Dej9sZ8srZK/",
+          "code": "Dej9sZ8srZK",
+          "views_displayed": "286K",
+          "views_approximate": 286000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/Dee1agZsIOW/",
+          "code": "Dee1agZsIOW",
+          "views_displayed": "483K",
+          "views_approximate": 483000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/DeR7WTYMagF/",
+          "code": "DeR7WTYMagF",
+          "views_displayed": "216K",
+          "views_approximate": 216000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/Dd64YbYsKfe/",
+          "code": "Dd64YbYsKfe",
+          "views_displayed": "133K",
+          "views_approximate": 133000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/DdrFtnssXKV/",
+          "code": "DdrFtnssXKV",
+          "views_displayed": "1.3M",
+          "views_approximate": 1300000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/Ddol8OCMiFZ/",
+          "code": "Ddol8OCMiFZ",
+          "views_displayed": "240K",
+          "views_approximate": 240000
+        },
+        {
+          "url": "https://www.instagram.com/cookingwithbello/reel/DdbzEgMwwdp/",
+          "code": "DdbzEgMwwdp",
+          "views_displayed": "631K",
+          "views_approximate": 631000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 12,
+      "minimum_approximate": 133000,
+      "median_approximate": 406500.0,
+      "outcome": "Порог просмотров пройден; у названной тыквенной серии подтверждён только Episode 1"
+    },
+    {
+      "handle": "spicymoustache",
+      "url": "https://www.instagram.com/spicymoustache/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "6.5M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DfSQ4NoRdaK/",
+          "code": "DfSQ4NoRdaK",
+          "views_displayed": "1.8M",
+          "views_approximate": 1800000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DfH9uxkO9hf/",
+          "code": "DfH9uxkO9hf",
+          "views_displayed": "1.7M",
+          "views_approximate": 1700000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DfAPD8iOibB/",
+          "code": "DfAPD8iOibB",
+          "views_displayed": "3.5M",
+          "views_approximate": 3500000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/De11CjwRndd/",
+          "code": "De11CjwRndd",
+          "views_displayed": "3.3M",
+          "views_approximate": 3300000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DeuG8zRuD13/",
+          "code": "DeuG8zRuD13",
+          "views_displayed": "3.9M",
+          "views_approximate": 3900000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DejzmjNue2s/",
+          "code": "DejzmjNue2s",
+          "views_displayed": "3.7M",
+          "views_approximate": 3700000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DecFWMFOOje/",
+          "code": "DecFWMFOOje",
+          "views_displayed": "1.5M",
+          "views_approximate": 1500000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DeRyjrLOcB3/",
+          "code": "DeRyjrLOcB3",
+          "views_displayed": "2.9M",
+          "views_approximate": 2900000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DeKDhG3ohNm/",
+          "code": "DeKDhG3ohNm",
+          "views_displayed": "1.6M",
+          "views_approximate": 1600000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/Dd4CmUfoTQQ/",
+          "code": "Dd4CmUfoTQQ",
+          "views_displayed": "2.9M",
+          "views_approximate": 2900000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/Ddtu4JauQrw/",
+          "code": "Ddtu4JauQrw",
+          "views_displayed": "4.7M",
+          "views_approximate": 4700000
+        },
+        {
+          "url": "https://www.instagram.com/spicymoustache/reel/DdmA_ekOFCN/",
+          "code": "DdmA_ekOFCN",
+          "views_displayed": "1.9M",
+          "views_approximate": 1900000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 12,
+      "minimum_approximate": 1500000,
+      "median_approximate": 2900000.0,
+      "outcome": "S1: узкая авторская серия Zero Waste, семь выпусков"
+    },
+    {
+      "handle": "financewithsharan",
+      "url": "https://www.instagram.com/financewithsharan/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "2.9M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DSaISRIjFfU/",
+          "code": "DSaISRIjFfU",
+          "views_displayed": "6.6M",
+          "views_approximate": 6600000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/CqnlnyUouPe/",
+          "code": "CqnlnyUouPe",
+          "views_displayed": "1.1M",
+          "views_approximate": 1100000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/C5tCZQ9pC1G/",
+          "code": "C5tCZQ9pC1G",
+          "views_displayed": "8.4M",
+          "views_approximate": 8400000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfXX33Ms5ia/",
+          "code": "DfXX33Ms5ia",
+          "views_displayed": "257K",
+          "views_approximate": 257000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfUtyors6zS/",
+          "code": "DfUtyors6zS",
+          "views_displayed": "425K",
+          "views_approximate": 425000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfRJGRts4wr/",
+          "code": "DfRJGRts4wr",
+          "views_displayed": "133K",
+          "views_approximate": 133000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfPP1HtsIrf/",
+          "code": "DfPP1HtsIrf",
+          "views_displayed": "10.4M",
+          "views_approximate": 10400000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfM8BHQs4Vc/",
+          "code": "DfM8BHQs4Vc",
+          "views_displayed": "110K",
+          "views_approximate": 110000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfKNGkVM0zr/",
+          "code": "DfKNGkVM0zr",
+          "views_displayed": "179K",
+          "views_approximate": 179000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfJisrFMXiZ/",
+          "code": "DfJisrFMXiZ",
+          "views_displayed": "228K",
+          "views_approximate": 228000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfHqbpyMDSG/",
+          "code": "DfHqbpyMDSG",
+          "views_displayed": "127K",
+          "views_approximate": 127000
+        },
+        {
+          "url": "https://www.instagram.com/financewithsharan/reel/DfFA032M64N/",
+          "code": "DfFA032M64N",
+          "views_displayed": "2.6M",
+          "views_approximate": 2600000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 12,
+      "minimum_approximate": 110000,
+      "median_approximate": 341000.0,
+      "outcome": "Порог просмотров пройден; проверены новости, интервью и реклама, одной узкой серии из пяти нет"
+    },
+    {
+      "handle": "milansinghhh",
+      "url": "https://www.instagram.com/milansinghhh/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "1.7M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/C9kU0uoo3cE/",
+          "code": "C9kU0uoo3cE",
+          "views_displayed": "699K",
+          "views_approximate": 699000
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/C201ewZPMh6/",
+          "code": "C201ewZPMh6",
+          "views_displayed": "275K",
+          "views_approximate": 275000
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/DfXgLuxO-lx/",
+          "code": "DfXgLuxO-lx",
+          "views_displayed": "16.4K",
+          "views_approximate": 16400
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/DfSg9ZMueYX/",
+          "code": "DfSg9ZMueYX",
+          "views_displayed": "93K",
+          "views_approximate": 93000
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/DfIENE7OrAV/",
+          "code": "DfIENE7OrAV",
+          "views_displayed": "16.2K",
+          "views_approximate": 16200
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/DfDCo7uOfEA/",
+          "code": "DfDCo7uOfEA",
+          "views_displayed": "68.9K",
+          "views_approximate": 68900
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/De-CCqATZH0/",
+          "code": "De-CCqATZH0",
+          "views_displayed": "93.9K",
+          "views_approximate": 93900
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/De2KglgT3Oe/",
+          "code": "De2KglgT3Oe",
+          "views_displayed": "230K",
+          "views_approximate": 230000
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/DezZVLsODcR/",
+          "code": "DezZVLsODcR",
+          "views_displayed": "34.7K",
+          "views_approximate": 34700
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/DeufwALOgvg/",
+          "code": "DeufwALOgvg",
+          "views_displayed": "104K",
+          "views_approximate": 104000
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/Dbvks8qT8Lh/",
+          "code": "Dbvks8qT8Lh",
+          "views_displayed": "95.4K",
+          "views_approximate": 95400
+        },
+        {
+          "url": "https://www.instagram.com/milansinghhh/reel/DbtAVLnzgXm/",
+          "code": "DbtAVLnzgXm",
+          "views_displayed": "48.1K",
+          "views_approximate": 48100
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 4,
+      "minimum_approximate": 16200,
+      "median_approximate": 93450.0,
+      "outcome": "Есть карточки ниже 100 тысяч"
+    },
+    {
+      "handle": "enricenrich",
+      "url": "https://www.instagram.com/enricenrich/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Профиль закрыт; содержание не исследовалось"
+    },
+    {
+      "handle": "kevinbparry",
+      "url": "https://www.instagram.com/kevinbparry/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "1.9M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DEpkUtVR9zE/",
+          "code": "DEpkUtVR9zE",
+          "views_displayed": "13.4M",
+          "views_approximate": 13400000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/CqBVPaPtaaI/",
+          "code": "CqBVPaPtaaI",
+          "views_displayed": "54.8M",
+          "views_approximate": 54800000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/CRRpmU7jJiz/",
+          "code": "CRRpmU7jJiz",
+          "views_displayed": "8.9M",
+          "views_approximate": 8900000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DfKqIfmRsBs/",
+          "code": "DfKqIfmRsBs",
+          "views_displayed": "203K",
+          "views_approximate": 203000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DekAjHKRu24/",
+          "code": "DekAjHKRu24",
+          "views_displayed": "59.1K",
+          "views_approximate": 59100
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DeH_CZJq3IR/",
+          "code": "DeH_CZJq3IR",
+          "views_displayed": "406K",
+          "views_approximate": 406000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DeH8WtzKjJ3/",
+          "code": "DeH8WtzKjJ3",
+          "views_displayed": "2M",
+          "views_approximate": 2000000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/Dd7Ow-_KzxN/",
+          "code": "Dd7Ow-_KzxN",
+          "views_displayed": "348K",
+          "views_approximate": 348000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DdrRHkmxgFW/",
+          "code": "DdrRHkmxgFW",
+          "views_displayed": "76.8K",
+          "views_approximate": 76800
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/Ddl5sb3RArQ/",
+          "code": "Ddl5sb3RArQ",
+          "views_displayed": "127K",
+          "views_approximate": 127000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DctRtynxk94/",
+          "code": "DctRtynxk94",
+          "views_displayed": "109K",
+          "views_approximate": 109000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DawBUibRMDY/",
+          "code": "DawBUibRMDY",
+          "views_displayed": "233K",
+          "views_approximate": 233000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 10,
+      "minimum_approximate": 59100,
+      "median_approximate": 290500.0,
+      "outcome": "Есть карточки ниже 100 тысяч; трудоёмкое визуальное производство"
+    },
+    {
+      "handle": "leomoves",
+      "url": "https://www.instagram.com/leomoves/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Нерелевантный одноимённый аккаунт; найден правильный LeoMoves: leo.moves"
+    },
+    {
+      "handle": "malwang_main",
+      "url": "https://www.instagram.com/malwang_main/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Публичный профиль недоступен при проверке"
+    },
+    {
+      "handle": "humphreytalks",
+      "url": "https://www.instagram.com/humphreytalks/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "908K",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DfXYMPBB_7g/",
+          "code": "DfXYMPBB_7g",
+          "views_displayed": "11.9K",
+          "views_approximate": 11900
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DfVQstWBxSp/",
+          "code": "DfVQstWBxSp",
+          "views_displayed": "53.4K",
+          "views_approximate": 53400
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DfQIb8gyod1/",
+          "code": "DfQIb8gyod1",
+          "views_displayed": "138K",
+          "views_approximate": 138000
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DfIMErlv3I2/",
+          "code": "DfIMErlv3I2",
+          "views_displayed": "57.4K",
+          "views_approximate": 57400
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DfDAS15Mtha/",
+          "code": "DfDAS15Mtha",
+          "views_displayed": "46.6K",
+          "views_approximate": 46600
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/De9_wrAB90p/",
+          "code": "De9_wrAB90p",
+          "views_displayed": "74.1K",
+          "views_approximate": 74100
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/De2JgdNh8pd/",
+          "code": "De2JgdNh8pd",
+          "views_displayed": "79K",
+          "views_approximate": 79000
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DexCoC2BHA3/",
+          "code": "DexCoC2BHA3",
+          "views_displayed": "121K",
+          "views_approximate": 121000
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/Der6tkRON83/",
+          "code": "Der6tkRON83",
+          "views_displayed": "60K",
+          "views_approximate": 60000
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DekbEYTylcr/",
+          "code": "DekbEYTylcr",
+          "views_displayed": "143K",
+          "views_approximate": 143000
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DefC6jdp-ow/",
+          "code": "DefC6jdp-ow",
+          "views_displayed": "186K",
+          "views_approximate": 186000
+        },
+        {
+          "url": "https://www.instagram.com/humphreytalks/reel/DecKpwXhFTF/",
+          "code": "DecKpwXhFTF",
+          "views_displayed": "116K",
+          "views_approximate": 116000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 5,
+      "minimum_approximate": 11900,
+      "median_approximate": 76550.0,
+      "outcome": "Есть карточки ниже 100 тысяч"
+    },
+    {
+      "handle": "rileybrown.ai",
+      "url": "https://www.instagram.com/rileybrown.ai/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Публичный профиль недоступен при проверке"
+    },
+    {
+      "handle": "leo.moves",
+      "url": "https://www.instagram.com/leo.moves/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "3.4M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/C43WjsQtYGS/",
+          "code": "C43WjsQtYGS",
+          "views_displayed": "3.1M",
+          "views_approximate": 3100000
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/C3QXI8yNFP-/",
+          "code": "C3QXI8yNFP-",
+          "views_displayed": "6.7M",
+          "views_approximate": 6700000
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfXhIKJNfGh/",
+          "code": "DfXhIKJNfGh",
+          "views_displayed": "84.8K",
+          "views_approximate": 84800
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfXKH-BNnJi/",
+          "code": "DfXKH-BNnJi",
+          "views_displayed": "6,295",
+          "views_approximate": 6295
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfVAXBzNAZ9/",
+          "code": "DfVAXBzNAZ9",
+          "views_displayed": "37.5K",
+          "views_approximate": 37500
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfUbuNctime/",
+          "code": "DfUbuNctime",
+          "views_displayed": "3,338",
+          "views_approximate": 3338
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfSh3eOJ0Pq/",
+          "code": "DfSh3eOJ0Pq",
+          "views_displayed": "169K",
+          "views_approximate": 169000
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/De1rpvstrcX/",
+          "code": "De1rpvstrcX",
+          "views_displayed": "1.2M",
+          "views_approximate": 1200000
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfRW-MFNRUL/",
+          "code": "DfRW-MFNRUL",
+          "views_displayed": "6,800",
+          "views_approximate": 6800
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfP8lhrJ4aV/",
+          "code": "DfP8lhrJ4aV",
+          "views_displayed": "86.8K",
+          "views_approximate": 86800
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfOwRNktCiu/",
+          "code": "DfOwRNktCiu",
+          "views_displayed": "6,153",
+          "views_approximate": 6153
+        },
+        {
+          "url": "https://www.instagram.com/leo.moves/reel/DfLnkLbJ59U/",
+          "code": "DfLnkLbJ59U",
+          "views_displayed": "8,122",
+          "views_approximate": 8122
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 4,
+      "minimum_approximate": 3338,
+      "median_approximate": 61150.0,
+      "outcome": "Есть карточки ниже 100 тысяч, включая много слабых новых публикаций"
+    },
+    {
+      "handle": "andyhearnden",
+      "url": "https://www.instagram.com/andyhearnden/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "4.7M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfWb2tuPjeP/",
+          "code": "DfWb2tuPjeP",
+          "views_displayed": "620K",
+          "views_approximate": 620000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfUMSgKzSkV/",
+          "code": "DfUMSgKzSkV",
+          "views_displayed": "649K",
+          "views_approximate": 649000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfSf4CiiVYA/",
+          "code": "DfSf4CiiVYA",
+          "views_displayed": "286K",
+          "views_approximate": 286000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfROEokvlzC/",
+          "code": "DfROEokvlzC",
+          "views_displayed": "593K",
+          "views_approximate": 593000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfO1w9dv7c8/",
+          "code": "DfO1w9dv7c8",
+          "views_displayed": "665K",
+          "views_approximate": 665000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfMYRajzbuZ/",
+          "code": "DfMYRajzbuZ",
+          "views_displayed": "878K",
+          "views_approximate": 878000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfJVSdcvpsL/",
+          "code": "DfJVSdcvpsL",
+          "views_displayed": "588K",
+          "views_approximate": 588000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfGJIUazb0u/",
+          "code": "DfGJIUazb0u",
+          "views_displayed": "397K",
+          "views_approximate": 397000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/DfB6ukMvsEy/",
+          "code": "DfB6ukMvsEy",
+          "views_displayed": "2.2M",
+          "views_approximate": 2200000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/De_l-2fzvMc/",
+          "code": "De_l-2fzvMc",
+          "views_displayed": "264K",
+          "views_approximate": 264000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/De3g-2LvMTy/",
+          "code": "De3g-2LvMTy",
+          "views_displayed": "2.1M",
+          "views_approximate": 2100000
+        },
+        {
+          "url": "https://www.instagram.com/andyhearnden/reel/De1RYWwPFwj/",
+          "code": "De1RYWwPFwj",
+          "views_displayed": "1M",
+          "views_approximate": 1000000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 12,
+      "minimum_approximate": 264000,
+      "median_approximate": 634500.0,
+      "outcome": "S2: резерв; пять тематических объяснений, более широкая группировка"
+    },
+    {
+      "handle": "daniel.schiffer",
+      "url": "https://www.instagram.com/daniel.schiffer/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "513K",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/C4OdEuwRowt/",
+          "code": "C4OdEuwRowt",
+          "views_displayed": "2.4M",
+          "views_approximate": 2400000
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/Cx-xe8rLXEp/",
+          "code": "Cx-xe8rLXEp",
+          "views_displayed": "1.2M",
+          "views_approximate": 1200000
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/CzJuPfAxHYZ/",
+          "code": "CzJuPfAxHYZ",
+          "views_displayed": "540K",
+          "views_approximate": 540000
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/Dd7Afo3yPsY/",
+          "code": "Dd7Afo3yPsY",
+          "views_displayed": "50.4K",
+          "views_approximate": 50400
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/DdrJT2FxNEr/",
+          "code": "DdrJT2FxNEr",
+          "views_displayed": "228K",
+          "views_approximate": 228000
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/DdescaVpd1v/",
+          "code": "DdescaVpd1v",
+          "views_displayed": "1M",
+          "views_approximate": 1000000
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/DctdUDNRjwS/",
+          "code": "DctdUDNRjwS",
+          "views_displayed": "37.5K",
+          "views_approximate": 37500
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/DcgVYeYxdVD/",
+          "code": "DcgVYeYxdVD",
+          "views_displayed": "114K",
+          "views_approximate": 114000
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/DcTRlFuxSLt/",
+          "code": "DcTRlFuxSLt",
+          "views_displayed": "63.7K",
+          "views_approximate": 63700
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/DbqgPD9xW1K/",
+          "code": "DbqgPD9xW1K",
+          "views_displayed": "83.5K",
+          "views_approximate": 83500
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/DbgLOmTR462/",
+          "code": "DbgLOmTR462",
+          "views_displayed": "47.4K",
+          "views_approximate": 47400
+        },
+        {
+          "url": "https://www.instagram.com/daniel.schiffer/reel/Dba4QgERqPK/",
+          "code": "Dba4QgERqPK",
+          "views_displayed": "63.3K",
+          "views_approximate": 63300
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 6,
+      "minimum_approximate": 37500,
+      "median_approximate": 98750.0,
+      "outcome": "Есть карточки ниже 100 тысяч"
+    },
+    {
+      "handle": "rileybrownai",
+      "url": "https://www.instagram.com/rileybrownai/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Публичный профиль недоступен при проверке"
+    },
+    {
+      "handle": "albert_cancook",
+      "url": "https://www.instagram.com/albert_cancook/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "3.4M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/DfXynSphlTd/",
+          "code": "DfXynSphlTd",
+          "views_displayed": "54.1K",
+          "views_approximate": 54100
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/DfSJU8pu9l_/",
+          "code": "DfSJU8pu9l_",
+          "views_displayed": "600K",
+          "views_approximate": 600000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/DfM-4HNu_AC/",
+          "code": "DfM-4HNu_AC",
+          "views_displayed": "740K",
+          "views_approximate": 740000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/DfGcEHNtGaQ/",
+          "code": "DfGcEHNtGaQ",
+          "views_displayed": "120K",
+          "views_approximate": 120000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/De6w4rmRtq9/",
+          "code": "De6w4rmRtq9",
+          "views_displayed": "661K",
+          "views_approximate": 661000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/De4Z5aoh6m5/",
+          "code": "De4Z5aoh6m5",
+          "views_displayed": "1M",
+          "views_approximate": 1000000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/Dezzg8PhgD4/",
+          "code": "Dezzg8PhgD4",
+          "views_displayed": "4.4M",
+          "views_approximate": 4400000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/DewrfxdOIQf/",
+          "code": "DewrfxdOIQf",
+          "views_displayed": "563K",
+          "views_approximate": 563000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/Derh5hfOL0A/",
+          "code": "Derh5hfOL0A",
+          "views_displayed": "355K",
+          "views_approximate": 355000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/Dejt9IgOKLE/",
+          "code": "Dejt9IgOKLE",
+          "views_displayed": "3.1M",
+          "views_approximate": 3100000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/DeenFSLuDt7/",
+          "code": "DeenFSLuDt7",
+          "views_displayed": "603K",
+          "views_approximate": 603000
+        },
+        {
+          "url": "https://www.instagram.com/albert_cancook/reel/DeW0fQiOMgi/",
+          "code": "DeW0fQiOMgi",
+          "views_displayed": "3.2M",
+          "views_approximate": 3200000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 11,
+      "minimum_approximate": 54100,
+      "median_approximate": 632000.0,
+      "outcome": "Одна новая карточка ниже 100 тысяч; нужен повторный замер. Узкая серия из пяти не подтверждена"
+    },
+    {
+      "handle": "thatlittlepuff",
+      "url": "https://www.instagram.com/thatlittlepuff/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "2.5M",
+      "sampling": "Первые 12 доступных карточек сетки Reels; закреплённые не исключены; не хронологическая выборка",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DenoxWENsJp/",
+          "code": "DenoxWENsJp",
+          "views_displayed": "750K",
+          "views_approximate": 750000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DeViD0htrvF/",
+          "code": "DeViD0htrvF",
+          "views_displayed": "353K",
+          "views_approximate": 353000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/Dd5bVtUM6dV/",
+          "code": "Dd5bVtUM6dV",
+          "views_displayed": "174K",
+          "views_approximate": 174000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/Ddxn7f6BMPL/",
+          "code": "Ddxn7f6BMPL",
+          "views_displayed": "648K",
+          "views_approximate": 648000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DdsWCm3NvVq/",
+          "code": "DdsWCm3NvVq",
+          "views_displayed": "542K",
+          "views_approximate": 542000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DdksZuoRZik/",
+          "code": "DdksZuoRZik",
+          "views_displayed": "5.1M",
+          "views_approximate": 5100000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DdiA6iIt88O/",
+          "code": "DdiA6iIt88O",
+          "views_displayed": "135K",
+          "views_approximate": 135000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DdXy4naNKKg/",
+          "code": "DdXy4naNKKg",
+          "views_displayed": "380K",
+          "views_approximate": 380000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DdSnn6sNUQX/",
+          "code": "DdSnn6sNUQX",
+          "views_displayed": "209K",
+          "views_approximate": 209000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DdIThJ6tA_O/",
+          "code": "DdIThJ6tA_O",
+          "views_displayed": "178K",
+          "views_approximate": 178000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/DdAsnRtNOWW/",
+          "code": "DdAsnRtNOWW",
+          "views_displayed": "190K",
+          "views_approximate": 190000
+        },
+        {
+          "url": "https://www.instagram.com/thatlittlepuff/reel/Dc42hGxNrXP/",
+          "code": "Dc42hGxNrXP",
+          "views_displayed": "308K",
+          "views_approximate": 308000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 12,
+      "minimum_approximate": 135000,
+      "median_approximate": 330500.0,
+      "outcome": "S3: резерв; пять тестов с персонажем, более широкая группировка"
+    }
+  ],
+  "series": [
+    {
+      "id": "S1",
+      "handle": "spicymoustache",
+      "name": "Zero Waste: один продукт, несколько применений",
+      "naming": "Авторское название Zero waste в подписях всех семи выпусков",
+      "assessment": "Основной кандидат: различимая узкая серия; локальная редкость не проверена",
+      "codes": [
+        "DfSQ4NoRdaK",
+        "DecFWMFOOje",
+        "DeRyjrLOcB3",
+        "DeKDhG3ohNm",
+        "Dd4CmUfoTQQ",
+        "Ddtu4JauQrw",
+        "DdmA_ekOFCN"
+      ],
+      "labels": [
+        "Проростки",
+        "Апельсин",
+        "Яблоко",
+        "Тыква",
+        "Миндаль",
+        "Кофе",
+        "Салат"
+      ],
+      "episodes_checked": 7,
+      "episodes_at_least_100k": 7,
+      "minimum_approximate": 1500000,
+      "median_approximate": 1900000,
+      "maximum_approximate": 4700000,
+      "videos_sampled_visually": 5
+    },
+    {
+      "id": "S2",
+      "handle": "andyhearnden",
+      "name": "Один кухонный вопрос или приём за выпуск",
+      "naming": "Аналитическая группировка помощника, не название передачи автора",
+      "assessment": "Резерв: просмотры проходят; механика шире требования к узкой серии",
+      "codes": [
+        "DfUMSgKzSkV",
+        "DfO1w9dv7c8",
+        "DfMYRajzbuZ",
+        "De_l-2fzvMc",
+        "De1RYWwPFwj"
+      ],
+      "labels": [
+        "Как готовить бекон",
+        "Когда нужна холодная сковорода",
+        "Сахар в томатном соусе",
+        "Роль свежей зелени",
+        "Способы приготовления скрэмбла"
+      ],
+      "episodes_checked": 5,
+      "episodes_at_least_100k": 5,
+      "minimum_approximate": 264000,
+      "median_approximate": 665000,
+      "maximum_approximate": 1000000,
+      "videos_sampled_visually": 5
+    },
+    {
+      "id": "S3",
+      "handle": "thatlittlepuff",
+      "name": "Короткий бытовой или кухонный тест с постоянным персонажем",
+      "naming": "Аналитическая группировка помощника, не название передачи автора",
+      "assessment": "Резерв: просмотры проходят; разные типы тестов и зависимость от персонажа",
+      "codes": [
+        "DenoxWENsJp",
+        "DeViD0htrvF",
+        "Dd5bVtUM6dV",
+        "Ddxn7f6BMPL",
+        "DdsWCm3NvVq"
+      ],
+      "labels": [
+        "Best egg — яйцо и кухонный инструмент",
+        "Яйца с разным временем готовки",
+        "Catch me if you can — фигурная лапша",
+        "Coke hack — опыт с колой",
+        "Опыт с бумагой"
+      ],
+      "episodes_checked": 5,
+      "episodes_at_least_100k": 5,
+      "minimum_approximate": 174000,
+      "median_approximate": 542000,
+      "maximum_approximate": 750000,
+      "videos_sampled_visually": 5
+    }
+  ],
+  "reels": [
+    {
+      "handle": "spicymoustache",
+      "code": "DfSQ4NoRdaK",
+      "url": "https://www.instagram.com/spicymoustache/reel/DfSQ4NoRdaK/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-03T19:02:44+03:00",
+      "views_displayed": "1.8M",
+      "views_approximate": 1800000,
+      "caption_excerpt": "Zero waste sprouts 🌱 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S1",
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "DfH9uxkO9hf",
+      "url": "https://www.instagram.com/spicymoustache/reel/DfH9uxkO9hf/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-30T19:02:40+03:00",
+      "views_displayed": "1.7M",
+      "views_approximate": 1700000,
+      "caption_excerpt": "Soap using ashes 🧼 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "DfAPD8iOibB",
+      "url": "https://www.instagram.com/spicymoustache/reel/DfAPD8iOibB/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-27T19:00:28+03:00",
+      "views_displayed": "3.5M",
+      "views_approximate": 3500000,
+      "caption_excerpt": "A little glimpse into my daily routine! Powered by a lot of sprouts 😂",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "De11CjwRndd",
+      "url": "https://www.instagram.com/spicymoustache/reel/De11CjwRndd/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-23T18:00:40+03:00",
+      "views_displayed": "3.3M",
+      "views_approximate": 3300000,
+      "caption_excerpt": "Seamoss gummies 🍬",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "DeuG8zRuD13",
+      "url": "https://www.instagram.com/spicymoustache/reel/DeuG8zRuD13/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-20T18:03:34+03:00",
+      "views_displayed": "3.9M",
+      "views_approximate": 3900000,
+      "caption_excerpt": "Homemade Korean kimchi 🌶️ 🥬 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "DejzmjNue2s",
+      "url": "https://www.instagram.com/spicymoustache/reel/DejzmjNue2s/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-16T18:01:46+03:00",
+      "views_displayed": "3.7M",
+      "views_approximate": 3700000,
+      "caption_excerpt": "Cold season remedy 🤒",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "financewithsharan",
+      "code": "DfXX33Ms5ia",
+      "url": "https://www.instagram.com/financewithsharan/reel/DfXX33Ms5ia/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-05T18:40:46+03:00",
+      "views_displayed": "257K",
+      "views_approximate": 257000,
+      "caption_excerpt": "The AI bubble hasn't burst yet. But the cracks are starting to show. ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "financewithsharan",
+      "code": "DfUtyors6zS",
+      "url": "https://www.instagram.com/financewithsharan/reel/DfUtyors6zS/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-04T17:54:18+03:00",
+      "views_displayed": "425K",
+      "views_approximate": 425000,
+      "caption_excerpt": "Could a political shake-up in the US become a big opportunity for Indian stocks? 🇮🇳",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "financewithsharan",
+      "code": "DfRJGRts4wr",
+      "url": "https://www.instagram.com/financewithsharan/reel/DfRJGRts4wr/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-03T08:36:17+03:00",
+      "views_displayed": "133K",
+      "views_approximate": 133000,
+      "caption_excerpt": "Could you save over ₹1 lakh in taxes just by switching mutual funds?💸",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "financewithsharan",
+      "code": "DfPP1HtsIrf",
+      "url": "https://www.instagram.com/financewithsharan/reel/DfPP1HtsIrf/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-02T15:00:23+03:00",
+      "views_displayed": "10.4M",
+      "views_approximate": 10400000,
+      "caption_excerpt": "Buying a new iPhone this Diwali? Don’t pay more than you need to. 👀",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "financewithsharan",
+      "code": "DfM8BHQs4Vc",
+      "url": "https://www.instagram.com/financewithsharan/reel/DfM8BHQs4Vc/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-01T17:24:15+03:00",
+      "views_displayed": "110K",
+      "views_approximate": 110000,
+      "caption_excerpt": "France’s debt crisis is a reminder that borrowing comes with a cost.",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "financewithsharan",
+      "code": "DfKNGkVM0zr",
+      "url": "https://www.instagram.com/financewithsharan/reel/DfKNGkVM0zr/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-31T15:55:50+03:00",
+      "views_displayed": "179K",
+      "views_approximate": 179000,
+      "caption_excerpt": "Pavitra has 20+ years of experience in real estate, consulting and private equity, with an MBA from Columbia Business School.",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "financewithsharan",
+      "code": "DfJisrFMXiZ",
+      "url": "https://www.instagram.com/financewithsharan/reel/DfJisrFMXiZ/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-31T09:45:12+03:00",
+      "views_displayed": "228K",
+      "views_approximate": 228000,
+      "caption_excerpt": "Google’s AI is growing fast, but it could also be eating into the business that made Google what it is today.",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "financewithsharan",
+      "code": "DfHqbpyMDSG",
+      "url": "https://www.instagram.com/financewithsharan/reel/DfHqbpyMDSG/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-30T16:15:48+03:00",
+      "views_displayed": "127K",
+      "views_approximate": 127000,
+      "caption_excerpt": "A 25-basis-point rate hike could cost me lakhs. I calculated the impact just by talking to my AI. 👀",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "bayashi_tv",
+      "code": "DfY-tPMBTrX",
+      "url": "https://www.instagram.com/bayashi_tv/reel/DfY-tPMBTrX/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-06T09:38:22+03:00",
+      "views_displayed": "656K",
+      "views_approximate": 656000,
+      "caption_excerpt": "Egg Yolk Confit",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "bayashi_tv",
+      "code": "DfWwbyZJkvN",
+      "url": "https://www.instagram.com/bayashi_tv/reel/DfWwbyZJkvN/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-05T12:55:11+03:00",
+      "views_displayed": "568K",
+      "views_approximate": 568000,
+      "caption_excerpt": "Trying 3 Viral Kebabs!",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "bayashi_tv",
+      "code": "DfT5T-UuFYf",
+      "url": "https://www.instagram.com/bayashi_tv/reel/DfT5T-UuFYf/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-04T10:15:09+03:00",
+      "views_displayed": "2.7M",
+      "views_approximate": 2700000,
+      "caption_excerpt": "1 Minute vs 1 Hour Cream",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "bayashi_tv",
+      "code": "DfRTDndvznB",
+      "url": "https://www.instagram.com/bayashi_tv/reel/DfRTDndvznB/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-03T10:02:51+03:00",
+      "views_displayed": "2.4M",
+      "views_approximate": 2400000,
+      "caption_excerpt": "Future OREO",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "bayashi_tv",
+      "code": "DfHHd0SukzG",
+      "url": "https://www.instagram.com/bayashi_tv/reel/DfHHd0SukzG/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-30T11:08:29+03:00",
+      "views_displayed": "931K",
+      "views_approximate": 931000,
+      "caption_excerpt": "Edible Cockroaches 🪳",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "DfSbjods2l5",
+      "url": "https://www.instagram.com/cookingwithbello/reel/DfSbjods2l5/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-03T20:37:02+03:00",
+      "views_displayed": "330K",
+      "views_approximate": 330000,
+      "caption_excerpt": "NUTELLA CAKE 😍🍫",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "De9yaFnMqn1",
+      "url": "https://www.instagram.com/cookingwithbello/reel/De9yaFnMqn1/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-26T20:13:02+03:00",
+      "views_displayed": "579K",
+      "views_approximate": 579000,
+      "caption_excerpt": "2 INGREDIENT NOODLES 😍",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "De4lYVXMd22",
+      "url": "https://www.instagram.com/cookingwithbello/reel/De4lYVXMd22/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-24T19:41:36+03:00",
+      "views_displayed": "250K",
+      "views_approximate": 250000,
+      "caption_excerpt": "PUMPKIN TIRAMISU 🎃",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfWb2tuPjeP",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfWb2tuPjeP/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-05T09:55:40+03:00",
+      "views_displayed": "620K",
+      "views_approximate": 620000,
+      "caption_excerpt": "Steak Toastie ft. my new products. ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfUMSgKzSkV",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfUMSgKzSkV/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-04T13:00:21+03:00",
+      "views_displayed": "649K",
+      "views_approximate": 649000,
+      "caption_excerpt": "How do you like to cook your bacon? 🥓",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S2",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 86.096735,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfSf4CiiVYA",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfSf4CiiVYA/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-03T21:13:46+03:00",
+      "views_displayed": "286K",
+      "views_approximate": 286000,
+      "caption_excerpt": "I shared the Fat Duck’s secret to the perfect triple-cooked chips with @andyhearnden. And, of course, we had to put them to the te",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfROEokvlzC",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfROEokvlzC/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-03T09:19:47+03:00",
+      "views_displayed": "593K",
+      "views_approximate": 593000,
+      "caption_excerpt": "New products landing this Thursday for Australia & New Zealand. Late November for everyone else ✌️",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfO1w9dv7c8",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfO1w9dv7c8/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-02T11:08:20+03:00",
+      "views_displayed": "665K",
+      "views_approximate": 665000,
+      "caption_excerpt": "Preheating your pan is important, but sometimes a cold pan is also necessary. 🐓",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S2",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 63.921678,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "DecFWMFOOje",
+      "url": "https://www.instagram.com/spicymoustache/reel/DecFWMFOOje/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-13T18:03:10+03:00",
+      "views_displayed": "1.5M",
+      "views_approximate": 1500000,
+      "caption_excerpt": "Zero waste orange 🍊 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 57.512971,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "DeRyjrLOcB3",
+      "url": "https://www.instagram.com/spicymoustache/reel/DeRyjrLOcB3/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-09T18:13:12+03:00",
+      "views_displayed": "2.9M",
+      "views_approximate": 2900000,
+      "caption_excerpt": "Zero waste Apple 🍎 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 56.212653,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "DeKDhG3ohNm",
+      "url": "https://www.instagram.com/spicymoustache/reel/DeKDhG3ohNm/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-06T18:01:16+03:00",
+      "views_displayed": "1.6M",
+      "views_approximate": 1600000,
+      "caption_excerpt": "Zero waste pumpkin 🎃 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 58.464989,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "Dd4CmUfoTQQ",
+      "url": "https://www.instagram.com/spicymoustache/reel/Dd4CmUfoTQQ/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-29T18:07:36+03:00",
+      "views_displayed": "2.9M",
+      "views_approximate": 2900000,
+      "caption_excerpt": "Zero waste almond 🥜 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S1",
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "Ddtu4JauQrw",
+      "url": "https://www.instagram.com/spicymoustache/reel/Ddtu4JauQrw/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-25T18:02:31+03:00",
+      "views_displayed": "4.7M",
+      "views_approximate": 4700000,
+      "caption_excerpt": "Zero waste coffee ☕️ ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 58.395329,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "spicymoustache",
+      "code": "DdmA_ekOFCN",
+      "url": "https://www.instagram.com/spicymoustache/reel/DdmA_ekOFCN/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-22T18:05:53+03:00",
+      "views_displayed": "1.9M",
+      "views_approximate": 1900000,
+      "caption_excerpt": "Zero waste lettuce 🥬 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 57.164671,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "DeuP3sJsYge",
+      "url": "https://www.instagram.com/cookingwithbello/reel/DeuP3sJsYge/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-20T19:22:27+03:00",
+      "views_displayed": "489K",
+      "views_approximate": 489000,
+      "caption_excerpt": "🍎 Apple Donuts that taste like a cozy autumn morning! 🍩",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "Dej9sZ8srZK",
+      "url": "https://www.instagram.com/cookingwithbello/reel/Dej9sZ8srZK/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-16T19:31:46+03:00",
+      "views_displayed": "286K",
+      "views_approximate": 286000,
+      "caption_excerpt": "CARROT PASTA 😍",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "Dee1agZsIOW",
+      "url": "https://www.instagram.com/cookingwithbello/reel/Dee1agZsIOW/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-14T19:41:52+03:00",
+      "views_displayed": "483K",
+      "views_approximate": 483000,
+      "caption_excerpt": "PUMPKIN CHICKEN SOUP 🎃",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "DeR7WTYMagF",
+      "url": "https://www.instagram.com/cookingwithbello/reel/DeR7WTYMagF/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-09T19:24:16+03:00",
+      "views_displayed": "216K",
+      "views_approximate": 216000,
+      "caption_excerpt": "LEMON BROWNIES 😍🍋",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "Dd64YbYsKfe",
+      "url": "https://www.instagram.com/cookingwithbello/reel/Dd64YbYsKfe/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-30T20:35:01+03:00",
+      "views_displayed": "133K",
+      "views_approximate": 133000,
+      "caption_excerpt": "Practicing the let them theory with my Italian family 😱🇮🇹",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "DdrFtnssXKV",
+      "url": "https://www.instagram.com/cookingwithbello/reel/DdrFtnssXKV/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-24T17:24:37+03:00",
+      "views_displayed": "1.3M",
+      "views_approximate": 1300000,
+      "caption_excerpt": "ZUCCHINI LASAGNA 😍",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "Ddol8OCMiFZ",
+      "url": "https://www.instagram.com/cookingwithbello/reel/Ddol8OCMiFZ/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-23T18:06:52+03:00",
+      "views_displayed": "240K",
+      "views_approximate": 240000,
+      "caption_excerpt": "That cornflake crunch is the reason these CHICKEN POPCORN won’t last long. 🔥🍗",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "cookingwithbello",
+      "code": "DdbzEgMwwdp",
+      "url": "https://www.instagram.com/cookingwithbello/reel/DdbzEgMwwdp/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-18T18:52:32+03:00",
+      "views_displayed": "631K",
+      "views_approximate": 631000,
+      "caption_excerpt": "This is your sign to make homemade jam… with just 4 ingredients and rich of fibre 🫐✨",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfMYRajzbuZ",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfMYRajzbuZ/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-01T12:10:05+03:00",
+      "views_displayed": "878K",
+      "views_approximate": 878000,
+      "caption_excerpt": "Do you add sugar to your tomato sauce? 🥫",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S2",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 56.607392,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfJVSdcvpsL",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfJVSdcvpsL/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-31T07:48:44+03:00",
+      "views_displayed": "588K",
+      "views_approximate": 588000,
+      "caption_excerpt": "This was no joke, the best Pad Kaprow I’ve ever had, and I think the secret might have been the garam … @num__weerawat",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfGJIUazb0u",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfGJIUazb0u/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-30T02:10:49+03:00",
+      "views_displayed": "397K",
+      "views_approximate": 397000,
+      "caption_excerpt": "AndyCooks turns to AndyWoks on today’s episode of our Australian pork WOK OFF",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "DfB6ukMvsEy",
+      "url": "https://www.instagram.com/andyhearnden/reel/DfB6ukMvsEy/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-28T10:41:50+03:00",
+      "views_displayed": "2.2M",
+      "views_approximate": 2200000,
+      "caption_excerpt": "Food is my love language- and this simple but delicious dish’s recipe now available for you to make for someone you love, so go ch",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "De_l-2fzvMc",
+      "url": "https://www.instagram.com/andyhearnden/reel/De_l-2fzvMc/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-27T13:00:05+03:00",
+      "views_displayed": "264K",
+      "views_approximate": 264000,
+      "caption_excerpt": "How important are fresh herbs in cooking? 🌿",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S2",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 42.46644,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "De3g-2LvMTy",
+      "url": "https://www.instagram.com/andyhearnden/reel/De3g-2LvMTy/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-24T09:44:29+03:00",
+      "views_displayed": "2.1M",
+      "views_approximate": 2100000,
+      "caption_excerpt": "Bitterballen 🇳🇱 ",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "andyhearnden",
+      "code": "De1RYWwPFwj",
+      "url": "https://www.instagram.com/andyhearnden/reel/De1RYWwPFwj/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-23T12:49:24+03:00",
+      "views_displayed": "1M",
+      "views_approximate": 1000000,
+      "caption_excerpt": "Scrambled eggs 1 0 1 🥚",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S2",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 141.406667,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "albert_cancook",
+      "code": "DfXynSphlTd",
+      "url": "https://www.instagram.com/albert_cancook/reel/DfXynSphlTd/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-05T22:34:27+03:00",
+      "views_displayed": "54.1K",
+      "views_approximate": 54100,
+      "caption_excerpt": "Mission: Surf & Turf Classified cooking with @ninjakitchen #NinjaPartner #NinjaEverSear",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "albert_cancook",
+      "code": "DfSJU8pu9l_",
+      "url": "https://www.instagram.com/albert_cancook/reel/DfSJU8pu9l_/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-03T17:57:11+03:00",
+      "views_displayed": "600K",
+      "views_approximate": 600000,
+      "caption_excerpt": "Disneyland Food in Tokyo 🇯🇵",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "albert_cancook",
+      "code": "DfM-4HNu_AC",
+      "url": "https://www.instagram.com/albert_cancook/reel/DfM-4HNu_AC/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-01T17:49:29+03:00",
+      "views_displayed": "740K",
+      "views_approximate": 740000,
+      "caption_excerpt": "ABC Lasagna",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "albert_cancook",
+      "code": "DfGcEHNtGaQ",
+      "url": "https://www.instagram.com/albert_cancook/reel/DfGcEHNtGaQ/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-30T04:51:20+03:00",
+      "views_displayed": "120K",
+      "views_approximate": 120000,
+      "caption_excerpt": "Real Vs AI 🤖 🤣🤣🤣",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "albert_cancook",
+      "code": "De6w4rmRtq9",
+      "url": "https://www.instagram.com/albert_cancook/reel/De6w4rmRtq9/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-25T16:00:44+03:00",
+      "views_displayed": "661K",
+      "views_approximate": 661000,
+      "caption_excerpt": "Cheeseburger",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "albert_cancook",
+      "code": "De4Z5aoh6m5",
+      "url": "https://www.instagram.com/albert_cancook/reel/De4Z5aoh6m5/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-24T18:00:26+03:00",
+      "views_displayed": "1M",
+      "views_approximate": 1000000,
+      "caption_excerpt": "Hash Browns Pizza",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "thatlittlepuff",
+      "code": "DenoxWENsJp",
+      "url": "https://www.instagram.com/thatlittlepuff/reel/DenoxWENsJp/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-18T07:45:30+03:00",
+      "views_displayed": "750K",
+      "views_approximate": 750000,
+      "caption_excerpt": "Best egg! #thatlittlepuff",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S3",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 34.989615,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "thatlittlepuff",
+      "code": "DeViD0htrvF",
+      "url": "https://www.instagram.com/thatlittlepuff/reel/DeViD0htrvF/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-11T04:59:06+03:00",
+      "views_displayed": "353K",
+      "views_approximate": 353000,
+      "caption_excerpt": "Comment your favorite! #thatlittlepuff",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S3",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 27.721769,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "thatlittlepuff",
+      "code": "Dd5bVtUM6dV",
+      "url": "https://www.instagram.com/thatlittlepuff/reel/Dd5bVtUM6dV/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-30T08:08:58+03:00",
+      "views_displayed": "174K",
+      "views_approximate": 174000,
+      "caption_excerpt": "Catch me if you can! #thatlittlepuff",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S3",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 33.317778,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "thatlittlepuff",
+      "code": "Ddxn7f6BMPL",
+      "url": "https://www.instagram.com/thatlittlepuff/reel/Ddxn7f6BMPL/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-27T06:17:40+03:00",
+      "views_displayed": "648K",
+      "views_approximate": 648000,
+      "caption_excerpt": "Coke hack! #thatlittlepuff",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S3",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 25.422993,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "thatlittlepuff",
+      "code": "DdsWCm3NvVq",
+      "url": "https://www.instagram.com/thatlittlepuff/reel/DdsWCm3NvVq/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-25T05:05:16+03:00",
+      "views_displayed": "542K",
+      "views_approximate": 542000,
+      "caption_excerpt": "Puff no one wants a test pager remake.. #thatlittlepuff",
+      "metadata_check": "caption и taken_at взяты из media-объекта с code, совпадающим с адресом Reels",
+      "series_id": "S3",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 47.62127,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    }
+  ]
+}
