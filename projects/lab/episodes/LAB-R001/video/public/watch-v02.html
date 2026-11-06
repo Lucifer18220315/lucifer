@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FOLD / 02 — просмотр</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#171512;color:#eae5da;font:16px system-ui,sans-serif}main{max-width:1060px;margin:auto;padding:36px 24px;display:grid;grid-template-columns:minmax(220px,420px) 1fr;gap:48px;align-items:center}video{display:block;width:100%;max-height:88vh;background:#29221b;border-radius:6px}h1{font-size:54px;font-weight:450;letter-spacing:-3px;margin:0 0 16px}.eyebrow{color:#bfa98a;letter-spacing:4px;font-size:11px;margin-bottom:24px}p{line-height:1.6;color:#bfb6a6}.scenes{display:flex;flex-wrap:wrap;gap:8px;margin:26px 0}button{cursor:pointer;background:#242019;color:#d9d0bf;border:1px solid #494035;padding:11px 13px;border-radius:3px}button:hover{background:#3a3025}a{color:#ebd8b8;text-underline-offset:5px}.links{display:flex;gap:24px;margin-top:32px;font-size:14px}.note{font-size:12px;margin-top:24px;color:#918777}@media(max-width:700px){main{grid-template-columns:1fr;gap:26px;padding:16px}video{max-height:75vh}h1{font-size:38px}}
+</style>
+<main>
+ <video id="film" controls playsinline loop preload="metadata" poster="poster-v02.jpg" src="LAB-R001-v02.mp4"></video>
+ <section>
+  <div class="eyebrow">LAB / ПОПЫТКА 02</div>
+  <h1>FOLD / 02</h1>
+  <p>Модель → Свет → Результат.<br>5 секунд · короткая 3D-проба</p>
+  <div class="scenes">
+   <button data-start="0">Результат сначала</button><button data-start="0.6667">Модель</button>
+   <button data-start="1.6">Материал и свет</button><button data-start="2.6">Контур</button>
+   <button data-start="3.4">Финальный кадр</button>
+  </div>
+  <div class="links"><a href="LAB-R001-v02.mp4" download>Скачать MP4</a><a href="watch.html">Версия 01</a></div>
+  <p class="note">Новая короткая проба после разбора первой версии. Материал и свет меняются вместе; это не эксперимент с одной переменной. Звук создан кодом, субъективное прослушивание ещё не выполнено.</p>
+ </section>
+</main>
+<script>
+const film=document.getElementById('film');
+document.querySelectorAll('[data-start]').forEach(button=>button.addEventListener('click',()=>{film.currentTime=Number(button.dataset.start);film.play().catch(()=>{});}));
+</script>
+</html>

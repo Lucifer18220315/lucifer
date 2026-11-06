@@ -1,0 +1,45 @@
+{
+  "episode_id": "LAB-R001",
+  "version": "02",
+  "scope": "Short light/material study; not a full remake of v01",
+  "date": "2026-11-06",
+  "render_completed": true,
+  "published_to_social_media": false,
+  "artifact_server_path": "/workspace/shared/downloads/LAB-R001-v02-light.mp4",
+  "artifact_bytes": 583165,
+  "artifact_sha256": "4e914eff517bb861aef2a0c9eea11ed891f8d9642e008cf9b053149725be6d85",
+  "width": 720,
+  "height": 1280,
+  "fps": 24,
+  "decoded_frames": 120,
+  "duration_seconds": 5.013,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_mean_db": -25.2,
+  "audio_max_db": -3.8,
+  "audio_subjectively_reviewed": false,
+  "full_decode_passed": true,
+  "visual_check": "Reviewed 40 samples at 8 fps across all stages, plus full-size control stills; not subjective audiovisual playback",
+  "source_media_reused": false,
+  "external_style_used": false,
+  "v01_sha256_unchanged": true,
+  "limitations": [
+    "Stylized procedural 3D, not photographic footage",
+    "Material and lights change together; not a single-variable lighting experiment",
+    "Subjective audio review not performed"
+  ],
+  "browser_player_check": {
+    "url": "http://localhost:3030/static-18561dfb6a23/watch-v02.html",
+    "http_status": 200,
+    "media": {
+      "duration": 5.013,
+      "width": 720,
+      "height": 1280,
+      "error": null
+    },
+    "playback_reached_end": true,
+    "scene_button_worked": true,
+    "page_errors": [],
+    "passed": true
+  }
+}

@@ -10,7 +10,9 @@ import {Label} from './scenes/Label';
 import {PencilScene} from './scenes/PencilScene';
 import {Clock} from './scenes/Clock';
 import {Return} from './scenes/Return';
+import {LightStudy} from './v02/LightStudy';
 export const Root = () => <>
+  <Composition id="FoldLightV02" component={LightStudy} width={1080} height={1920} fps={24} durationInFrames={120}/>
   <Composition id="FoldStudy" component={Film} width={1080} height={1920} fps={24} durationInFrames={432}/>
   <Folder name="Scenes">
       <Composition id="Lighting" component={Lighting} width={1080} height={1920} fps={24} durationInFrames={96}/>
