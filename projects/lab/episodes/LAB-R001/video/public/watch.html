@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FOLD / 01 — просмотр</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#171512;color:#eae5da;font:16px system-ui,sans-serif}main{max-width:1060px;margin:auto;padding:36px 24px;display:grid;grid-template-columns:minmax(220px,420px) 1fr;gap:48px;align-items:center}video{display:block;width:100%;max-height:88vh;background:#29221b;border-radius:6px}h1{font-size:54px;font-weight:450;letter-spacing:-3px;margin:0 0 16px}.eyebrow{color:#bfa98a;letter-spacing:4px;font-size:11px;margin-bottom:24px}p{line-height:1.6;color:#bfb6a6}.scenes{display:flex;flex-wrap:wrap;gap:8px;margin:26px 0}button{cursor:pointer;background:#242019;color:#d9d0bf;border:1px solid #494035;padding:11px 13px;border-radius:3px}button:hover{background:#3a3025}a{color:#ebd8b8;text-underline-offset:5px}.links{display:flex;gap:24px;margin-top:32px;font-size:14px}.note{font-size:12px;margin-top:24px;color:#918777}@media(max-width:700px){main{grid-template-columns:1fr;gap:26px;padding:16px}video{max-height:75vh}h1{font-size:38px}}
+</style>
+<main>
+ <video id="film" controls playsinline loop preload="metadata" poster="poster.jpg" src="LAB-R001.mp4"></video>
+ <section>
+  <div class="eyebrow">LAB / ПЕРВАЯ ВЕРСИЯ</div>
+  <h1>FOLD / 01</h1>
+  <p>От света и чертежа к готовой форме.<br>18 секунд · 9 сцен · 3D-адаптация</p>
+  <div class="scenes">
+   <button data-start="0">Свет</button><button data-start="4">Предмет</button>
+   <button data-start="6.4167">Чертёж</button><button data-start="9.625">Результат</button>
+   <button data-start="11.2083">Вода</button><button data-start="13.7917">Деталь</button>
+   <button data-start="14.375">Карандаш</button><button data-start="15.2917">Время</button>
+   <button data-start="16.375">Возврат</button>
+  </div>
+  <div class="links"><a href="LAB-R001.mp4" download>Скачать MP4</a><a href="https://www.instagram.com/austen_paul/reel/DcjNPkZB_KF/" target="_blank" rel="noreferrer">Референс</a></div>
+  <p class="note">Собственная сцена по монтажной структуре выбранного Reels. Кадры и звук автора не использованы. Звук первой версии требует оценки при просмотре.</p>
+ </section>
+</main>
+<script>
+const film=document.getElementById('film');
+document.querySelectorAll('[data-start]').forEach(button=>button.addEventListener('click',()=>{film.currentTime=Number(button.dataset.start);film.play().catch(()=>{});}));
+</script>
+</html>

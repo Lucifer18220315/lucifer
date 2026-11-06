@@ -1,0 +1,28 @@
+{
+  "name": "playboy-lab-r001",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open --port=3030",
+    "check": "tsc --noEmit",
+    "render": "remotion render src/index.ts FoldStudy out/LAB-R001.mp4 --browser-executable=/usr/bin/chromium --gl=swangle --concurrency=2 --scale=0.6666666666666666 --crf=18",
+    "assets": "python scripts/sound_design.py",
+    "package": "python scripts/package_video.py"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.2",
+    "@remotion/cli": "4.0.541",
+    "@remotion/media": "4.0.541",
+    "@remotion/three": "4.0.541",
+    "@types/three": "0.187.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.541",
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
+    "typescript": "5.9.3"
+  }
+}

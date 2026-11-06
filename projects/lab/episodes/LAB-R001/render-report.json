@@ -1,0 +1,49 @@
+{
+  "episode_id": "LAB-R001",
+  "version": "01",
+  "date": "2026-11-06",
+  "render_completed": true,
+  "published_to_social_media": false,
+  "artifact_server_path": "/workspace/shared/downloads/LAB-R001-fold-v01.mp4",
+  "artifact_bytes": 6353039,
+  "artifact_sha256": "00f21c828da5e12cad349a40fbb200994bfa4563614aa864aa962bcbd5f93ddc",
+  "width": 720,
+  "height": 1280,
+  "fps": 24,
+  "decoded_frames": 432,
+  "duration_seconds": 18.005,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_mean_db": -39.7,
+  "audio_max_db": -17.3,
+  "full_decode_passed": true,
+  "frame_mean_luma_min": 8.32,
+  "frame_mean_luma_max": 189.05,
+  "visual_contact_sheet": "Reviewed 36 frame samples at 0.5-second intervals across all nine scenes; not continuous audiovisual playback",
+  "audio_subjectively_reviewed": false,
+  "production": "Three.js + React Three Fiber + Remotion; FFmpeg faststart remux and verification",
+  "source_media_reused": false,
+  "cleanup": {
+    "deleted_files": 404,
+    "freed_bytes": 478518675,
+    "freed_mib": 456.4,
+    "scope": "Only our temporary prior research HTML, video, image and expiring media-metadata files under five /tmp/playboy-* folders",
+    "kept": "Selected reference video and two frame sheets, research summaries and Git repository"
+  },
+  "known_limitations": [
+    "Stylized paper geometry and simplified water",
+    "No subjective audio review; quiet sound design",
+    "Return composition is similar, but lighting resets at loop boundary"
+  ],
+  "browser_player_check": {
+    "url": "http://localhost:3030/static-18561dfb6a23/watch.html",
+    "media": {
+      "duration": 18.005,
+      "width": 720,
+      "height": 1280,
+      "error": null
+    },
+    "scene_navigation_time": 11.7,
+    "passed": true
+  }
+}

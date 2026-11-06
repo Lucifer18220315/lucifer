@@ -18,6 +18,8 @@
 10. [Узкие серии с выпусками 100K+: основной кандидат и резерв](research/instagram-series-100k-2026-11-06.md).
 11. [Текущий приоритет: монтаж и автоматизация, E1 Austen Paul](research/instagram-editing-automation-2026-11-06.md); [съёмочный черновик](projects/lab/drafts/LAB-P001-product-shot.md).
 
+Текущий производственный результат: [LAB-R001 v01 — готовая серверная 3D-версия, параметры и ограничения](projects/lab/episodes/LAB-R001/result.md); [исходный проект](projects/lab/episodes/LAB-R001/video/README.md).
+
 ## Карта базы
 
 | Раздел | Содержание |

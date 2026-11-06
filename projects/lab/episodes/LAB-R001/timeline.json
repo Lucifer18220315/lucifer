@@ -1,0 +1,132 @@
+{
+  "episode_id": "LAB-R001",
+  "checked_on": "2026-11-06",
+  "status": "Version 01 rendered, technically verified and sampled visually; subjective audio review pending",
+  "source": {
+    "url": "https://www.instagram.com/austen_paul/reel/DcjNPkZB_KF/",
+    "code": "DcjNPkZB_KF",
+    "views_displayed_previous_check": "204K",
+    "views_checked_on": "2026-11-06",
+    "published_at_moscow": "2026-08-27T19:24:33+03:00",
+    "duration_seconds": 17.713968,
+    "width": 720,
+    "height": 1280,
+    "frame_rate_fraction": "2997/125",
+    "audio_present": true,
+    "audio_reviewed": false,
+    "visual_review": "contact sheet at approximately 0.5-second intervals; not continuous playback",
+    "boundary_method": "FFmpeg select gt(scene,0.18), candidate boundaries compared to contact sheet; not the author's edit project",
+    "scene_boundary_candidates_seconds": [
+      3.920587,
+      6.42309,
+      7.048715,
+      8.341675,
+      9.634635,
+      11.219553,
+      13.763764,
+      14.347681,
+      14.723056,
+      15.265265,
+      16.349683
+    ]
+  },
+  "target": {
+    "duration_seconds": 18,
+    "width": 1080,
+    "height": 1920,
+    "fps_preferred": 24,
+    "object_working_label": "FOLD / 01",
+    "production_mode": "Three.js + React Three Fiber + Remotion + FFmpeg, server only, D018",
+    "source_footage_reused": false,
+    "render_completed": true,
+    "published": false,
+    "first_export_width": 720,
+    "first_export_height": 1280,
+    "webgl_dpr": 0.6666666666666666,
+    "render_scale": 0.6666666666666666,
+    "exported_width": 720,
+    "exported_height": 1280,
+    "exported_file_server_path": "/workspace/shared/downloads/LAB-R001-fold-v01.mp4"
+  },
+  "shots": [
+    {
+      "id": "R001-01",
+      "start": 0,
+      "end": 4,
+      "scene": "Sequential lighting on one paper cup",
+      "labels": [
+        "Основной",
+        "Контур",
+        "Заполнение",
+        "Фон",
+        "Акцент"
+      ],
+      "render_start_frame": 0,
+      "render_end_frame_exclusive": 96
+    },
+    {
+      "id": "R001-02",
+      "start": 4,
+      "end": 6.4,
+      "scene": "Close tabletop view and paper texture",
+      "render_start_frame": 96,
+      "render_end_frame_exclusive": 154
+    },
+    {
+      "id": "R001-03",
+      "start": 6.4,
+      "end": 9.6,
+      "scene": "Original drawing and paper cup dieline",
+      "render_start_frame": 154,
+      "render_end_frame_exclusive": 231
+    },
+    {
+      "id": "R001-04",
+      "start": 9.6,
+      "end": 11.2,
+      "scene": "Hero view of the assembled cup",
+      "render_start_frame": 231,
+      "render_end_frame_exclusive": 269
+    },
+    {
+      "id": "R001-05",
+      "start": 11.2,
+      "end": 13.8,
+      "scene": "Water pouring into cup",
+      "render_start_frame": 269,
+      "render_end_frame_exclusive": 331
+    },
+    {
+      "id": "R001-06",
+      "start": 13.8,
+      "end": 14.4,
+      "scene": "Original product label detail",
+      "render_start_frame": 331,
+      "render_end_frame_exclusive": 345
+    },
+    {
+      "id": "R001-07",
+      "start": 14.4,
+      "end": 15.3,
+      "scene": "Pencil tracing a line",
+      "render_start_frame": 345,
+      "render_end_frame_exclusive": 367
+    },
+    {
+      "id": "R001-08",
+      "start": 15.3,
+      "end": 16.4,
+      "scene": "Desk timer detail",
+      "render_start_frame": 367,
+      "render_end_frame_exclusive": 393
+    },
+    {
+      "id": "R001-09",
+      "start": 16.4,
+      "end": 18,
+      "scene": "Return cup to opening composition",
+      "render_start_frame": 393,
+      "render_end_frame_exclusive": 432
+    }
+  ]
+}
