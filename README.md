@@ -13,6 +13,7 @@
 5. [Неотвеченные вопросы](brief/open-questions.md).
 6. [Варианты личного образа и стартовое интервью](brief/positioning-draft.md).
 7. [Принцип поиска: адаптация форматов между рынками](workflows/format-transfer.md).
+8. [Первая подборка зарубежных Instagram-аккаунтов](research/instagram-competitors-2026-11-06.md).
 
 ## Карта базы
 
