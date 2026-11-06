@@ -1,0 +1,1548 @@
+{
+  "checked_on": "2026-11-06",
+  "timezone": "Europe/Moscow",
+  "platform": "Instagram",
+  "decision": "D016: первым искать сильную серию по монтажу и автоматизациям",
+  "sampling": "Первые 12 доступных карточек каждого подходящего профиля, включая возможные закрепы; не последние 12 и не вся история",
+  "limits": [
+    "Публичные округлённые просмотры не равны уникальному охвату",
+    "Проверены подписи и по четыре кадра семи видео; полного просмотра и оценки звука нет",
+    "Органическое происхождение просмотров, удержание, конверсия и стоимость производства неизвестны",
+    "E1 — аналитическая группировка, не название авторской передачи",
+    "Локальная редкость E1 и переносимость на два телефона не проверены"
+  ],
+  "coverage": {
+    "profile_addresses_attempted": 22,
+    "profiles_with_grids": 12,
+    "grid_cards_checked": 144,
+    "reel_pages_checked": 24,
+    "videos_sampled_visually": 7
+  },
+  "profiles": [
+    {
+      "handle": "karenxcheng",
+      "url": "https://www.instagram.com/karenxcheng/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "1.5M",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/DfAQgF2gEyU/",
+          "code": "DfAQgF2gEyU",
+          "views_displayed": "79K",
+          "views_approximate": 79000
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/Dd6wIcWzYBn/",
+          "code": "Dd6wIcWzYBn",
+          "views_displayed": "382K",
+          "views_approximate": 382000
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/Dd7zvZ0gUJQ/",
+          "code": "Dd7zvZ0gUJQ",
+          "views_displayed": "248K",
+          "views_approximate": 248000
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/Dd6wQ-fhof1/",
+          "code": "Dd6wQ-fhof1",
+          "views_displayed": "5,686",
+          "views_approximate": 5686
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/Dd6v7nKgqlX/",
+          "code": "Dd6v7nKgqlX",
+          "views_displayed": "32.4K",
+          "views_approximate": 32400
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/Dd6vw2kgEBQ/",
+          "code": "Dd6vw2kgEBQ",
+          "views_displayed": "10.9K",
+          "views_approximate": 10900
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/Dd6vgWFgk3p/",
+          "code": "Dd6vgWFgk3p",
+          "views_displayed": "6,063",
+          "views_approximate": 6063
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/Dd6rYE5tvWo/",
+          "code": "Dd6rYE5tvWo",
+          "views_displayed": "4.1M",
+          "views_approximate": 4100000
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/DdrU7hHgAHO/",
+          "code": "DdrU7hHgAHO",
+          "views_displayed": "8.8M",
+          "views_approximate": 8800000
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/DdVBkIxJDpC/",
+          "code": "DdVBkIxJDpC",
+          "views_displayed": "11.9M",
+          "views_approximate": 11900000
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/DdVC0isAH58/",
+          "code": "DdVC0isAH58",
+          "views_displayed": "637K",
+          "views_approximate": 637000
+        },
+        {
+          "url": "https://www.instagram.com/karenxcheng/reel/DdVCj_nJU6y/",
+          "code": "DdVCj_nJU6y",
+          "views_displayed": "4,632",
+          "views_approximate": 4632
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 6,
+      "minimum_approximate": 4632,
+      "median_approximate": 163500.0,
+      "outcome": "6/12 выше порога; узкая серия в этом проходе не проверена"
+    },
+    {
+      "handle": "benny_productions",
+      "url": "https://www.instagram.com/benny_productions/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "312K",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DdHG6MeKUgr/",
+          "code": "DdHG6MeKUgr",
+          "views_displayed": "63.8K",
+          "views_approximate": 63800
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DaqJV1yCjeh/",
+          "code": "DaqJV1yCjeh",
+          "views_displayed": "72.2K",
+          "views_approximate": 72200
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DIy4B_PM6F1/",
+          "code": "DIy4B_PM6F1",
+          "views_displayed": "190K",
+          "views_approximate": 190000
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DItv-dQMJQk/",
+          "code": "DItv-dQMJQk",
+          "views_displayed": "140K",
+          "views_approximate": 140000
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DH3ZnnsMrCO/",
+          "code": "DH3ZnnsMrCO",
+          "views_displayed": "34.2K",
+          "views_approximate": 34200
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DG_jP5AMdt4/",
+          "code": "DG_jP5AMdt4",
+          "views_displayed": "44.1K",
+          "views_approximate": 44100
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DFzuhSTtl5n/",
+          "code": "DFzuhSTtl5n",
+          "views_displayed": "39.1K",
+          "views_approximate": 39100
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DFnbO-ENVcE/",
+          "code": "DFnbO-ENVcE",
+          "views_displayed": "83.8K",
+          "views_approximate": 83800
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DFiVWFxMMz2/",
+          "code": "DFiVWFxMMz2",
+          "views_displayed": "80.6K",
+          "views_approximate": 80600
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/DDDMyIxMDqS/",
+          "code": "DDDMyIxMDqS",
+          "views_displayed": "42.4K",
+          "views_approximate": 42400
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/C6EfPepslha/",
+          "code": "C6EfPepslha",
+          "views_displayed": "52.9K",
+          "views_approximate": 52900
+        },
+        {
+          "url": "https://www.instagram.com/benny_productions/reel/C1RapYEMnnc/",
+          "code": "C1RapYEMnnc",
+          "views_displayed": "143K",
+          "views_approximate": 143000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 3,
+      "minimum_approximate": 34200,
+      "median_approximate": 68000.0,
+      "outcome": "3/12 выше порога; не выбран"
+    },
+    {
+      "handle": "austenpaul",
+      "url": "https://www.instagram.com/austenpaul/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Не тот профиль или недостаточно признаков нужного автора; не использовать как референс"
+    },
+    {
+      "handle": "haydenhillier",
+      "url": "https://www.instagram.com/haydenhillier/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Профиль недоступен при публичной проверке; содержание не исследовалось"
+    },
+    {
+      "handle": "jordi.koalitic",
+      "url": "https://www.instagram.com/jordi.koalitic/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "7.2M",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/CzbWEMlKJt7/",
+          "code": "CzbWEMlKJt7",
+          "views_displayed": "22.2M",
+          "views_approximate": 22200000
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/C0eQRHgqmI9/",
+          "code": "C0eQRHgqmI9",
+          "views_displayed": "156M",
+          "views_approximate": 156000000
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/C3XpdDFoO7i/",
+          "code": "C3XpdDFoO7i",
+          "views_displayed": "338M",
+          "views_approximate": 338000000
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/DfHomKZKv6b/",
+          "code": "DfHomKZKv6b",
+          "views_displayed": "364K",
+          "views_approximate": 364000
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/DfCga6Qg6Ym/",
+          "code": "DfCga6Qg6Ym",
+          "views_displayed": "3,318",
+          "views_approximate": 3318
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/De_x8naA6QP/",
+          "code": "De_x8naA6QP",
+          "views_displayed": "2,020",
+          "views_approximate": 2020
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/Dewnh9xq62m/",
+          "code": "Dewnh9xq62m",
+          "views_displayed": "5.2M",
+          "views_approximate": 5200000
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/DeZFDTQKrAp/",
+          "code": "DeZFDTQKrAp",
+          "views_displayed": "1.4M",
+          "views_approximate": 1400000
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/Deb0t8dqCWR/",
+          "code": "Deb0t8dqCWR",
+          "views_displayed": "4,226",
+          "views_approximate": 4226
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/DePQXqSqKno/",
+          "code": "DePQXqSqKno",
+          "views_displayed": "1.2M",
+          "views_approximate": 1200000
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/Dcqk4HmKYdV/",
+          "code": "Dcqk4HmKYdV",
+          "views_displayed": "10.6K",
+          "views_approximate": 10600
+        },
+        {
+          "url": "https://www.instagram.com/jordi.koalitic/reel/DeO4Tw8I_ZL/",
+          "code": "DeO4Tw8I_ZL",
+          "views_displayed": "1.5M",
+          "views_approximate": 1500000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 8,
+      "minimum_approximate": 2020,
+      "median_approximate": 1300000.0,
+      "outcome": "8/12 выше порога; миллионные закрепы не заменяют слабые новые карточки"
+    },
+    {
+      "handle": "ruben.hassid",
+      "url": "https://www.instagram.com/ruben.hassid/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Профиль недоступен при публичной проверке; содержание не исследовалось"
+    },
+    {
+      "handle": "borriss_ai",
+      "url": "https://www.instagram.com/borriss_ai/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Профиль недоступен при публичной проверке; содержание не исследовалось"
+    },
+    {
+      "handle": "nicksaraev",
+      "url": "https://www.instagram.com/nicksaraev/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Не тот профиль или недостаточно признаков нужного автора; не использовать как референс"
+    },
+    {
+      "handle": "cyril_wai",
+      "url": "https://www.instagram.com/cyril_wai/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Профиль недоступен при публичной проверке; содержание не исследовалось"
+    },
+    {
+      "handle": "premierebasics",
+      "url": "https://www.instagram.com/premierebasics/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "5,648",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/DScUgwxjcwY/",
+          "code": "DScUgwxjcwY",
+          "views_displayed": "620",
+          "views_approximate": 620
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/Cw2gFEssXiA/",
+          "code": "Cw2gFEssXiA",
+          "views_displayed": "18.5K",
+          "views_approximate": 18500
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/Cte2wBfNgSO/",
+          "code": "Cte2wBfNgSO",
+          "views_displayed": "17.6K",
+          "views_approximate": 17600
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/CsI3eLao44Q/",
+          "code": "CsI3eLao44Q",
+          "views_displayed": "143K",
+          "views_approximate": 143000
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/CqVWkAwqb7Z/",
+          "code": "CqVWkAwqb7Z",
+          "views_displayed": "43.8K",
+          "views_approximate": 43800
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/CqSQrw8KeUQ/",
+          "code": "CqSQrw8KeUQ",
+          "views_displayed": "26.6K",
+          "views_approximate": 26600
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/CpzceLsqcm2/",
+          "code": "CpzceLsqcm2",
+          "views_displayed": "149K",
+          "views_approximate": 149000
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/Cpc2F4oq-Nu/",
+          "code": "Cpc2F4oq-Nu",
+          "views_displayed": "36.5K",
+          "views_approximate": 36500
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/CpC6eo6qk5X/",
+          "code": "CpC6eo6qk5X",
+          "views_displayed": "88.2K",
+          "views_approximate": 88200
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/CoMcr1rKFuw/",
+          "code": "CoMcr1rKFuw",
+          "views_displayed": "107K",
+          "views_approximate": 107000
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/Cn6eYGqKvg6/",
+          "code": "Cn6eYGqKvg6",
+          "views_displayed": "233K",
+          "views_approximate": 233000
+        },
+        {
+          "url": "https://www.instagram.com/premierebasics/reel/Cn4AxiWKwUb/",
+          "code": "Cn4AxiWKwUb",
+          "views_displayed": "15K",
+          "views_approximate": 15000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 4,
+      "minimum_approximate": 620,
+      "median_approximate": 40150.0,
+      "outcome": "4/12 выше порога; обучающий профиль не проходит фильтр по каждой карточке"
+    },
+    {
+      "handle": "cinecom.net",
+      "url": "https://www.instagram.com/cinecom.net/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Профиль недоступен при публичной проверке; содержание не исследовалось"
+    },
+    {
+      "handle": "sebastian_schieren",
+      "url": "https://www.instagram.com/sebastian_schieren/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "2.6M",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DePCs66o-WH/",
+          "code": "DePCs66o-WH",
+          "views_displayed": "113K",
+          "views_approximate": 113000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/Dd--CzdI7JJ/",
+          "code": "Dd--CzdI7JJ",
+          "views_displayed": "1.5M",
+          "views_approximate": 1500000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/Ddtf_5vs4pL/",
+          "code": "Ddtf_5vs4pL",
+          "views_displayed": "127K",
+          "views_approximate": 127000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DdjonygMmLJ/",
+          "code": "DdjonygMmLJ",
+          "views_displayed": "1M",
+          "views_approximate": 1000000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DdZdWJEoYNh/",
+          "code": "DdZdWJEoYNh",
+          "views_displayed": "84.8K",
+          "views_approximate": 84800
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DdT-JSDs00V/",
+          "code": "DdT-JSDs00V",
+          "views_displayed": "207K",
+          "views_approximate": 207000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DdRXGyJMt49/",
+          "code": "DdRXGyJMt49",
+          "views_displayed": "109K",
+          "views_approximate": 109000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DdD2YFao5NO/",
+          "code": "DdD2YFao5NO",
+          "views_displayed": "123K",
+          "views_approximate": 123000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/Dci5qGHsfhm/",
+          "code": "Dci5qGHsfhm",
+          "views_displayed": "236K",
+          "views_approximate": 236000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DbGXIV-s3ij/",
+          "code": "DbGXIV-s3ij",
+          "views_displayed": "307K",
+          "views_approximate": 307000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DaSTSyJMHe3/",
+          "code": "DaSTSyJMHe3",
+          "views_displayed": "464K",
+          "views_approximate": 464000
+        },
+        {
+          "url": "https://www.instagram.com/sebastian_schieren/reel/DaNYn7OsaWE/",
+          "code": "DaNYn7OsaWE",
+          "views_displayed": "281K",
+          "views_approximate": 281000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 11,
+      "minimum_approximate": 84800,
+      "median_approximate": 221500.0,
+      "outcome": "11/12 выше порога; одна карточка 84.8K, узкая серия не проверена"
+    },
+    {
+      "handle": "austen_paul",
+      "url": "https://www.instagram.com/austen_paul/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "201K",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/DfPymYGhhtQ/",
+          "code": "DfPymYGhhtQ",
+          "views_displayed": "263K",
+          "views_approximate": 263000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/DfCvRZ7ByMM/",
+          "code": "DfCvRZ7ByMM",
+          "views_displayed": "353K",
+          "views_approximate": 353000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/Deuvi54h7Lw/",
+          "code": "Deuvi54h7Lw",
+          "views_displayed": "224K",
+          "views_approximate": 224000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/DePbx1nhGbw/",
+          "code": "DePbx1nhGbw",
+          "views_displayed": "226K",
+          "views_approximate": 226000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/DeKShxMBXHz/",
+          "code": "DeKShxMBXHz",
+          "views_displayed": "245K",
+          "views_approximate": 245000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/Dd4JQLUhEQz/",
+          "code": "Dd4JQLUhEQz",
+          "views_displayed": "231K",
+          "views_approximate": 231000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/Ddrd6T9BEua/",
+          "code": "Ddrd6T9BEua",
+          "views_displayed": "197K",
+          "views_approximate": 197000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/DdonOWihNqx/",
+          "code": "DdonOWihNqx",
+          "views_displayed": "223K",
+          "views_approximate": 223000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/DdUEsl-BtK6/",
+          "code": "DdUEsl-BtK6",
+          "views_displayed": "199K",
+          "views_approximate": 199000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/Dc_kjZGhXYN/",
+          "code": "Dc_kjZGhXYN",
+          "views_displayed": "202K",
+          "views_approximate": 202000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/DcjNPkZB_KF/",
+          "code": "DcjNPkZB_KF",
+          "views_displayed": "204K",
+          "views_approximate": 204000
+        },
+        {
+          "url": "https://www.instagram.com/austen_paul/reel/DcbSPY1hBOL/",
+          "code": "DcbSPY1hBOL",
+          "views_displayed": "196K",
+          "views_approximate": 196000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 12,
+      "minimum_approximate": 196000,
+      "median_approximate": 223500.0,
+      "outcome": "12/12 выше порога; шесть выпусков одной механики подтверждены ограниченной визуальной проверкой"
+    },
+    {
+      "handle": "zachking",
+      "url": "https://www.instagram.com/zachking/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "31.9M",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/zachking/reel/DZ-dSUgSRiy/",
+          "code": "DZ-dSUgSRiy",
+          "views_displayed": "58.8M",
+          "views_approximate": 58800000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DXYSzTsEhzM/",
+          "code": "DXYSzTsEhzM",
+          "views_displayed": "19.8M",
+          "views_approximate": 19800000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfNvqMJy2UY/",
+          "code": "DfNvqMJy2UY",
+          "views_displayed": "8.9M",
+          "views_approximate": 8900000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfKVsI6Sipo/",
+          "code": "DfKVsI6Sipo",
+          "views_displayed": "13.2M",
+          "views_approximate": 13200000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfIlAm3S3qm/",
+          "code": "DfIlAm3S3qm",
+          "views_displayed": "368K",
+          "views_approximate": 368000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfIiza-SA-Y/",
+          "code": "DfIiza-SA-Y",
+          "views_displayed": "1.5M",
+          "views_approximate": 1500000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfH-n4rxJcN/",
+          "code": "DfH-n4rxJcN",
+          "views_displayed": "1.9M",
+          "views_approximate": 1900000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfFLZVMS2nV/",
+          "code": "DfFLZVMS2nV",
+          "views_displayed": "2.4M",
+          "views_approximate": 2400000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfDcBj0SRW2/",
+          "code": "DfDcBj0SRW2",
+          "views_displayed": "7.3M",
+          "views_approximate": 7300000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfA8u0svyWv/",
+          "code": "DfA8u0svyWv",
+          "views_displayed": "405K",
+          "views_approximate": 405000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfA7b4xBTNy/",
+          "code": "DfA7b4xBTNy",
+          "views_displayed": "326K",
+          "views_approximate": 326000
+        },
+        {
+          "url": "https://www.instagram.com/zachking/reel/DfA7IDNBMmM/",
+          "code": "DfA7IDNBMmM",
+          "views_displayed": "491K",
+          "views_approximate": 491000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 12,
+      "minimum_approximate": 326000,
+      "median_approximate": 2150000.0,
+      "outcome": "12/12 выше порога; разнородные иллюзии и BTS, не подтверждена узкая серия из пяти выпусков"
+    },
+    {
+      "handle": "calebnatale",
+      "url": "https://www.instagram.com/calebnatale/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "1.1M",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/Cy4K1h_pVK5/",
+          "code": "Cy4K1h_pVK5",
+          "views_displayed": "2M",
+          "views_approximate": 2000000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DIbZAKJxSwq/",
+          "code": "DIbZAKJxSwq",
+          "views_displayed": "3.4M",
+          "views_approximate": 3400000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DLPrI8Rx-ZW/",
+          "code": "DLPrI8Rx-ZW",
+          "views_displayed": "8.8M",
+          "views_approximate": 8800000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DfFQ5sZRAPk/",
+          "code": "DfFQ5sZRAPk",
+          "views_displayed": "120K",
+          "views_approximate": 120000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/De-V8a4xrrC/",
+          "code": "De-V8a4xrrC",
+          "views_displayed": "5,469",
+          "views_approximate": 5469
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/Dezh2gJTX9n/",
+          "code": "Dezh2gJTX9n",
+          "views_displayed": "136K",
+          "views_approximate": 136000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DemrXCuJjp-/",
+          "code": "DemrXCuJjp-",
+          "views_displayed": "31.8M",
+          "views_approximate": 31800000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DeMvSerRUaN/",
+          "code": "DeMvSerRUaN",
+          "views_displayed": "419K",
+          "views_approximate": 419000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DdzN63IJGnQ/",
+          "code": "DdzN63IJGnQ",
+          "views_displayed": "738K",
+          "views_approximate": 738000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DdmJuazxwQX/",
+          "code": "DdmJuazxwQX",
+          "views_displayed": "212K",
+          "views_approximate": 212000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DdRzdZ9J5q3/",
+          "code": "DdRzdZ9J5q3",
+          "views_displayed": "1.8M",
+          "views_approximate": 1800000
+        },
+        {
+          "url": "https://www.instagram.com/calebnatale/reel/DdMhXdnR1ZE/",
+          "code": "DdMhXdnR1ZE",
+          "views_displayed": "5.5M",
+          "views_approximate": 5500000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 11,
+      "minimum_approximate": 5469,
+      "median_approximate": 1269000.0,
+      "outcome": "11/12 выше порога; одна карточка 5469, узкая серия не проверена"
+    },
+    {
+      "handle": "kevinlustgarten",
+      "url": "https://www.instagram.com/kevinlustgarten/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "357K",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/DQIh_OtjHDK/",
+          "code": "DQIh_OtjHDK",
+          "views_displayed": "4,541",
+          "views_approximate": 4541
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/DQIgbObDE1w/",
+          "code": "DQIgbObDE1w",
+          "views_displayed": "1,558",
+          "views_approximate": 1558
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/DH7CS5ZvPYA/",
+          "code": "DH7CS5ZvPYA",
+          "views_displayed": "730",
+          "views_approximate": 730
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/DF9OlWBIRO5/",
+          "code": "DF9OlWBIRO5",
+          "views_displayed": "2,525",
+          "views_approximate": 2525
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/DFWcOoyv6aO/",
+          "code": "DFWcOoyv6aO",
+          "views_displayed": "1.3M",
+          "views_approximate": 1300000
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/DFBZaEjv1EK/",
+          "code": "DFBZaEjv1EK",
+          "views_displayed": "10.9K",
+          "views_approximate": 10900
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/DE-iSW6PibC/",
+          "code": "DE-iSW6PibC",
+          "views_displayed": "1,721",
+          "views_approximate": 1721
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/DEv2PmAvyF-/",
+          "code": "DEv2PmAvyF-",
+          "views_displayed": "229",
+          "views_approximate": 229
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/C7MxRDQvCtY/",
+          "code": "C7MxRDQvCtY",
+          "views_displayed": "82.3K",
+          "views_approximate": 82300
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/C2aWcsMLBx8/",
+          "code": "C2aWcsMLBx8",
+          "views_displayed": "154K",
+          "views_approximate": 154000
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/C2A61jovGXE/",
+          "code": "C2A61jovGXE",
+          "views_displayed": "58.3K",
+          "views_approximate": 58300
+        },
+        {
+          "url": "https://www.instagram.com/kevinlustgarten/reel/C09lE3eLJ81/",
+          "code": "C09lE3eLJ81",
+          "views_displayed": "58.7K",
+          "views_approximate": 58700
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 2,
+      "minimum_approximate": 229,
+      "median_approximate": 7720.5,
+      "outcome": "2/12 выше порога; не выбран"
+    },
+    {
+      "handle": "kevinbparry",
+      "url": "https://www.instagram.com/kevinbparry/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "1.9M",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DEpkUtVR9zE/",
+          "code": "DEpkUtVR9zE",
+          "views_displayed": "13.4M",
+          "views_approximate": 13400000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/CqBVPaPtaaI/",
+          "code": "CqBVPaPtaaI",
+          "views_displayed": "54.8M",
+          "views_approximate": 54800000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/CRRpmU7jJiz/",
+          "code": "CRRpmU7jJiz",
+          "views_displayed": "8.9M",
+          "views_approximate": 8900000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DfKqIfmRsBs/",
+          "code": "DfKqIfmRsBs",
+          "views_displayed": "203K",
+          "views_approximate": 203000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DekAjHKRu24/",
+          "code": "DekAjHKRu24",
+          "views_displayed": "59.1K",
+          "views_approximate": 59100
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DeH_CZJq3IR/",
+          "code": "DeH_CZJq3IR",
+          "views_displayed": "406K",
+          "views_approximate": 406000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DeH8WtzKjJ3/",
+          "code": "DeH8WtzKjJ3",
+          "views_displayed": "2M",
+          "views_approximate": 2000000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/Dd7Ow-_KzxN/",
+          "code": "Dd7Ow-_KzxN",
+          "views_displayed": "348K",
+          "views_approximate": 348000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DdrRHkmxgFW/",
+          "code": "DdrRHkmxgFW",
+          "views_displayed": "76.8K",
+          "views_approximate": 76800
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/Ddl5sb3RArQ/",
+          "code": "Ddl5sb3RArQ",
+          "views_displayed": "127K",
+          "views_approximate": 127000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DctRtynxk94/",
+          "code": "DctRtynxk94",
+          "views_displayed": "109K",
+          "views_approximate": 109000
+        },
+        {
+          "url": "https://www.instagram.com/kevinbparry/reel/DawBUibRMDY/",
+          "code": "DawBUibRMDY",
+          "views_displayed": "233K",
+          "views_approximate": 233000
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 10,
+      "minimum_approximate": 59100,
+      "median_approximate": 290500.0,
+      "outcome": "10/12 выше порога; не выбран"
+    },
+    {
+      "handle": "josepeibanez",
+      "url": "https://www.instagram.com/josepeibanez/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Не тот профиль или недостаточно признаков нужного автора; не использовать как референс"
+    },
+    {
+      "handle": "hayden.hillier",
+      "url": "https://www.instagram.com/hayden.hillier/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Профиль недоступен при публичной проверке; содержание не исследовалось"
+    },
+    {
+      "handle": "nick_saraev",
+      "url": "https://www.instagram.com/nick_saraev/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "733K",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DRUbY-3D7ef/",
+          "code": "DRUbY-3D7ef",
+          "views_displayed": "742K",
+          "views_approximate": 742000
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DSm-QQ_Dxh3/",
+          "code": "DSm-QQ_Dxh3",
+          "views_displayed": "1M",
+          "views_approximate": 1000000
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfZGREyvPUX/",
+          "code": "DfZGREyvPUX",
+          "views_displayed": "45.7K",
+          "views_approximate": 45700
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfXfZ0GPHy0/",
+          "code": "DfXfZ0GPHy0",
+          "views_displayed": "25.4K",
+          "views_approximate": 25400
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfUtovOvQ8U/",
+          "code": "DfUtovOvQ8U",
+          "views_displayed": "86.2K",
+          "views_approximate": 86200
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfUBU1tPVZn/",
+          "code": "DfUBU1tPVZn",
+          "views_displayed": "161K",
+          "views_approximate": 161000
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfRVXxePAl2/",
+          "code": "DfRVXxePAl2",
+          "views_displayed": "104K",
+          "views_approximate": 104000
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfPuiYyP4Hy/",
+          "code": "DfPuiYyP4Hy",
+          "views_displayed": "192K",
+          "views_approximate": 192000
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfOxYusvmfG/",
+          "code": "DfOxYusvmfG",
+          "views_displayed": "55.5K",
+          "views_approximate": 55500
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfNH94MuR6D/",
+          "code": "DfNH94MuR6D",
+          "views_displayed": "84.5K",
+          "views_approximate": 84500
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfMPGCguhRQ/",
+          "code": "DfMPGCguhRQ",
+          "views_displayed": "170K",
+          "views_approximate": 170000
+        },
+        {
+          "url": "https://www.instagram.com/nick_saraev/reel/DfKVRpeO3dk/",
+          "code": "DfKVRpeO3dk",
+          "views_displayed": "66.9K",
+          "views_approximate": 66900
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 6,
+      "minimum_approximate": 25400,
+      "median_approximate": 95100.0,
+      "outcome": "6/12 выше порога; автоматизационную серию из пяти выпусков не подтвердили"
+    },
+    {
+      "handle": "nocodestartup_",
+      "url": "https://www.instagram.com/nocodestartup_/reels/",
+      "checked_on": "2026-11-06",
+      "followers_displayed": "128K",
+      "cards": [
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DfYWjrOEzqj/",
+          "code": "DfYWjrOEzqj",
+          "views_displayed": "1,070",
+          "views_approximate": 1070
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DfVW1yxg_87/",
+          "code": "DfVW1yxg_87",
+          "views_displayed": "325",
+          "views_approximate": 325
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DfSCBC0DG_x/",
+          "code": "DfSCBC0DG_x",
+          "views_displayed": "542",
+          "views_approximate": 542
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DfHaNS8otHj/",
+          "code": "DfHaNS8otHj",
+          "views_displayed": "605",
+          "views_approximate": 605
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DfCQTLtiafk/",
+          "code": "DfCQTLtiafk",
+          "views_displayed": "853",
+          "views_approximate": 853
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/De1_dxfjXJ3/",
+          "code": "De1_dxfjXJ3",
+          "views_displayed": "1,161",
+          "views_approximate": 1161
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DeuFkosDaE8/",
+          "code": "DeuFkosDaE8",
+          "views_displayed": "1,503",
+          "views_approximate": 1503
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DekPDiygcfH/",
+          "code": "DekPDiygcfH",
+          "views_displayed": "5,680",
+          "views_approximate": 5680
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DekD4mDAXVb/",
+          "code": "DekD4mDAXVb",
+          "views_displayed": "1,037",
+          "views_approximate": 1037
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DeRVEhBArfj/",
+          "code": "DeRVEhBArfj",
+          "views_displayed": "1,567",
+          "views_approximate": 1567
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/DeHHWVrRgnR/",
+          "code": "DeHHWVrRgnR",
+          "views_displayed": "1,228",
+          "views_approximate": 1228
+        },
+        {
+          "url": "https://www.instagram.com/nocodestartup_/reel/Dd_XOQRxg1z/",
+          "code": "Dd_XOQRxg1z",
+          "views_displayed": "1,387",
+          "views_approximate": 1387
+        }
+      ],
+      "cards_checked": 12,
+      "cards_at_least_100k": 0,
+      "minimum_approximate": 325,
+      "median_approximate": 1115.5,
+      "outcome": "0/12 выше порога; португалоязычный источник, не выбран по просмотрам"
+    },
+    {
+      "handle": "hashem_alghaili",
+      "url": "https://www.instagram.com/hashem_alghaili/reels/",
+      "checked_on": "2026-11-06",
+      "outcome": "Профиль недоступен при публичной проверке; содержание не исследовалось"
+    }
+  ],
+  "series": [
+    {
+      "id": "E1",
+      "handle": "austen_paul",
+      "rule": "Продуктовый кадр: постановка и практические приёмы плюс результат",
+      "naming": "Аналитическая группировка помощника",
+      "codes": [
+        "DfPymYGhhtQ",
+        "Deuvi54h7Lw",
+        "DePbx1nhGbw",
+        "Dd4JQLUhEQz",
+        "Dc_kjZGhXYN",
+        "DcjNPkZB_KF"
+      ],
+      "episodes_checked": 6,
+      "episodes_at_least_100k": 6,
+      "minimum_approximate": 202000,
+      "median_approximate": 225000.0,
+      "maximum_approximate": 263000,
+      "local_novelty": "Не проверена",
+      "phone_adaptation": "Не испытана"
+    }
+  ],
+  "reels": [
+    {
+      "handle": "austen_paul",
+      "code": "DfPymYGhhtQ",
+      "url": "https://www.instagram.com/austen_paul/reel/DfPymYGhhtQ/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-02T20:04:42+03:00",
+      "views_displayed": "263K",
+      "views_approximate": 263000,
+      "caption_excerpt": "Introducing the Deo by @calderalab ",
+      "metadata_match": true,
+      "series_id": "E1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 27.23415,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DfCvRZ7ByMM",
+      "url": "https://www.instagram.com/austen_paul/reel/DfCvRZ7ByMM/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-28T18:20:53+03:00",
+      "views_displayed": "353K",
+      "views_approximate": 353000,
+      "caption_excerpt": "Dji Mic 3 this little mic packs a whole lot of tech into such a small device. 🎤",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "austen_paul",
+      "code": "Deuvi54h7Lw",
+      "url": "https://www.instagram.com/austen_paul/reel/Deuvi54h7Lw/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-20T23:58:09+03:00",
+      "views_displayed": "224K",
+      "views_approximate": 224000,
+      "caption_excerpt": "Getting Detailed with Mangos 🥭 #filmmaking #cinematography #behindthescenes #productvideo #filmmaker",
+      "metadata_match": true,
+      "series_id": "E1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 15.926032,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DePbx1nhGbw",
+      "url": "https://www.instagram.com/austen_paul/reel/DePbx1nhGbw/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-08T20:10:12+03:00",
+      "views_displayed": "226K",
+      "views_approximate": 226000,
+      "caption_excerpt": "Now what’s the fun in using Ai? 🤖 Product commercial for @oikos and their strawberry protein shake. #filmmaking #cinematography #behindthescenes #productvideo #",
+      "metadata_match": true,
+      "series_id": "E1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 22.938458,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DeKShxMBXHz",
+      "url": "https://www.instagram.com/austen_paul/reel/DeKShxMBXHz/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-06T20:11:19+03:00",
+      "views_displayed": "245K",
+      "views_approximate": 245000,
+      "caption_excerpt": "You Spin Me Right Round Baby @zhiyun_tech using their Cinepeer Crane 4E #filmmaking #cinematography #behindthescenes #productvideo #filmmaker",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "austen_paul",
+      "code": "Dd4JQLUhEQz",
+      "url": "https://www.instagram.com/austen_paul/reel/Dd4JQLUhEQz/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-29T19:05:26+03:00",
+      "views_displayed": "231K",
+      "views_approximate": 231000,
+      "caption_excerpt": "Behind the Scenes of how we created this commercial for @oikos ",
+      "metadata_match": true,
+      "series_id": "E1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 22.427619,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "austen_paul",
+      "code": "Ddrd6T9BEua",
+      "url": "https://www.instagram.com/austen_paul/reel/Ddrd6T9BEua/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-24T20:55:19+03:00",
+      "views_displayed": "197K",
+      "views_approximate": 197000,
+      "caption_excerpt": "#ASUSPartner Learn masking made easy with the @asususa @proart P16 with the dial & control panel. #ASUSProTips #ASUSProArt",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DdonOWihNqx",
+      "url": "https://www.instagram.com/austen_paul/reel/DdonOWihNqx/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-23T18:18:04+03:00",
+      "views_displayed": "223K",
+      "views_approximate": 223000,
+      "caption_excerpt": "#ASUSPartner The Power of @asususa @proart P16 and Story Cube easily allows you to find your exact content quickly. #ASUSProTips #ASUSProArt",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DdUEsl-BtK6",
+      "url": "https://www.instagram.com/austen_paul/reel/DdUEsl-BtK6/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-15T18:52:35+03:00",
+      "views_displayed": "199K",
+      "views_approximate": 199000,
+      "caption_excerpt": "Capturing Time with @edelkrone ",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "austen_paul",
+      "code": "Dc_kjZGhXYN",
+      "url": "https://www.instagram.com/austen_paul/reel/Dc_kjZGhXYN/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-09-07T19:46:56+03:00",
+      "views_displayed": "202K",
+      "views_approximate": 202000,
+      "caption_excerpt": "Filming a brand video for my client @nothing.eco ☕️",
+      "metadata_match": true,
+      "series_id": "E1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 62.80712,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DcjNPkZB_KF",
+      "url": "https://www.instagram.com/austen_paul/reel/DcjNPkZB_KF/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-08-27T19:24:33+03:00",
+      "views_displayed": "204K",
+      "views_approximate": 204000,
+      "caption_excerpt": "How I light my Product videos. Here are some recent tabletop shots that I did for my client @nothing.eco #filmmaking #cinematography #behindthescenes #productvi",
+      "metadata_match": true,
+      "series_id": "E1",
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 17.713968,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing"
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DcbSPY1hBOL",
+      "url": "https://www.instagram.com/austen_paul/reel/DcbSPY1hBOL/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-08-24T17:34:49+03:00",
+      "views_displayed": "196K",
+      "views_approximate": 196000,
+      "caption_excerpt": "I love filming whiskey commercials. One of my favorite types of products to film. From the bottles design to the beautiful gold color of the liquid you can alwa",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": true,
+      "audio_reviewed": false,
+      "duration_seconds": 29.277506,
+      "visual_method": "4 frame samples, starting around 0.4s, quarter-duration spacing",
+      "series_exclusion": "В выбранных кадрах виден готовый ролик о виски; BTS не подтверждён, не включён в E1"
+    },
+    {
+      "handle": "zachking",
+      "code": "DZ-dSUgSRiy",
+      "url": "https://www.instagram.com/zachking/reel/DZ-dSUgSRiy/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-06-24T19:49:11+03:00",
+      "views_displayed": "58.8M",
+      "views_approximate": 58800000,
+      "caption_excerpt": "this is a message to AI",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DXYSzTsEhzM",
+      "url": "https://www.instagram.com/zachking/reel/DXYSzTsEhzM/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-04-21T07:03:23+03:00",
+      "views_displayed": "19.8M",
+      "views_approximate": 19800000,
+      "caption_excerpt": "The Illusion Rug",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfNvqMJy2UY",
+      "url": "https://www.instagram.com/zachking/reel/DfNvqMJy2UY/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-11-02T00:58:21+03:00",
+      "views_displayed": "8.9M",
+      "views_approximate": 8900000,
+      "caption_excerpt": "I can’t take credit for all the amazing things my team is able to pull off. This video concept was to visualize the inside of a laundry machine and battle an oc",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfKVsI6Sipo",
+      "url": "https://www.instagram.com/zachking/reel/DfKVsI6Sipo/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-31T17:10:25+03:00",
+      "views_displayed": "13.2M",
+      "views_approximate": 13200000,
+      "caption_excerpt": "Extreme yoga",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfIlAm3S3qm",
+      "url": "https://www.instagram.com/zachking/reel/DfIlAm3S3qm/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-31T00:45:49+03:00",
+      "views_displayed": "368K",
+      "views_approximate": 368000,
+      "caption_excerpt": "Am I a yogi now?",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfIiza-SA-Y",
+      "url": "https://www.instagram.com/zachking/reel/DfIiza-SA-Y/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-31T00:26:43+03:00",
+      "views_displayed": "1.5M",
+      "views_approximate": 1500000,
+      "caption_excerpt": "can I do this extreme yoga pose?",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfH-n4rxJcN",
+      "url": "https://www.instagram.com/zachking/reel/DfH-n4rxJcN/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-30T19:10:41+03:00",
+      "views_displayed": "1.9M",
+      "views_approximate": 1900000,
+      "caption_excerpt": "Please only take one piece of candy 🎃",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfFLZVMS2nV",
+      "url": "https://www.instagram.com/zachking/reel/DfFLZVMS2nV/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-29T17:04:14+03:00",
+      "views_displayed": "2.4M",
+      "views_approximate": 2400000,
+      "caption_excerpt": "I finally figured out how they do those extreme yoga poses",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfDcBj0SRW2",
+      "url": "https://www.instagram.com/zachking/reel/DfDcBj0SRW2/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-29T00:51:39+03:00",
+      "views_displayed": "7.3M",
+      "views_approximate": 7300000,
+      "caption_excerpt": "#behindthescenes",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfA8u0svyWv",
+      "url": "https://www.instagram.com/zachking/reel/DfA8u0svyWv/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-28T01:39:20+03:00",
+      "views_displayed": "405K",
+      "views_approximate": 405000,
+      "caption_excerpt": "",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfA7b4xBTNy",
+      "url": "https://www.instagram.com/zachking/reel/DfA7b4xBTNy/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-28T01:27:43+03:00",
+      "views_displayed": "326K",
+      "views_approximate": 326000,
+      "caption_excerpt": "",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    },
+    {
+      "handle": "zachking",
+      "code": "DfA7IDNBMmM",
+      "url": "https://www.instagram.com/zachking/reel/DfA7IDNBMmM/",
+      "checked_on": "2026-11-06",
+      "published_at_moscow": "2026-10-28T01:25:02+03:00",
+      "views_displayed": "491K",
+      "views_approximate": 491000,
+      "caption_excerpt": "he broke Stonehenge",
+      "metadata_match": true,
+      "series_id": null,
+      "visual_sample_reviewed": false,
+      "audio_reviewed": false
+    }
+  ],
+  "paused_zero_waste_local_check": {
+    "status": "Приостановлено после D016; не завершённый фильтр",
+    "search_attempts": [
+      {
+        "id": "yandex-scraps",
+        "requested_url": "https://yandex.ru/search/?text=site%3Ainstagram.com/reel/%20%22%D0%BA%D0%BE%D0%B6%D1%83%D1%80%D0%B0%22%20%22%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%22",
+        "outcome": "Проверка на робота; результаты не получены"
+      },
+      {
+        "id": "yandex-zero",
+        "requested_url": "https://yandex.ru/search/?text=site%3Ainstagram.com%20%22%D0%B1%D0%B5%D0%B7%20%D0%BE%D1%82%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%22%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B",
+        "outcome": "Проверка на робота; результаты не получены"
+      },
+      {
+        "id": "brave-product",
+        "requested_url": "https://search.brave.com/search?q=site%3Ainstagram.com/reel/%20%22%D0%BE%D0%B4%D0%B8%D0%BD%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%22%20%22%D0%BE%D1%82%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%22",
+        "outcome": "HTTP 429; результаты не получены"
+      },
+      {
+        "id": "google-peel",
+        "requested_url": "https://www.google.com/search?q=site%3Ainstagram.com/reel/%20%22%D0%BA%D0%BE%D0%B6%D1%83%D1%80%D0%B0%22%20%22%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%22",
+        "outcome": "Проверка на робота; результаты не получены"
+      },
+      {
+        "id": "instagram-zero",
+        "requested_url": "https://www.instagram.com/explore/search/keyword/?q=%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BE%D1%82%D1%85%D0%BE%D0%B4%D0%BE%D0%B2",
+        "outcome": "Ошибка открытия поисковой страницы; результаты не получены"
+      }
+    ],
+    "profile_attempts": [
+      {
+        "handle": "zero_waste_russia",
+        "url": "https://www.instagram.com/zero_waste_russia/reels/",
+        "checked_on": "2026-11-06",
+        "outcome": "Не получена подходящая открытая сетка Reels"
+      },
+      {
+        "handle": "zerowaste.ru",
+        "url": "https://www.instagram.com/zerowaste.ru/reels/",
+        "checked_on": "2026-11-06",
+        "outcome": "Закрытый профиль; содержание не исследовалось"
+      },
+      {
+        "handle": "polina_sokhrani",
+        "url": "https://www.instagram.com/polina_sokhrani/reels/",
+        "checked_on": "2026-11-06",
+        "outcome": "Профиль недоступен при проверке"
+      },
+      {
+        "handle": "chef_vivien",
+        "url": "https://www.instagram.com/chef_vivien/reels/",
+        "checked_on": "2026-11-06",
+        "outcome": "Недостаточно признаков нужного русскоязычного автора; не использовать"
+      },
+      {
+        "handle": "belkovich",
+        "url": "https://www.instagram.com/belkovich/reels/",
+        "checked_on": "2026-11-06",
+        "outcome": "Открыта сетка из 12 карточек; подписи выпусков на этапе узкой проверки не изучены; исследование приостановлено после смены приоритета пользователем"
+      },
+      {
+        "handle": "yuliya_small",
+        "url": "https://www.instagram.com/yuliya_small/reels/",
+        "checked_on": "2026-11-06",
+        "outcome": "Открыта сетка из 12 карточек; подписи выпусков на этапе узкой проверки не изучены; исследование приостановлено после смены приоритета пользователем"
+      }
+    ],
+    "conclusion": "Нельзя делать вывод об отсутствии аналогов"
+  }
+}

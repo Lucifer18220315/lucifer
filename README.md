@@ -16,6 +16,7 @@
 8. [Первая подборка зарубежных Instagram-аккаунтов](research/instagram-competitors-2026-11-06.md).
 9. [Локальный фильтр: что уже есть на русском и что пока не доказано](research/instagram-local-filter-2026-11-06.md).
 10. [Узкие серии с выпусками 100K+: основной кандидат и резерв](research/instagram-series-100k-2026-11-06.md).
+11. [Текущий приоритет: монтаж и автоматизация, E1 Austen Paul](research/instagram-editing-automation-2026-11-06.md); [съёмочный черновик](projects/lab/drafts/LAB-P001-product-shot.md).
 
 ## Карта базы
 
