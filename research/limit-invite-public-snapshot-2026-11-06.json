@@ -1,0 +1,102 @@
+{
+  "checked_on": "2026-11-06",
+  "timezone": "Europe/Moscow",
+  "source": "https://www.instagram.com/limit_invite/reels/",
+  "access": "public web, not signed in",
+  "followers_displayed": 365,
+  "following_displayed": 244,
+  "bio_displayed": [
+    "Специалист по вопросам",
+    "Наслаждаюсь яркой жизнью"
+  ],
+  "scope": "first 12 cards; 4 visually reviewed videos; not whole account",
+  "limits": [
+    "view counts are a snapshot at different publication ages",
+    "11K is an abbreviated display value",
+    "private analytics and account recommendation status unavailable",
+    "authoring tools, effort and asset rights unknown",
+    "audio not assessed"
+  ],
+  "reels": [
+    {
+      "code": "DfUg_vSud_I",
+      "url": "https://www.instagram.com/limit_invite/reel/DfUg_vSud_I/",
+      "views_displayed": "1,463",
+      "review": {
+        "duration_seconds": 52.833333333333336,
+        "published_at_moscow": "2026-11-04T16:04:28+03:00",
+        "method": "visual frame sampling across full duration; page caption read; audio not assessed"
+      }
+    },
+    {
+      "code": "DfSB__PutPU",
+      "url": "https://www.instagram.com/limit_invite/reel/DfSB__PutPU/",
+      "views_displayed": "122",
+      "review": {
+        "duration_seconds": 32,
+        "published_at_moscow": "2026-11-03T16:52:19+03:00",
+        "method": "visual frame sampling across full duration; page caption read; audio not assessed"
+      }
+    },
+    {
+      "code": "DfRI6zMO33S",
+      "url": "https://www.instagram.com/limit_invite/reel/DfRI6zMO33S/",
+      "views_displayed": "138"
+    },
+    {
+      "code": "DfPnD6LuAND",
+      "url": "https://www.instagram.com/limit_invite/reel/DfPnD6LuAND/",
+      "views_displayed": "117",
+      "review": {
+        "duration_seconds": 31.553061,
+        "published_at_moscow": "2026-11-02T18:19:22+03:00",
+        "method": "visual frame sampling across full duration; page caption read; audio not assessed"
+      }
+    },
+    {
+      "code": "DfCy3nXOTzw",
+      "url": "https://www.instagram.com/limit_invite/reel/DfCy3nXOTzw/",
+      "views_displayed": "6,604"
+    },
+    {
+      "code": "DfKxP-LOG1K",
+      "url": "https://www.instagram.com/limit_invite/reel/DfKxP-LOG1K/",
+      "views_displayed": "2,523"
+    },
+    {
+      "code": "DfKTMS9u_aq",
+      "url": "https://www.instagram.com/limit_invite/reel/DfKTMS9u_aq/",
+      "views_displayed": "1,459"
+    },
+    {
+      "code": "DfE31cpOo4O",
+      "url": "https://www.instagram.com/limit_invite/reel/DfE31cpOo4O/",
+      "views_displayed": "11K",
+      "review": {
+        "duration_seconds": 47,
+        "published_at_moscow": "2026-10-29T14:13:49+03:00",
+        "method": "visual frame sampling across full duration; page caption read; audio not assessed"
+      }
+    },
+    {
+      "code": "DfAmyJZSSRi",
+      "url": "https://www.instagram.com/limit_invite/reel/DfAmyJZSSRi/",
+      "views_displayed": "2,755"
+    },
+    {
+      "code": "DfAUTxWO-VU",
+      "url": "https://www.instagram.com/limit_invite/reel/DfAUTxWO-VU/",
+      "views_displayed": "1,834"
+    },
+    {
+      "code": "De2c_0ZuU2y",
+      "url": "https://www.instagram.com/limit_invite/reel/De2c_0ZuU2y/",
+      "views_displayed": "1,737"
+    },
+    {
+      "code": "De0bItwIK4L",
+      "url": "https://www.instagram.com/limit_invite/reel/De0bItwIK4L/",
+      "views_displayed": "2,264"
+    }
+  ]
+}
