@@ -1,0 +1,191 @@
+{
+  "source": "https://www.instagram.com/austen_paul/reel/DcjNPkZB_KF/",
+  "source_video_fps": 23.976,
+  "source_video_frames": 423,
+  "source_video_duration": 17.64264264264264,
+  "source_audio_duration": 17.713968,
+  "shots": [
+    {
+      "id": "lighting",
+      "from": 0,
+      "to": 94,
+      "frames": 94,
+      "start_seconds": 0.0
+    },
+    {
+      "id": "tabletop",
+      "from": 94,
+      "to": 154,
+      "frames": 60,
+      "start_seconds": 3.9205872539205875
+    },
+    {
+      "id": "blueprint",
+      "from": 154,
+      "to": 169,
+      "frames": 15,
+      "start_seconds": 6.42308975642309
+    },
+    {
+      "id": "pages",
+      "from": 169,
+      "to": 200,
+      "frames": 31,
+      "start_seconds": 7.048715382048716
+    },
+    {
+      "id": "flipbook",
+      "from": 200,
+      "to": 231,
+      "frames": 31,
+      "start_seconds": 8.341675008341676
+    },
+    {
+      "id": "folding",
+      "from": 231,
+      "to": 269,
+      "frames": 38,
+      "start_seconds": 9.634634634634635
+    },
+    {
+      "id": "pour",
+      "from": 269,
+      "to": 330,
+      "frames": 61,
+      "start_seconds": 11.219552886219553
+    },
+    {
+      "id": "sweep",
+      "from": 330,
+      "to": 344,
+      "frames": 14,
+      "start_seconds": 13.763763763763764
+    },
+    {
+      "id": "pencil-hand",
+      "from": 344,
+      "to": 353,
+      "frames": 9,
+      "start_seconds": 14.347681014347682
+    },
+    {
+      "id": "pencil-macro",
+      "from": 353,
+      "to": 366,
+      "frames": 13,
+      "start_seconds": 14.723056389723057
+    },
+    {
+      "id": "clock",
+      "from": 366,
+      "to": 392,
+      "frames": 26,
+      "start_seconds": 15.265265265265265
+    },
+    {
+      "id": "return",
+      "from": 392,
+      "to": 423,
+      "frames": 31,
+      "start_seconds": 16.349683016349683
+    }
+  ],
+  "subevents": [
+    {
+      "shot": "pages",
+      "source_frames": [
+        169,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        199
+      ],
+      "observation": "Four drawings: assembly/front, three prototypes, brief back view, side profile. Thumb visible at local12–14 and18–19. Short view change at local15 must be preserved."
+    },
+    {
+      "shot": "folding",
+      "source_frames": [
+        231,
+        268
+      ],
+      "observation": "Continuous folding and camera push; not six frozen stop-motion states."
+    },
+    {
+      "shot": "clock",
+      "source_frames": [
+        366,
+        391
+      ],
+      "observation": "Native26-frame read:12:40–12:53; initialhold and nonuniform cadence."
+    },
+    {
+      "shot": "return",
+      "source_frames": [
+        392,
+        405,
+        422
+      ],
+      "observation": "Camera pushes forward; thumb in front, other fingers behind cup."
+    },
+    {
+      "shot": "lighting",
+      "source_frames": [
+        7,
+        22,
+        23,
+        24,
+        38,
+        54,
+        58,
+        62,
+        74
+      ],
+      "observation": "Contour caption appears at24, background caption at58; our switches at22/54 are early. Source background is diagonal elongated patch; ours circular."
+    },
+    {
+      "shot": "flipbook",
+      "source_frames": [
+        200,
+        215,
+        227,
+        228,
+        230
+      ],
+      "observation": "Perspective room grid dominates first28frames; small shaded cup appears at228–230. Our large staged cup drawing is an incorrect reconstruction."
+    },
+    {
+      "shot": "pour",
+      "source_frames": [
+        269,
+        300,
+        329
+      ],
+      "observation": "Open upper cup with visible diagonal creases, short nozzle-to-rim distance. Our front=back=1 keeps wrong closed state."
+    },
+    {
+      "shot": "sweep",
+      "source_frames": [
+        330,
+        335,
+        338,
+        343
+      ],
+      "observation": "No visible text at330; text revealed after sweep near338. Our printed card visible from firstframe misses hidden state change."
+    },
+    {
+      "shot": "pencil-hand",
+      "source_frames": [
+        344,
+        349,
+        352
+      ],
+      "observation": "Tip remains above sheet at349, contact near352. Our descent/contact occurs too early."
+    }
+  ]
+}

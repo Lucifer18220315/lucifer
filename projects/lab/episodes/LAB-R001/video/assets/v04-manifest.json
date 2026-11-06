@@ -1,0 +1,17 @@
+{
+  "hand": {
+    "source": "https://cdn.jsdelivr.net/npm/@webxr-input-profiles/assets@1.0.20/dist/profiles/generic-hand/right.glb",
+    "license": "MIT",
+    "copyright": "2019 Amazon",
+    "license_text": "licenses/webxr-hand-MIT.md",
+    "sha256": "291790c14f7f88a7f9bd35330c47392ed8e8d395ae6728f4bb7089f1bc1f2b96",
+    "derived_model": {
+      "file": "public/v04-assets/right-hand-smooth.glb",
+      "sha256": "80062d8066d27c67d2ae3d29ab530b9c6a3c68eb7576a818a1a484e6ecf8c266",
+      "method": "One skin-weight-preserving Loop subdivision; original nodes and inverse bind matrices retained.",
+      "vertices": 4630,
+      "triangles": 9256
+    }
+  },
+  "materials": "v03-manifest.json; existing CC0 paper/wood/HDR reused"
+}

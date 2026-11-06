@@ -1,0 +1,34 @@
+{
+  "test": "Eight identical source-time samples 28–31.5; 720x1280; 47.952 fps; only transmissionResolutionScale changes; initial loading included",
+  "forward": [
+    {
+      "name": "baseline",
+      "frames": 8,
+      "seconds": 54.276
+    },
+    {
+      "name": "optimized",
+      "frames": 8,
+      "seconds": 44.278
+    }
+  ],
+  "reverse": [
+    {
+      "name": "optimized",
+      "frames": 8,
+      "seconds": 39.257
+    },
+    {
+      "name": "baseline",
+      "frames": 8,
+      "seconds": 57.153
+    }
+  ],
+  "pixels": {
+    "frames": 8,
+    "mean_absolute_RGB_0_255": 0.3518873878761574,
+    "fraction_pixels_max_channel_difference_gt_5": 0.010792236328125,
+    "fraction_pixels_max_channel_difference_gt_20": 1.193576388888889e-05
+  },
+  "limitation": "Short sample on this CPU server, not a universal render-speed estimate"
+}

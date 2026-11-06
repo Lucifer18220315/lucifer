@@ -1,0 +1,136 @@
+{
+  "source_frames": [
+    {
+      "frame": 366,
+      "local_frame": 0,
+      "dominant_readable_minute": 40
+    },
+    {
+      "frame": 367,
+      "local_frame": 1,
+      "dominant_readable_minute": 40
+    },
+    {
+      "frame": 368,
+      "local_frame": 2,
+      "dominant_readable_minute": 40
+    },
+    {
+      "frame": 369,
+      "local_frame": 3,
+      "dominant_readable_minute": 40
+    },
+    {
+      "frame": 370,
+      "local_frame": 4,
+      "dominant_readable_minute": 41
+    },
+    {
+      "frame": 371,
+      "local_frame": 5,
+      "dominant_readable_minute": 41
+    },
+    {
+      "frame": 372,
+      "local_frame": 6,
+      "dominant_readable_minute": 42
+    },
+    {
+      "frame": 373,
+      "local_frame": 7,
+      "dominant_readable_minute": 42
+    },
+    {
+      "frame": 374,
+      "local_frame": 8,
+      "dominant_readable_minute": 43
+    },
+    {
+      "frame": 375,
+      "local_frame": 9,
+      "dominant_readable_minute": 43
+    },
+    {
+      "frame": 376,
+      "local_frame": 10,
+      "dominant_readable_minute": 44
+    },
+    {
+      "frame": 377,
+      "local_frame": 11,
+      "dominant_readable_minute": 45
+    },
+    {
+      "frame": 378,
+      "local_frame": 12,
+      "dominant_readable_minute": 46
+    },
+    {
+      "frame": 379,
+      "local_frame": 13,
+      "dominant_readable_minute": 46
+    },
+    {
+      "frame": 380,
+      "local_frame": 14,
+      "dominant_readable_minute": 47
+    },
+    {
+      "frame": 381,
+      "local_frame": 15,
+      "dominant_readable_minute": 47
+    },
+    {
+      "frame": 382,
+      "local_frame": 16,
+      "dominant_readable_minute": 48
+    },
+    {
+      "frame": 383,
+      "local_frame": 17,
+      "dominant_readable_minute": 49
+    },
+    {
+      "frame": 384,
+      "local_frame": 18,
+      "dominant_readable_minute": 49
+    },
+    {
+      "frame": 385,
+      "local_frame": 19,
+      "dominant_readable_minute": 50
+    },
+    {
+      "frame": 386,
+      "local_frame": 20,
+      "dominant_readable_minute": 50
+    },
+    {
+      "frame": 387,
+      "local_frame": 21,
+      "dominant_readable_minute": 51
+    },
+    {
+      "frame": 388,
+      "local_frame": 22,
+      "dominant_readable_minute": 51
+    },
+    {
+      "frame": 389,
+      "local_frame": 23,
+      "dominant_readable_minute": 52
+    },
+    {
+      "frame": 390,
+      "local_frame": 24,
+      "dominant_readable_minute": 53
+    },
+    {
+      "frame": 391,
+      "local_frame": 25,
+      "dominant_readable_minute": 53
+    }
+  ],
+  "range": "12:40–12:53",
+  "note": "Read from all 26 native frames. Intermediate flip phases are reconstruction, not extra source observations."
+}

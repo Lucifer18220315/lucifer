@@ -15,13 +15,22 @@
     "check:v03": "node scripts/check_v03.cjs",
     "render:v03": "remotion render src/index.ts FoldLightV03 out/LAB-R001-v03-picture.mp4 --browser-executable=/usr/bin/chromium --gl=swangle --concurrency=2 --crf=16 --timeout=120000",
     "package:v03": "python scripts/package_v03.py",
-    "bake:v03": "node scripts/bake_v03.mjs"
+    "bake:v03": "node scripts/bake_v03.mjs",
+    "controls:v04": "node scripts/controls_v04.mjs",
+    "render:v04": "node scripts/render_v04.mjs",
+    "smooth-hand:v04": "node scripts/smooth_hand_v04.mjs",
+    "package:v04": "python scripts/package_v04.py",
+    "check:v04": "node scripts/check_v04.cjs",
+    "audit:v04": "python scripts/audit_v04.py",
+    "archive:v04": "python scripts/package_v04.py --archive-only"
   },
   "dependencies": {
     "@react-three/fiber": "9.8.2",
     "@react-three/postprocessing": "3.2.2",
+    "@remotion/bundler": "4.0.541",
     "@remotion/cli": "4.0.541",
     "@remotion/media": "4.0.541",
+    "@remotion/renderer": "4.0.541",
     "@remotion/three": "4.0.541",
     "@types/three": "0.187.0",
     "postprocessing": "6.39.6",

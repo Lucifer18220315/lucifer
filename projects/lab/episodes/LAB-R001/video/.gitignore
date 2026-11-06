@@ -5,3 +5,6 @@ out/
 public/*.wav
 public/v03-assets/
 build/
+public/v04-reference-audio.m4a
+build-v04/
+build-v04-controls/

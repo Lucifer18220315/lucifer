@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Playboy — предметный ремейк v04</title>
+<style>
+body{margin:0;background:#131717;color:#eee8da;font:16px/1.5 system-ui,sans-serif}main{max-width:1100px;margin:0 auto;padding:24px}h1{font-size:26px;margin:0 0 8px}p{max-width:850px;color:#c7c8bf}a{color:#d6bd85}video{display:block;width:auto;max-width:100%;height:min(75vh,850px);margin:20px auto;background:#050606}.cuts{display:flex;flex-wrap:wrap;gap:8px}button{font:inherit;background:#252e2a;color:#eee8da;border:1px solid #566056;border-radius:5px;padding:7px 11px;cursor:pointer}button:hover{background:#38433b}.links{display:flex;flex-wrap:wrap;gap:18px}small{display:block;color:#a6b0a8;margin-top:22px}
+</style>
+<main>
+<h1>Playboy / Object Lab — v04</h1>
+<p>12 планов по монтажу выбранного Reels. Переключай сцены или открой сравнение: оригинал слева, наша версия справа.</p>
+<div class="links"><a href="LAB-R001-v04.mp4" download>Скачать ролик</a><a href="LAB-R001-v04-comparison.mp4">Сравнить с оригиналом</a><a href="https://www.instagram.com/austen_paul/reel/DcjNPkZB_KF/" target="_blank" rel="noopener">Референс Austen Paul</a></div>
+<video id="film" controls playsinline preload="metadata" poster="v04-poster.jpg" src="LAB-R001-v04.mp4"></video>
+<div class="cuts" id="cuts"></div>
+<small>Контрольный ремейк: визуальные сцены Playboy; последовательность и звуковая дорожка — по референсу Austen Paul. Звук референса сохранён для сравнения и не объявляется нашей работой. Это компьютерная реконструкция; публикация в соцсетях не выполнялась.</small>
+</main>
+<script>
+const scenes=[[0,'Свет'],[94,'Обход стола'],[154,'Чертёж'],[169,'Листы'],[200,'Блокнот'],[231,'Сборка'],[269,'Налив'],[330,'Карточка'],[344,'Карандаш'],[353,'Макро'],[366,'Часы'],[392,'Возврат']];
+for(const [frame,name] of scenes){const b=document.createElement('button');b.textContent=name;b.dataset.frame=frame;b.onclick=()=>{document.querySelector('#film').currentTime=frame/(2997/125);};document.querySelector('#cuts').append(b);}
+</script>
+</html>
