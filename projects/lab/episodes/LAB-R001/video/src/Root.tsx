@@ -27,8 +27,10 @@ import {PencilHandV04} from './v04/PencilHandV04';
 import {PencilMacroV04} from './v04/PencilMacroV04';
 import {ClockV04} from './v04/ClockV04';
 import {ReturnV04} from './v04/ReturnV04';
+import {LightingReadableV041} from './v041/LightingReadable';
 
 export const Root = () => <>
+  <Composition id="LightingReadableV041" component={LightingReadableV041} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={94}/>
   <Composition id="EditV04" component={EditV04} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={423}/>
   <Composition id="FullRemakeV04" component={FilmV04} width={1080} height={1920} fps={SOURCE_FPS} durationInFrames={423}/>
   <Composition id="FullRemakeV04Motion" component={FilmV04} width={1080} height={1920} fps={SOURCE_FPS*2} durationInFrames={846}/>

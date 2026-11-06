@@ -22,7 +22,9 @@
     "package:v04": "python scripts/package_v04.py",
     "check:v04": "node scripts/check_v04.cjs",
     "audit:v04": "python scripts/audit_v04.py",
-    "archive:v04": "python scripts/package_v04.py --archive-only"
+    "archive:v04": "python scripts/package_v04.py --archive-only",
+    "render:v041": "node scripts/render_v041.mjs",
+    "package:v041": "python scripts/package_v041.py"
   },
   "dependencies": {
     "@react-three/fiber": "9.8.2",

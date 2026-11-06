@@ -142,6 +142,6 @@ export function StageV04({shot}:{shot:ShotV04}){
     <Freeze frame={Math.round(frozenSource*fps/SOURCE_FPS)}><div style={{position:'absolute',left:0,top:0,width:canvasWidth,height:canvasHeight,scale:width/canvasWidth,transformOrigin:'0 0'}}><ThreeCanvas width={canvasWidth} height={canvasHeight} dpr={1} shadows camera={{near:.002,far:3,fov:31}} gl={{antialias:true,alpha:false,powerPreference:'high-performance'}} onCreated={({gl})=>{gl.transmissionResolutionScale=.5;gl.toneMapping=T.ACESFilmicToneMapping;gl.toneMappingExposure=.84;gl.shadowMap.type=T.PCFShadowMap;}}>
       <Scene shot={shot} f={frozenSource} onReady={onReady} shadowSize={quality.shadow}/>
     </ThreeCanvas></div></Freeze>
-    {shot==='lighting'&&label&&<div style={{position:'absolute',left:sourceFrame>=54&&sourceFrame<74?640:sourceFrame>=74?570:655,top:sourceFrame>=54&&sourceFrame<74?370:sourceFrame>=74?1210:480,color:'#f3eee2',fontFamily:'Arial,sans-serif',fontSize:27,fontWeight:500,letterSpacing:.7}}>{label}</div>}
+    {shot==='lighting'&&label&&!getInputProps().hideLightingLabel&&<div style={{position:'absolute',left:sourceFrame>=54&&sourceFrame<74?640:sourceFrame>=74?570:655,top:sourceFrame>=54&&sourceFrame<74?370:sourceFrame>=74?1210:480,color:'#f3eee2',fontFamily:'Arial,sans-serif',fontSize:27,fontWeight:500,letterSpacing:.7}}>{label}</div>}
   </AbsoluteFill>;
 }

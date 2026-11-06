@@ -18,6 +18,8 @@
 10. [Узкие серии с выпусками 100K+: основной кандидат и резерв](research/instagram-series-100k-2026-11-06.md).
 11. [Текущий приоритет: монтаж и автоматизация, E1 Austen Paul](research/instagram-editing-automation-2026-11-06.md); [съёмочный черновик](projects/lab/drafts/LAB-P001-product-shot.md).
 
+Последняя правка: [v04.1 — минималистичные подписи и очистка метаданных](projects/lab/episodes/LAB-R001/v04-1/README.md). Правка только SFX и локальный экспорт CapCut остаются открытыми.
+
 Текущий производственный результат: [LAB-R001 v04 — полный монтаж и покадровая сверка](projects/lab/episodes/LAB-R001/v04/result.md), 17,64 с видео, 720 × 1280, 423 кадра. [Аудит](projects/lab/episodes/LAB-R001/v04/audit.md) выявил 24 пункта расхождений; точный ремейк ещё не принят. Сохранены [v03](projects/lab/episodes/LAB-R001/v03/result.md), [v02](projects/lab/episodes/LAB-R001/v02/result.md), [v01](projects/lab/episodes/LAB-R001/result.md) и [исходный проект](projects/lab/episodes/LAB-R001/video/README.md).
 
 ## Карта базы
