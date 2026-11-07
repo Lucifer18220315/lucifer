@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-07",
+  "source_frames": [
+    94,
+    123,
+    153
+  ],
+  "observation": "Record player shifts strongly right while cup remains central; old wall/player at z=-.176/- .163 had incorrect parallax. Backpack enters left at final viewpoint.",
+  "rough_player_screen_landmarks": [
+    [
+      180,
+      320
+    ],
+    [
+      440,
+      200
+    ],
+    [
+      730,
+      50
+    ]
+  ],
+  "exploratory_fitted_point_world": [
+    0.038155174,
+    0.014899448,
+    -0.501400889
+  ],
+  "fit_residual_px": [
+    [
+      11,
+      -41
+    ],
+    [
+      -30,
+      -16
+    ],
+    [
+      12,
+      45
+    ]
+  ],
+  "geometry": "Separate far room at z=-.80; open lid, platter, vinyl grooves, tonearm, shelf/books, backpack and window. Model dimensions approximated, not measured physical recovery. Player group position [.038,-.050,-.50] after native preview alignment; not identical to fitted landmark because landmark refers to an image region, not group origin.",
+  "depth_of_field": {
+    "tabletop_bokeh_scale": 6,
+    "focus_range": 0.1
+  },
+  "status": "native controls checked across three viewpoints; final motion audit pending",
+  "uncertainty": "background landmarks coarse (~30px); no geometry accuracy percentage"
+}

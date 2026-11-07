@@ -1,0 +1,30 @@
+import React from 'react';
+import {AbsoluteFill,Series,useVideoConfig} from 'remotion';
+import {SOURCE_FPS} from './Stage';
+import {RenderQualityV05} from './quality';
+import {LightingV05} from './LightingV05';
+import {TabletopV05} from './TabletopV05';
+import {BlueprintV05} from './BlueprintV05';
+import {PagesV05} from './PagesV05';
+import {FlipbookV05} from './FlipbookV05';
+import {FoldingV05} from './FoldingV05';
+import {PourV05} from './PourV05';
+import {SweepV05} from './SweepV05';
+import {PencilHandV05} from './PencilHandV05';
+import {PencilMacroV05} from './PencilMacroV05';
+import {ClockV05} from './ClockV05';
+import {ReturnV05} from './ReturnV05';
+export const FilmV05:React.FC<{draft?:boolean}>=({draft=false})=>{const {fps}=useVideoConfig();return <RenderQualityV05.Provider value={{dpr:draft?.5:1,shadow:draft?1024:2048}}><AbsoluteFill><Series>
+  <Series.Sequence name="lighting" durationInFrames={Math.round(94*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><LightingV05/></Series.Sequence>
+  <Series.Sequence name="tabletop" durationInFrames={Math.round(60*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><TabletopV05/></Series.Sequence>
+  <Series.Sequence name="blueprint" durationInFrames={Math.round(15*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><BlueprintV05/></Series.Sequence>
+  <Series.Sequence name="pages" durationInFrames={Math.round(31*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><PagesV05/></Series.Sequence>
+  <Series.Sequence name="flipbook" durationInFrames={Math.round(31*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><FlipbookV05/></Series.Sequence>
+  <Series.Sequence name="folding" durationInFrames={Math.round(38*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><FoldingV05/></Series.Sequence>
+  <Series.Sequence name="pour" durationInFrames={Math.round(61*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><PourV05/></Series.Sequence>
+  <Series.Sequence name="sweep" durationInFrames={Math.round(14*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><SweepV05/></Series.Sequence>
+  <Series.Sequence name="pencil-hand" durationInFrames={Math.round(9*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><PencilHandV05/></Series.Sequence>
+  <Series.Sequence name="pencil-macro" durationInFrames={Math.round(13*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><PencilMacroV05/></Series.Sequence>
+  <Series.Sequence name="clock" durationInFrames={Math.round(26*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><ClockV05/></Series.Sequence>
+  <Series.Sequence name="return" durationInFrames={Math.round(31*fps/SOURCE_FPS)} premountFor={Math.ceil(fps)}><ReturnV05/></Series.Sequence>
+</Series></AbsoluteFill></RenderQualityV05.Provider>;};

@@ -30,7 +30,48 @@ import {ReturnV04} from './v04/ReturnV04';
 import {LightingReadableV041} from './v041/LightingReadable';
 import {HookV042} from './v042/Hook';
 
+import {EditV05B} from './v05b/Edit';
+import {HookSetupV05B} from './v05b/HookSetup';
+import {EditV05} from './v05/Edit';
+import {EditV05Control} from './v05/EditControl';
+import {FilmV05} from './v05/Film';
+import {HookSetupV05,HookDetailV05,HookResultV05} from './v05/Hook';
+import {LightingV05} from './v05/LightingV05';
+import {TabletopV05} from './v05/TabletopV05';
+import {BlueprintV05} from './v05/BlueprintV05';
+import {PagesV05} from './v05/PagesV05';
+import {FlipbookV05} from './v05/FlipbookV05';
+import {FoldingV05} from './v05/FoldingV05';
+import {PourV05} from './v05/PourV05';
+import {SweepV05} from './v05/SweepV05';
+import {PencilHandV05} from './v05/PencilHandV05';
+import {PencilMacroV05} from './v05/PencilMacroV05';
+import {ClockV05} from './v05/ClockV05';
+import {ReturnV05} from './v05/ReturnV05';
+
 export const Root = () => <>
+  <Composition id="HookSetupV05B" component={HookSetupV05B} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={36}/>
+  <Composition id="EditV05B" component={EditV05B} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={423}/>
+  <Composition id="EditV05" component={EditV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={423}/>
+  <Composition id="EditV05Control" component={EditV05Control} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={423}/>
+  <Composition id="FullRemakeV05" component={FilmV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={423}/>
+  <Folder name="V05-Shots">
+    <Composition id="LightingV05" component={LightingV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={94}/>
+    <Composition id="TabletopV05" component={TabletopV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={60}/>
+    <Composition id="BlueprintV05" component={BlueprintV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={15}/>
+    <Composition id="PagesV05" component={PagesV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={31}/>
+    <Composition id="FlipbookV05" component={FlipbookV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={31}/>
+    <Composition id="FoldingV05" component={FoldingV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={38}/>
+    <Composition id="PourV05" component={PourV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={61}/>
+    <Composition id="SweepV05" component={SweepV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={14}/>
+    <Composition id="PencilHandV05" component={PencilHandV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={9}/>
+    <Composition id="PencilMacroV05" component={PencilMacroV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={13}/>
+    <Composition id="ClockV05" component={ClockV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={26}/>
+    <Composition id="ReturnV05" component={ReturnV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={31}/>
+    <Composition id="HookSetupV05" component={HookSetupV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={36}/>
+    <Composition id="HookDetailV05" component={HookDetailV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={30}/>
+    <Composition id="HookResultV05" component={HookResultV05} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={28}/>
+  </Folder>
   <Composition id="HookV042" component={HookV042} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={94}/>
   <Composition id="LightingReadableV041" component={LightingReadableV041} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={94}/>
   <Composition id="EditV04" component={EditV04} width={720} height={1280} fps={SOURCE_FPS} durationInFrames={423}/>

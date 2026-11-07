@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-07",
+  "typescript": "npm run check passed",
+  "python": "AST parse of all *v05*.py passed",
+  "json": "all v05 JSON parsed",
+  "artifacts_sha256": "all 3 final MP4 matched manifest",
+  "decode": "all 3 full files passed",
+  "browser": "hook/control/diagnostic complete muted playback and seven seeks each; player 14 hook chapters,12 control chapters, version toggle and download link passed",
+  "review": "all423native pairs on18contact sheets;9enlarged triptychs;94hook frames",
+  "local_markdown_links_checked": 168,
+  "new_audience_metrics": false,
+  "subjective_listening": false,
+  "sfx_gain_085_completed": false,
+  "capcut_completed": false,
+  "cloud_configuration_modified": false,
+  "mac_used": false,
+  "mp4_committed_to_git": false
+}

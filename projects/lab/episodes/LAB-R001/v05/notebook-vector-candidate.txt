@@ -1,0 +1,31 @@
+import React,{useMemo} from 'react';
+import {StageV05} from '../v05/Stage';
+import {canvasMap} from '../v05/materials';
+import {notebookHalf} from '../v05/textures';
+// Isolated texture patch: the original renderer stays immutable. This entry
+// runs in its own browser; no other shot receives a mutated notebook map.
+function room(stage:number){return canvasMap('v05c-room-'+stage,1536,2048,c=>{
+ c.fillStyle='#f7f8fc';c.fillRect(0,0,1536,2048);c.strokeStyle='#91b9e1';c.lineWidth=2.5;
+ const l=510,r=1040,top=470,bottom=900,front=1050,ceiling=120;
+ for(let i=0;i<=12;i++){
+  const x=i/12*1536,bx=l+(r-l)*i/12;
+  c.beginPath();c.moveTo(x,ceiling);c.lineTo(bx,top);c.lineTo(bx,bottom);c.lineTo(x,front);c.lineTo(768+(x-768)*2.3,2048);c.stroke();
+ }
+ for(let i=0;i<=8;i++){
+  const t=i/8;
+  c.beginPath();c.moveTo(0,ceiling+(front-ceiling)*t);c.lineTo(l,top+(bottom-top)*t);c.lineTo(r,top+(bottom-top)*t);c.lineTo(1536,ceiling+(front-ceiling)*t);c.stroke();
+  c.beginPath();c.moveTo(l*t,ceiling+(top-ceiling)*t);c.lineTo(1536+(r-1536)*t,ceiling+(top-ceiling)*t);c.stroke();
+  c.beginPath();c.moveTo(l*(1-t),bottom+(front-bottom)*t);c.lineTo(r+(1536-r)*t,bottom+(front-bottom)*t);c.stroke();
+ }
+ for(let i=1;i<=8;i++){const t=(i/8)**1.4,y=front+(2048-front)*t;c.beginPath();c.moveTo(0,y);c.lineTo(1536,y);c.stroke();}
+ if(stage){
+  c.save();c.transform(.790602504962094,0,0,.9358708158539548,156.4231439825123,-31.164788865155515);c.strokeStyle='#455b9f';c.lineWidth=3.5;
+  c.beginPath();c.moveTo(600,360);c.bezierCurveTo(680,430,850,415,940,320);c.lineTo(920,970);c.lineTo(630,970);c.closePath();c.stroke();
+  c.beginPath();c.moveTo(610,380);c.bezierCurveTo(750,450,880,420,930,350);c.moveTo(765,415);c.lineTo(765,970);c.moveTo(778,418);c.lineTo(778,970);c.stroke();
+  for(let y=460;y<950;y+=10){const j=Math.sin(y*1.7)*4;c.beginPath();c.moveTo(643+j,y);c.lineTo(750+j,y-38);c.stroke();}c.restore();
+ }
+ });}
+export function FlipbookV05C(){
+ useMemo(()=>{for(const stage of [0,1]){const m=notebookHalf(false,stage);m.image=room(stage).image;m.repeat.set(1,-.5);m.offset.set(0,1);m.needsUpdate=true;}const lower=notebookHalf(true,0);lower.image=room(0).image;lower.needsUpdate=true;},[]);
+ return <StageV05 shot="flipbook"/>;
+}

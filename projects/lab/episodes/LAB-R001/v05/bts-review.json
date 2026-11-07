@@ -1,0 +1,21 @@
+{
+  "review_method": "All36 setup frames on two contact sheets; native frame0 inspected separately. Contact sheets can add thumbnail aliasing; rejection based on native frame artifact too.",
+  "rejected": [
+    {
+      "variant": "HookSetupV05 original",
+      "reason": "Gear merged into darkness; wide empty field; rejected before final delivery."
+    },
+    {
+      "variant": "HookSetupV05B with upper wood extension",
+      "preview": "/workspace/shared/downloads/LAB-R001-v05-opening-rejected-moire.mp4",
+      "preview_sha256": "ad5f95013ed02ff6cabe50e7b0eedfdffa2161d3bfe96d0acf01e298b3ffc20f",
+      "reason": "Native frame showed bright moire in added upper slats; foreground gear improved but background was distracting."
+    }
+  ],
+  "current": "Final B: all36 setup frames and native frame0 reviewed; faulty extension removed, no moire in the inspected native frame. Main opening94frames reviewed across setup36 + unchanged detail30/result28. Technical candidate accepted; audience effectiveness unknown.",
+  "hook_native_frames_reviewed": 94,
+  "cuts_native": [
+    36,
+    66
+  ]
+}

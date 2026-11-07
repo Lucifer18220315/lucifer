@@ -27,7 +27,15 @@
     "package:v041": "python scripts/package_v041.py",
     "render:v042": "node scripts/render_v042.mjs",
     "package:v042": "python scripts/package_v042.py",
-    "audit:v042": "python scripts/audit_v042.py"
+    "audit:v042": "python scripts/audit_v042.py",
+    "controls:v05": "node scripts/controls_v05.mjs",
+    "render:v05": "node scripts/render_v05.mjs",
+    "package:v05": "python scripts/package_v05.py",
+    "audit:v05": "python scripts/audit_overlay_v05.py",
+    "check:v05:browser": "python scripts/check_v05_browser.py",
+    "render:v05:bts": "node scripts/render_hook_v05b.mjs",
+    "render:v05:book": "node scripts/render_flipbook_v05c.mjs",
+    "studio:v05": "remotion studio src/v05c/index.tsx --no-open --port=3031"
   },
   "dependencies": {
     "@react-three/fiber": "9.8.2",

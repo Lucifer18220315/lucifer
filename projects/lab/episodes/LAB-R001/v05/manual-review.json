@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-07",
+  "status": "reviewed; fidelity limits remain",
+  "method": "All 18 contact sheets of native unregistered 50/50 overlays visually inspected. Each native pair represented at 144x256 thumbnail size; selected native-resolution triptychs inspected enlarged. Not a claim of full-resolution inspection of every pixel.",
+  "native_reviewed": 423,
+  "all_423_reviewed": true,
+  "reviewed_ranges": [
+    {
+      "sheet": 1,
+      "from_frame": 0,
+      "to_frame_inclusive": 23,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/01.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 2,
+      "from_frame": 24,
+      "to_frame_inclusive": 47,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/02.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 3,
+      "from_frame": 48,
+      "to_frame_inclusive": 71,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/03.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 4,
+      "from_frame": 72,
+      "to_frame_inclusive": 95,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/04.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 5,
+      "from_frame": 96,
+      "to_frame_inclusive": 119,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/05.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 6,
+      "from_frame": 120,
+      "to_frame_inclusive": 143,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/06.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 7,
+      "from_frame": 144,
+      "to_frame_inclusive": 167,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/07.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 8,
+      "from_frame": 168,
+      "to_frame_inclusive": 191,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/08.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 9,
+      "from_frame": 192,
+      "to_frame_inclusive": 215,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/09.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 10,
+      "from_frame": 216,
+      "to_frame_inclusive": 239,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/10.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 11,
+      "from_frame": 240,
+      "to_frame_inclusive": 263,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/11.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 12,
+      "from_frame": 264,
+      "to_frame_inclusive": 287,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/12.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 13,
+      "from_frame": 288,
+      "to_frame_inclusive": 311,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/13.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 14,
+      "from_frame": 312,
+      "to_frame_inclusive": 335,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/14.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 15,
+      "from_frame": 336,
+      "to_frame_inclusive": 359,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/15.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 16,
+      "from_frame": 360,
+      "to_frame_inclusive": 383,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/16.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 17,
+      "from_frame": 384,
+      "to_frame_inclusive": 407,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/17.jpg",
+      "visually_reviewed": true
+    },
+    {
+      "sheet": 18,
+      "from_frame": 408,
+      "to_frame_inclusive": 422,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v05-overlay/contacts/18.jpg",
+      "visually_reviewed": true
+    }
+  ],
+  "enlarged_key_frames": [
+    94,
+    165,
+    228,
+    250,
+    269,
+    349,
+    352,
+    381,
+    405
+  ],
+  "hook_native_frames_reviewed": 94,
+  "hook_review": "bts-review.json",
+  "grid_slots": 1051,
+  "grid_interpolation": "none; native hold",
+  "registration": "none",
+  "source_derived_ink": "31 isolated ink masks from Austen Paul source; matching graphic is not independent reconstruction of room geometry",
+  "geometry_accuracy_percentage": null,
+  "subjective_listening": false,
+  "full_fidelity_accepted": false,
+  "publication": false,
+  "reports": [
+    "report.json",
+    "overlay-audit/data.json",
+    "browser-LAB-R001-v05-hook.json",
+    "browser-LAB-R001-v05-control.json",
+    "browser-LAB-R001-v05-overlay-16p8ms.json",
+    "browser-player.json"
+  ]
+}

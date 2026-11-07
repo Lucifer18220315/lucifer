@@ -1,0 +1,23 @@
+{
+  "status": "partial review of superseded first render; props correction requires recheck of lighting/tabletop",
+  "method": "Native 720x1280 unregistered 50/50 overlays at 144x256 contact size, with native key triptychs. No interpolation or automatic registration. All native frames of each completed range viewed; this is not a claim of full-resolution inspection of every pixel.",
+  "reviewed_ranges": [
+    {
+      "from": 0,
+      "to_inclusive": 93,
+      "clip": "LightingV05",
+      "sheets": 4,
+      "findings": "KEY/EDGE/FILL/BG/LABEL timings separated correctly; gradual light transitions and diagonal band present, no round spotlight. Cup overall position close. Remaining: band intensity/extent differs, paper crumple placement and stand/clamp silhouettes not exact, rim curvature sharper, clock body/design differs."
+    },
+    {
+      "from": 94,
+      "to_inclusive": 153,
+      "clip": "TabletopV05",
+      "sheets": 3,
+      "findings": "All60 native frames checked. Gross cup scale/centre mismatch removed across route, camera moves from left to right with changing elevation/distance. Protractor/radial grid present, no invented concentric circle. Remaining: lip/crease silhouette differs, clock case/digits and prop locations differ, gobo layout/wood box do not match exactly."
+    }
+  ],
+  "native_reviewed": 154,
+  "all_423_reviewed": false,
+  "subjective_listening": false
+}

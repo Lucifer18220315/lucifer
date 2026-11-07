@@ -1,0 +1,23 @@
+{
+  "http": 200,
+  "hook_chapters_frames": [
+    0,
+    36,
+    66,
+    94,
+    154,
+    169,
+    200,
+    231,
+    269,
+    330,
+    344,
+    353,
+    366,
+    392
+  ],
+  "control_chapters": 12,
+  "version_toggle": "passed",
+  "download_link": "passed",
+  "page_errors": []
+}

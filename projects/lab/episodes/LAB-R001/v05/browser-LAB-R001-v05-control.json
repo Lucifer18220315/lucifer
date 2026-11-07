@@ -1,0 +1,23 @@
+{
+  "dimensions": {
+    "width": 720,
+    "height": 1280,
+    "duration": 17.713991
+  },
+  "seeks_seconds": [
+    0,
+    1.5015015015015016,
+    2.7527527527527527,
+    3.9205872539205875,
+    6.42308975642309,
+    11.219552886219553,
+    16.349683016349683
+  ],
+  "playback": {
+    "ended": true,
+    "error": null
+  },
+  "page_errors": [],
+  "audio_stream": true,
+  "subjective_listening": false
+}
