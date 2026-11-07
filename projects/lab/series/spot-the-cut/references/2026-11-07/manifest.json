@@ -1514,7 +1514,9 @@
     "kling_callable": false,
     "cua_repl_available": false,
     "open_in_codex_available": false,
-    "avatar_reference_verified": false
+    "avatar_reference_verified": false,
+    "user_interface_plugin_visible": true,
+    "user_screenshot_observation": "Higgsfield mentioned in input; autocomplete shows Video reference items; no callable tool was exposed after repeat discovery."
   },
   "model_source": {
     "url": "https://higgsfield.ai/kling-4-0-intro",
