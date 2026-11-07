@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-07",
+  "used": [
+    "Remotion 4.0.541",
+    "FFmpeg",
+    "Chromium/Playwright",
+    "Python/NumPy/Pillow"
+  ],
+  "new_paid_services": false,
+  "new_dependency_installations": false,
+  "available_not_used": [
+    "Blender 4.3.2"
+  ],
+  "explicitly_requested_plugins": {
+    "Canva": "No callable tool or skill exposed after repeated discovery",
+    "Adobe": "No callable tool or skill exposed after repeated discovery"
+  },
+  "activation_command_available": false,
+  "user_reports_plugins_enabled": true,
+  "cloud_configuration_changed": false,
+  "user_mac_controlled": false,
+  "pexels_license": {
+    "url": "https://www.pexels.com/license/",
+    "verified": [
+      "All photos and videos on Pexels are free to use",
+      "You can modify the photos and videos from Pexels",
+      "Do not imply endorsement of your product by people or brands on the imagery"
+    ],
+    "raw_sources_redistributed": false
+  },
+  "stock_video_authors": "assets.json",
+  "own_audio_stems_gain": {
+    "music": 1,
+    "sfx": 0.85
+  },
+  "actual_screen_export_probe": {
+    "width": 720,
+    "height": 1280,
+    "frames": 144,
+    "fps": 24
+  },
+  "screen_capture_speed_factor": 2.0833333333333335,
+  "rejected_stage_tools": [
+    "Three.js; removed by D032"
+  ],
+  "final_3d_content": false,
+  "replacement_styles": {
+    "03": "Кинетическая типографика",
+    "08": "Клиповый монтаж",
+    "09": "Аналоговая плёнка"
+  }
+}

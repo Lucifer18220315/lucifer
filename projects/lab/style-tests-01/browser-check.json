@@ -1,0 +1,152 @@
+{
+  "gallery_buttons": 10,
+  "clips": [
+    {
+      "style": 1,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 2,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 3,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 4,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 5,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 6,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 7,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 8,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 9,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    },
+    {
+      "style": 10,
+      "metadata": {
+        "w": 720,
+        "h": 1280,
+        "duration": 6.016
+      },
+      "seeks": [
+        0.01,
+        3,
+        5.8
+      ],
+      "download": "passed"
+    }
+  ],
+  "comparison_complete_muted_playback": {
+    "ended": true,
+    "error": null,
+    "duration": 60
+  },
+  "page_errors": [],
+  "subjective_audio_listening": false
+}

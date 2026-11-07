@@ -1,0 +1,72 @@
+{
+  "1": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -18.06240731485296,
+    "rms_dbfs": -37.22713862081705,
+    "clipped_samples": 0
+  },
+  "2": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -16.57794442971363,
+    "rms_dbfs": -46.54914659136713,
+    "clipped_samples": 0
+  },
+  "3": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -20.484577160521443,
+    "rms_dbfs": -38.52488431405385,
+    "clipped_samples": 0
+  },
+  "4": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -17.509454607890284,
+    "rms_dbfs": -37.238236930869554,
+    "clipped_samples": 0
+  },
+  "5": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -15.119925516691467,
+    "rms_dbfs": -37.40706385641297,
+    "clipped_samples": 0
+  },
+  "6": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -18.373202523145366,
+    "rms_dbfs": -37.233147628699676,
+    "clipped_samples": 0
+  },
+  "7": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -18.623982313182022,
+    "rms_dbfs": -37.232373827537,
+    "clipped_samples": 0
+  },
+  "8": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -10.64200739103831,
+    "rms_dbfs": -35.5383244186909,
+    "clipped_samples": 0
+  },
+  "9": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -21.812801022488916,
+    "rms_dbfs": -37.251869478710084,
+    "clipped_samples": 0
+  },
+  "10": {
+    "sfx_gain": 0.85,
+    "music_gain": 1,
+    "peak_dbfs": -18.32614684326869,
+    "rms_dbfs": -37.239934156831026,
+    "clipped_samples": 0
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-07",
+  "method": "All10contact sheets inspected; 180x320 thumbnails representing128distinct native frames, including each authored cut boundary. Not a claim of full-resolution inspection of all1440frames.",
+  "frames_reviewed": 128,
+  "styles": [
+    {
+      "style": 1,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        47,
+        48,
+        60,
+        72,
+        87,
+        88,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-01.jpg",
+      "artifact_sha256": "b8049db20487a89adbb0e77fb4d215ba3d6d47f4a0baa094085736c71423d48f"
+    },
+    {
+      "style": 2,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        59,
+        60,
+        72,
+        95,
+        96,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-02.jpg",
+      "artifact_sha256": "4cddd2a957a73ead13bdd009ae5e21e6a8ff74ee814dc42e4679416a27d3ff61"
+    },
+    {
+      "style": 3,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        35,
+        36,
+        60,
+        71,
+        72,
+        107,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-03.jpg",
+      "artifact_sha256": "ac2445f2ef20674bf2fa5ca46427a5986f57926e84655e4f062eb0ebe63d72f2"
+    },
+    {
+      "style": 4,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        42,
+        43,
+        60,
+        72,
+        93,
+        94,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-04.jpg",
+      "artifact_sha256": "18e5d156d13d4b3aa75cff101662e17420dfcf6a7dbe5d02ba28e9e2c0900a9f"
+    },
+    {
+      "style": 5,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        39,
+        40,
+        60,
+        72,
+        101,
+        102,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-05.jpg",
+      "artifact_sha256": "548b7425682cce06089ade9ca73966125b7208628bd8ff766dd6c8ed973518e2"
+    },
+    {
+      "style": 6,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        52,
+        53,
+        60,
+        72,
+        86,
+        87,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-06.jpg",
+      "artifact_sha256": "9f44a73ad91d9bfe8db79fcd7d209748e8391c581f29993586d6072b1c39ff5a"
+    },
+    {
+      "style": 7,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        60,
+        72,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-07.jpg",
+      "artifact_sha256": "5e900e32e52b282b546cd32d71f155ef4831e1c15690a7b66eb1d1ee42f8a54b"
+    },
+    {
+      "style": 8,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        40,
+        41,
+        47,
+        48,
+        54,
+        55,
+        60,
+        72,
+        81,
+        82,
+        108,
+        112,
+        113,
+        124,
+        125,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-08.jpg",
+      "artifact_sha256": "9832fff5ba34361a998df1554f31b2152d21bbd96cbcd2afc1feee3384811cb5"
+    },
+    {
+      "style": 9,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        53,
+        54,
+        60,
+        72,
+        95,
+        96,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-09.jpg",
+      "artifact_sha256": "414e801c8195d068b25359aba869205ab418bf4fb233169ec8b2dfb73a456644"
+    },
+    {
+      "style": 10,
+      "visually_reviewed_frames": [
+        0,
+        12,
+        24,
+        36,
+        60,
+        72,
+        108,
+        132,
+        143
+      ],
+      "contact_sheet": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/style-tests/review-10.jpg",
+      "artifact_sha256": "75984a7fedd97f87a7bcce153c6ab526fe8523116308732107f2a0aec4988cdc"
+    }
+  ],
+  "three_dimensional_content": false,
+  "static_source_check": "No ThreeCanvas/Three.js/R3F imports or perspective()/rotateX()/rotateY() transforms in active style source",
+  "subjective_audio_listening": false,
+  "notes": "review.md"
+}

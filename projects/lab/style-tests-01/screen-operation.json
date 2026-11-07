@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "frames": 144,
+  "saturation": 0.62,
+  "seconds": 7.437797409998893,
+  "actual_command": [
+    "ffmpeg",
+    "-y",
+    "-v",
+    "error",
+    "-ss",
+    "7",
+    "-i",
+    "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/public/style-tests-assets/15162384.mp4",
+    "-t",
+    "6",
+    "-vf",
+    "scale=720:1280:force_original_aspect_ratio=increase,crop=720:1280,eq=saturation=0.62:contrast=1.08",
+    "-r",
+    "24",
+    "-an",
+    "-c:v",
+    "libx264",
+    "-threads",
+    "2",
+    "-preset",
+    "fast",
+    "-crf",
+    "19",
+    "-movflags",
+    "+faststart",
+    "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/public/style-tests-assets/screen-export.mp4"
+  ],
+  "probe_verified": {
+    "width": 720,
+    "height": 1280,
+    "frames": 144
+  }
+}

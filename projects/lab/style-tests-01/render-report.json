@@ -1,0 +1,112 @@
+{
+  "Style02": {
+    "sourceSha": "b44cb80ea9226873206ac8446aadd09edae48b68900f2b3a5a4f95e00bc43263",
+    "path": "/workspace/shared/downloads/style-tests-01/Style02.mp4",
+    "sha256": "4cddd2a957a73ead13bdd009ae5e21e6a8ff74ee814dc42e4679416a27d3ff61",
+    "bytes": 4692899,
+    "seconds": 81.835,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style04": {
+    "sourceSha": "b44cb80ea9226873206ac8446aadd09edae48b68900f2b3a5a4f95e00bc43263",
+    "path": "/workspace/shared/downloads/style-tests-01/Style04.mp4",
+    "sha256": "18e5d156d13d4b3aa75cff101662e17420dfcf6a7dbe5d02ba28e9e2c0900a9f",
+    "bytes": 3190706,
+    "seconds": 66.652,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style05": {
+    "sourceSha": "b44cb80ea9226873206ac8446aadd09edae48b68900f2b3a5a4f95e00bc43263",
+    "path": "/workspace/shared/downloads/style-tests-01/Style05.mp4",
+    "sha256": "548b7425682cce06089ade9ca73966125b7208628bd8ff766dd6c8ed973518e2",
+    "bytes": 1956124,
+    "seconds": 80.289,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style06": {
+    "sourceSha": "b44cb80ea9226873206ac8446aadd09edae48b68900f2b3a5a4f95e00bc43263",
+    "path": "/workspace/shared/downloads/style-tests-01/Style06.mp4",
+    "sha256": "9f44a73ad91d9bfe8db79fcd7d209748e8391c581f29993586d6072b1c39ff5a",
+    "bytes": 3100317,
+    "seconds": 71.358,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style01": {
+    "sourceSha": "af1f45e9e786179ad008a7a5bac467676494e3d384a0ac9c6e1847ffaeb70a7c",
+    "path": "/workspace/shared/downloads/style-tests-01/Style01.mp4",
+    "sha256": "b8049db20487a89adbb0e77fb4d215ba3d6d47f4a0baa094085736c71423d48f",
+    "bytes": 4474561,
+    "seconds": 98.757,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style03": {
+    "sourceSha": "af1f45e9e786179ad008a7a5bac467676494e3d384a0ac9c6e1847ffaeb70a7c",
+    "path": "/workspace/shared/downloads/style-tests-01/Style03.mp4",
+    "sha256": "ac2445f2ef20674bf2fa5ca46427a5986f57926e84655e4f062eb0ebe63d72f2",
+    "bytes": 1528874,
+    "seconds": 58.182,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style07": {
+    "sourceSha": "af1f45e9e786179ad008a7a5bac467676494e3d384a0ac9c6e1847ffaeb70a7c",
+    "path": "/workspace/shared/downloads/style-tests-01/Style07.mp4",
+    "sha256": "5e900e32e52b282b546cd32d71f155ef4831e1c15690a7b66eb1d1ee42f8a54b",
+    "bytes": 6776704,
+    "seconds": 83.482,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style08": {
+    "sourceSha": "af1f45e9e786179ad008a7a5bac467676494e3d384a0ac9c6e1847ffaeb70a7c",
+    "path": "/workspace/shared/downloads/style-tests-01/Style08.mp4",
+    "sha256": "9832fff5ba34361a998df1554f31b2152d21bbd96cbcd2afc1feee3384811cb5",
+    "bytes": 4001493,
+    "seconds": 79.363,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style09": {
+    "sourceSha": "af1f45e9e786179ad008a7a5bac467676494e3d384a0ac9c6e1847ffaeb70a7c",
+    "path": "/workspace/shared/downloads/style-tests-01/Style09.mp4",
+    "sha256": "414e801c8195d068b25359aba869205ab418bf4fb233169ec8b2dfb73a456644",
+    "bytes": 5388154,
+    "seconds": 103.873,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  },
+  "Style10": {
+    "sourceSha": "af1f45e9e786179ad008a7a5bac467676494e3d384a0ac9c6e1847ffaeb70a7c",
+    "path": "/workspace/shared/downloads/style-tests-01/Style10.mp4",
+    "sha256": "75984a7fedd97f87a7bcce153c6ab526fe8523116308732107f2a0aec4988cdc",
+    "bytes": 2831743,
+    "seconds": 30.965,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "frames": 144
+  }
+}

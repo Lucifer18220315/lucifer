@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-07",
+  "clips": [
+    {
+      "id": 1,
+      "name": "Съёмка + 2D-графика",
+      "file": "Style01.mp4",
+      "bytes": 4474561,
+      "sha256": "b8049db20487a89adbb0e77fb4d215ba3d6d47f4a0baa094085736c71423d48f",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 2,
+      "name": "Тактильный процесс",
+      "file": "Style02.mp4",
+      "bytes": 4692899,
+      "sha256": "4cddd2a957a73ead13bdd009ae5e21e6a8ff74ee814dc42e4679416a27d3ff61",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 3,
+      "name": "Кинетическая типографика",
+      "file": "Style03.mp4",
+      "bytes": 1528874,
+      "sha256": "ac2445f2ef20674bf2fa5ca46427a5986f57926e84655e4f062eb0ebe63d72f2",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 4,
+      "name": "Журнальный коллаж",
+      "file": "Style04.mp4",
+      "bytes": 3190706,
+      "sha256": "18e5d156d13d4b3aa75cff101662e17420dfcf6a7dbe5d02ba28e9e2c0900a9f",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 5,
+      "name": "Технологический триллер",
+      "file": "Style05.mp4",
+      "bytes": 1956124,
+      "sha256": "548b7425682cce06089ade9ca73966125b7208628bd8ff766dd6c8ed973518e2",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 6,
+      "name": "Редакционный портрет",
+      "file": "Style06.mp4",
+      "bytes": 3100317,
+      "sha256": "9f44a73ad91d9bfe8db79fcd7d209748e8391c581f29993586d6072b1c39ff5a",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 7,
+      "name": "Сюрреализм",
+      "file": "Style07.mp4",
+      "bytes": 6776704,
+      "sha256": "5e900e32e52b282b546cd32d71f155ef4831e1c15690a7b66eb1d1ee42f8a54b",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 8,
+      "name": "Клиповый монтаж",
+      "file": "Style08.mp4",
+      "bytes": 4001493,
+      "sha256": "9832fff5ba34361a998df1554f31b2152d21bbd96cbcd2afc1feee3384811cb5",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 9,
+      "name": "Аналоговая плёнка",
+      "file": "Style09.mp4",
+      "bytes": 5388154,
+      "sha256": "414e801c8195d068b25359aba869205ab418bf4fb233169ec8b2dfb73a456644",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    },
+    {
+      "id": 10,
+      "name": "Экранная режиссура",
+      "file": "Style10.mp4",
+      "bytes": 2831743,
+      "sha256": "75984a7fedd97f87a7bcce153c6ab526fe8523116308732107f2a0aec4988cdc",
+      "frames": 144,
+      "fps": 24,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "full_decode": "passed",
+      "audio": "aac",
+      "duration": 6.016
+    }
+  ],
+  "comparison": {
+    "file": "/workspace/shared/downloads/style-tests-01/Ten-styles-comparison.mp4",
+    "bytes": 26186797,
+    "sha256": "9815b7d698b8258548b5e0d9bf87f0cb470d2a8b09318d6a14120f99ae9d4d39",
+    "frames": 1440,
+    "duration_seconds": 60,
+    "full_decode": "passed"
+  },
+  "archive": {
+    "file": "/workspace/shared/downloads/Ten-video-styles.zip",
+    "bytes": 64534915,
+    "sha256": "0ac9d13e5ea2cf6232730ea09a47199d56b377e5f1613fbeafb2ddf32ff848ff"
+  },
+  "source_shas": [
+    "af1f45e9e786179ad008a7a5bac467676494e3d384a0ac9c6e1847ffaeb70a7c",
+    "b44cb80ea9226873206ac8446aadd09edae48b68900f2b3a5a4f95e00bc43263"
+  ],
+  "retained_unchanged_2d": [
+    "Style02",
+    "Style04",
+    "Style05",
+    "Style06"
+  ],
+  "three_dimensional_scenes": false,
+  "visual_review": {
+    "status": "reviewed",
+    "styles": 10,
+    "sampled_native_frames": 128,
+    "includes_authored_cut_boundaries": true,
+    "detail": "manual-review.json"
+  },
+  "subjective_audio_review": false,
+  "canva_used": false,
+  "adobe_used": false,
+  "paid_services_used": false,
+  "poster_frames": {
+    "1": 24,
+    "2": 12,
+    "3": 72,
+    "4": 72,
+    "5": 72,
+    "6": 12,
+    "7": 72,
+    "8": 72,
+    "9": 72,
+    "10": 72
+  }
+}
