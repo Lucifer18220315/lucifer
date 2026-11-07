@@ -1,0 +1,808 @@
+{
+  "input": "/workspace/shared/downloads/LAB-R001-v05-hook.mp4",
+  "output": "/workspace/shared/downloads/LAB-R001-v05-metadata-checked.mp4",
+  "before": {
+    "sha256": "2e0208e60346216001370661c30f78de442c7ef3e41a99ca232e08ce1aff3384",
+    "bytes": 10625879,
+    "boxes": [
+      {
+        "path": "/ftyp",
+        "offset": 0,
+        "size": 32,
+        "header": 8,
+        "type": "ftyp"
+      },
+      {
+        "path": "/moov",
+        "offset": 32,
+        "size": 11728,
+        "header": 8,
+        "type": "moov"
+      },
+      {
+        "path": "/moov/mvhd",
+        "offset": 40,
+        "size": 108,
+        "header": 8,
+        "type": "mvhd"
+      },
+      {
+        "path": "/moov/trak",
+        "offset": 148,
+        "size": 7907,
+        "header": 8,
+        "type": "trak"
+      },
+      {
+        "path": "/moov/trak/tkhd",
+        "offset": 156,
+        "size": 92,
+        "header": 8,
+        "type": "tkhd"
+      },
+      {
+        "path": "/moov/trak/edts",
+        "offset": 248,
+        "size": 36,
+        "header": 8,
+        "type": "edts"
+      },
+      {
+        "path": "/moov/trak/edts/elst",
+        "offset": 256,
+        "size": 28,
+        "header": 8,
+        "type": "elst"
+      },
+      {
+        "path": "/moov/trak/mdia",
+        "offset": 284,
+        "size": 7771,
+        "header": 8,
+        "type": "mdia"
+      },
+      {
+        "path": "/moov/trak/mdia/mdhd",
+        "offset": 292,
+        "size": 32,
+        "header": 8,
+        "type": "mdhd"
+      },
+      {
+        "path": "/moov/trak/mdia/hdlr",
+        "offset": 324,
+        "size": 45,
+        "header": 8,
+        "type": "hdlr"
+      },
+      {
+        "path": "/moov/trak/mdia/minf",
+        "offset": 369,
+        "size": 7686,
+        "header": 8,
+        "type": "minf"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/vmhd",
+        "offset": 377,
+        "size": 20,
+        "header": 8,
+        "type": "vmhd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/dinf",
+        "offset": 397,
+        "size": 36,
+        "header": 8,
+        "type": "dinf"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/dinf/dref",
+        "offset": 405,
+        "size": 28,
+        "header": 8,
+        "type": "dref"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl",
+        "offset": 433,
+        "size": 7622,
+        "header": 8,
+        "type": "stbl"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd",
+        "offset": 441,
+        "size": 174,
+        "header": 8,
+        "type": "stsd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/avc1",
+        "offset": 457,
+        "size": 158,
+        "header": 8,
+        "type": "avc1"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/avc1/avcC",
+        "offset": 543,
+        "size": 56,
+        "header": 8,
+        "type": "avcC"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/avc1/pasp",
+        "offset": 599,
+        "size": 16,
+        "header": 8,
+        "type": "pasp"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stts",
+        "offset": 615,
+        "size": 24,
+        "header": 8,
+        "type": "stts"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stss",
+        "offset": 639,
+        "size": 76,
+        "header": 8,
+        "type": "stss"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/ctts",
+        "offset": 715,
+        "size": 3032,
+        "header": 8,
+        "type": "ctts"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsc",
+        "offset": 3747,
+        "size": 1060,
+        "header": 8,
+        "type": "stsc"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsz",
+        "offset": 4807,
+        "size": 1712,
+        "header": 8,
+        "type": "stsz"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stco",
+        "offset": 6519,
+        "size": 1536,
+        "header": 8,
+        "type": "stco"
+      },
+      {
+        "path": "/moov/trak",
+        "offset": 8055,
+        "size": 3608,
+        "header": 8,
+        "type": "trak"
+      },
+      {
+        "path": "/moov/trak/tkhd",
+        "offset": 8063,
+        "size": 92,
+        "header": 8,
+        "type": "tkhd"
+      },
+      {
+        "path": "/moov/trak/edts",
+        "offset": 8155,
+        "size": 36,
+        "header": 8,
+        "type": "edts"
+      },
+      {
+        "path": "/moov/trak/edts/elst",
+        "offset": 8163,
+        "size": 28,
+        "header": 8,
+        "type": "elst"
+      },
+      {
+        "path": "/moov/trak/mdia",
+        "offset": 8191,
+        "size": 3472,
+        "header": 8,
+        "type": "mdia"
+      },
+      {
+        "path": "/moov/trak/mdia/mdhd",
+        "offset": 8199,
+        "size": 32,
+        "header": 8,
+        "type": "mdhd"
+      },
+      {
+        "path": "/moov/trak/mdia/hdlr",
+        "offset": 8231,
+        "size": 45,
+        "header": 8,
+        "type": "hdlr"
+      },
+      {
+        "path": "/moov/trak/mdia/minf",
+        "offset": 8276,
+        "size": 3387,
+        "header": 8,
+        "type": "minf"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/smhd",
+        "offset": 8284,
+        "size": 16,
+        "header": 8,
+        "type": "smhd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/dinf",
+        "offset": 8300,
+        "size": 36,
+        "header": 8,
+        "type": "dinf"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/dinf/dref",
+        "offset": 8308,
+        "size": 28,
+        "header": 8,
+        "type": "dref"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl",
+        "offset": 8336,
+        "size": 3327,
+        "header": 8,
+        "type": "stbl"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd",
+        "offset": 8344,
+        "size": 105,
+        "header": 8,
+        "type": "stsd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/mp4a",
+        "offset": 8360,
+        "size": 89,
+        "header": 8,
+        "type": "mp4a"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/mp4a/esds",
+        "offset": 8396,
+        "size": 53,
+        "header": 8,
+        "type": "esds"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stts",
+        "offset": 8449,
+        "size": 32,
+        "header": 8,
+        "type": "stts"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsc",
+        "offset": 8481,
+        "size": 40,
+        "header": 8,
+        "type": "stsc"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsz",
+        "offset": 8521,
+        "size": 1548,
+        "header": 8,
+        "type": "stsz"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stco",
+        "offset": 10069,
+        "size": 1540,
+        "header": 8,
+        "type": "stco"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/sgpd",
+        "offset": 11609,
+        "size": 26,
+        "header": 8,
+        "type": "sgpd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/sbgp",
+        "offset": 11635,
+        "size": 28,
+        "header": 8,
+        "type": "sbgp"
+      },
+      {
+        "path": "/moov/free",
+        "offset": 11663,
+        "size": 97,
+        "header": 8,
+        "type": "free",
+        "payload_is_zero": true
+      },
+      {
+        "path": "/free",
+        "offset": 11760,
+        "size": 8,
+        "header": 8,
+        "type": "free",
+        "payload_is_zero": true
+      },
+      {
+        "path": "/mdat",
+        "offset": 11768,
+        "size": 10614111,
+        "header": 8,
+        "type": "mdat"
+      }
+    ],
+    "optional_metadata_boxes": [],
+    "metadata_signature_hits": [],
+    "video_packets_checked": 423,
+    "avcc_nal_length_bytes": 4,
+    "h264_nal_type_counts": {
+      "1": 408,
+      "5": 15,
+      "7": 15,
+      "8": 15
+    },
+    "h264_sei_units": 0,
+    "format_tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "2997/125",
+        "nb_frames": "423",
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "nb_frames": "382",
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ]
+  },
+  "after": {
+    "sha256": "2e0208e60346216001370661c30f78de442c7ef3e41a99ca232e08ce1aff3384",
+    "bytes": 10625879,
+    "boxes": [
+      {
+        "path": "/ftyp",
+        "offset": 0,
+        "size": 32,
+        "header": 8,
+        "type": "ftyp"
+      },
+      {
+        "path": "/moov",
+        "offset": 32,
+        "size": 11728,
+        "header": 8,
+        "type": "moov"
+      },
+      {
+        "path": "/moov/mvhd",
+        "offset": 40,
+        "size": 108,
+        "header": 8,
+        "type": "mvhd"
+      },
+      {
+        "path": "/moov/trak",
+        "offset": 148,
+        "size": 7907,
+        "header": 8,
+        "type": "trak"
+      },
+      {
+        "path": "/moov/trak/tkhd",
+        "offset": 156,
+        "size": 92,
+        "header": 8,
+        "type": "tkhd"
+      },
+      {
+        "path": "/moov/trak/edts",
+        "offset": 248,
+        "size": 36,
+        "header": 8,
+        "type": "edts"
+      },
+      {
+        "path": "/moov/trak/edts/elst",
+        "offset": 256,
+        "size": 28,
+        "header": 8,
+        "type": "elst"
+      },
+      {
+        "path": "/moov/trak/mdia",
+        "offset": 284,
+        "size": 7771,
+        "header": 8,
+        "type": "mdia"
+      },
+      {
+        "path": "/moov/trak/mdia/mdhd",
+        "offset": 292,
+        "size": 32,
+        "header": 8,
+        "type": "mdhd"
+      },
+      {
+        "path": "/moov/trak/mdia/hdlr",
+        "offset": 324,
+        "size": 45,
+        "header": 8,
+        "type": "hdlr"
+      },
+      {
+        "path": "/moov/trak/mdia/minf",
+        "offset": 369,
+        "size": 7686,
+        "header": 8,
+        "type": "minf"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/vmhd",
+        "offset": 377,
+        "size": 20,
+        "header": 8,
+        "type": "vmhd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/dinf",
+        "offset": 397,
+        "size": 36,
+        "header": 8,
+        "type": "dinf"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/dinf/dref",
+        "offset": 405,
+        "size": 28,
+        "header": 8,
+        "type": "dref"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl",
+        "offset": 433,
+        "size": 7622,
+        "header": 8,
+        "type": "stbl"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd",
+        "offset": 441,
+        "size": 174,
+        "header": 8,
+        "type": "stsd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/avc1",
+        "offset": 457,
+        "size": 158,
+        "header": 8,
+        "type": "avc1"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/avc1/avcC",
+        "offset": 543,
+        "size": 56,
+        "header": 8,
+        "type": "avcC"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/avc1/pasp",
+        "offset": 599,
+        "size": 16,
+        "header": 8,
+        "type": "pasp"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stts",
+        "offset": 615,
+        "size": 24,
+        "header": 8,
+        "type": "stts"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stss",
+        "offset": 639,
+        "size": 76,
+        "header": 8,
+        "type": "stss"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/ctts",
+        "offset": 715,
+        "size": 3032,
+        "header": 8,
+        "type": "ctts"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsc",
+        "offset": 3747,
+        "size": 1060,
+        "header": 8,
+        "type": "stsc"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsz",
+        "offset": 4807,
+        "size": 1712,
+        "header": 8,
+        "type": "stsz"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stco",
+        "offset": 6519,
+        "size": 1536,
+        "header": 8,
+        "type": "stco"
+      },
+      {
+        "path": "/moov/trak",
+        "offset": 8055,
+        "size": 3608,
+        "header": 8,
+        "type": "trak"
+      },
+      {
+        "path": "/moov/trak/tkhd",
+        "offset": 8063,
+        "size": 92,
+        "header": 8,
+        "type": "tkhd"
+      },
+      {
+        "path": "/moov/trak/edts",
+        "offset": 8155,
+        "size": 36,
+        "header": 8,
+        "type": "edts"
+      },
+      {
+        "path": "/moov/trak/edts/elst",
+        "offset": 8163,
+        "size": 28,
+        "header": 8,
+        "type": "elst"
+      },
+      {
+        "path": "/moov/trak/mdia",
+        "offset": 8191,
+        "size": 3472,
+        "header": 8,
+        "type": "mdia"
+      },
+      {
+        "path": "/moov/trak/mdia/mdhd",
+        "offset": 8199,
+        "size": 32,
+        "header": 8,
+        "type": "mdhd"
+      },
+      {
+        "path": "/moov/trak/mdia/hdlr",
+        "offset": 8231,
+        "size": 45,
+        "header": 8,
+        "type": "hdlr"
+      },
+      {
+        "path": "/moov/trak/mdia/minf",
+        "offset": 8276,
+        "size": 3387,
+        "header": 8,
+        "type": "minf"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/smhd",
+        "offset": 8284,
+        "size": 16,
+        "header": 8,
+        "type": "smhd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/dinf",
+        "offset": 8300,
+        "size": 36,
+        "header": 8,
+        "type": "dinf"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/dinf/dref",
+        "offset": 8308,
+        "size": 28,
+        "header": 8,
+        "type": "dref"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl",
+        "offset": 8336,
+        "size": 3327,
+        "header": 8,
+        "type": "stbl"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd",
+        "offset": 8344,
+        "size": 105,
+        "header": 8,
+        "type": "stsd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/mp4a",
+        "offset": 8360,
+        "size": 89,
+        "header": 8,
+        "type": "mp4a"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsd/mp4a/esds",
+        "offset": 8396,
+        "size": 53,
+        "header": 8,
+        "type": "esds"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stts",
+        "offset": 8449,
+        "size": 32,
+        "header": 8,
+        "type": "stts"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsc",
+        "offset": 8481,
+        "size": 40,
+        "header": 8,
+        "type": "stsc"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stsz",
+        "offset": 8521,
+        "size": 1548,
+        "header": 8,
+        "type": "stsz"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/stco",
+        "offset": 10069,
+        "size": 1540,
+        "header": 8,
+        "type": "stco"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/sgpd",
+        "offset": 11609,
+        "size": 26,
+        "header": 8,
+        "type": "sgpd"
+      },
+      {
+        "path": "/moov/trak/mdia/minf/stbl/sbgp",
+        "offset": 11635,
+        "size": 28,
+        "header": 8,
+        "type": "sbgp"
+      },
+      {
+        "path": "/moov/free",
+        "offset": 11663,
+        "size": 97,
+        "header": 8,
+        "type": "free",
+        "payload_is_zero": true
+      },
+      {
+        "path": "/free",
+        "offset": 11760,
+        "size": 8,
+        "header": 8,
+        "type": "free",
+        "payload_is_zero": true
+      },
+      {
+        "path": "/mdat",
+        "offset": 11768,
+        "size": 10614111,
+        "header": 8,
+        "type": "mdat"
+      }
+    ],
+    "optional_metadata_boxes": [],
+    "metadata_signature_hits": [],
+    "video_packets_checked": 423,
+    "avcc_nal_length_bytes": 4,
+    "h264_nal_type_counts": {
+      "1": 408,
+      "5": 15,
+      "7": 15,
+      "8": 15
+    },
+    "h264_sei_units": 0,
+    "format_tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "2997/125",
+        "nb_frames": "423",
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "nb_frames": "382",
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ]
+  },
+  "operation": "copy; original already has no H.264 SEI",
+  "removed_box_paths": [],
+  "byte_identical_to_input": true,
+  "decoded_video_frames_equal_including_timestamps": true,
+  "decoded_video_frames": 423,
+  "aac_packets_equal_including_timestamps": true,
+  "aac_packets": 382,
+  "full_decode": "passed",
+  "transcoded": false,
+  "fake_application_metadata_added": false,
+  "invisible_pixel_audio_watermark_detection": "not performed; no universal detector",
+  "instagram_label_prediction": "not established",
+  "visual_review": "Prior v05 review covers all423control frames and94hook frames; same source SHA. No AI label observed; not a watermark detector.",
+  "parser_check": "Synthetic appended UUID detected and zeroed; original release bytes preserved"
+}
