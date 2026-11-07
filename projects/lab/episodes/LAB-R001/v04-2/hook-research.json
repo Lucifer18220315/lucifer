@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-07",
+  "platform": "Instagram",
+  "fresh_pages_checked": 5,
+  "visual_openings_checked": 5,
+  "authors_visually_checked": 3,
+  "sampled_frames": 160,
+  "sources": [
+    {
+      "handle": "austen_paul",
+      "code": "DfPymYGhhtQ",
+      "url": "https://www.instagram.com/austen_paul/reel/DfPymYGhhtQ/",
+      "visual_review": "32 samples at8fps covering0-4s",
+      "observation": "Необычная раздельная установка корпуса и крышки; укрупнение примерно1,5с, затем автор около2,75с. Вопрос создаёт сама механика крепления, обязательного текстового заголовка нет.",
+      "views_displayed_on_2026_11_06": "263K",
+      "views_rechecked_on_2026_11_07": false,
+      "audio_reviewed": false,
+      "matched_media_code": "DfPymYGhhtQ",
+      "http_status": 200,
+      "sha256": "59428d2cca3e87cbb853f5379b8d025249f90f59003778e3ad7a67b746310931",
+      "bytes": 3242725,
+      "duration_seconds": 27.23415,
+      "fps": "2997/125",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DePbx1nhGbw",
+      "url": "https://www.instagram.com/austen_paul/reel/DePbx1nhGbw/",
+      "visual_review": "32 samples at8fps covering0-4s",
+      "observation": "Сразу показана роботизированная камера и предмет; к0,125с виден комментарий «Just use AI bro». Затем камера проходит по установке, ближе к3,5с виден экран с предметом. Текст и сложность реальной установки создают контраст.",
+      "views_displayed_on_2026_11_06": "226K",
+      "views_rechecked_on_2026_11_07": false,
+      "audio_reviewed": false,
+      "matched_media_code": "DePbx1nhGbw",
+      "http_status": 200,
+      "sha256": "603472856dd74752a612a78086d45052a57b8ded09f2c43fc22d76131c49fa71",
+      "bytes": 4445400,
+      "duration_seconds": 22.938458,
+      "fps": "2997/125",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "handle": "jordi.koalitic",
+      "code": "DfHomKZKv6b",
+      "url": "https://www.instagram.com/jordi.koalitic/reel/DfHomKZKv6b/",
+      "visual_review": "32 samples at8fps covering0-4s",
+      "observation": "Сначала человек на лестнице держит чёрную ткань над дымом и машиной; около2с другой ракурс автомобиля, затем панорама возвращает ткань/площадку. Нестандартное видимое действие даёт повод дождаться результата.",
+      "views_displayed_on_2026_11_06": "364K",
+      "views_rechecked_on_2026_11_07": false,
+      "audio_reviewed": false,
+      "matched_media_code": "DfHomKZKv6b",
+      "http_status": 200,
+      "sha256": "96c77cf01de206b95cce52921556891867a0be2d58c79207d347a37425b14f3d",
+      "bytes": 1766970,
+      "duration_seconds": 12.303719,
+      "fps": "30/1",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "handle": "calebnatale",
+      "code": "DfFQ5sZRAPk",
+      "url": "https://www.instagram.com/calebnatale/reel/DfFQ5sZRAPk/",
+      "visual_review": "32 samples at8fps covering0-4s",
+      "observation": "В первые секунды открывается дверь и появляется персонаж; около1,1с склейка к сидящим героям, затем быстрый проход камеры в том же пространстве. Это постановочный рекламный сюжет по подписи SamsungPartner, не прямой предметный урок.",
+      "views_displayed_on_2026_11_06": "120K",
+      "views_rechecked_on_2026_11_07": false,
+      "audio_reviewed": false,
+      "matched_media_code": "DfFQ5sZRAPk",
+      "http_status": 200,
+      "sha256": "ac02817d1cca367ec8124d688b6af4b0b49684f2fcde036be0377a92850b0932",
+      "bytes": 4384040,
+      "duration_seconds": 48.382708,
+      "fps": "30/1",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "handle": "austen_paul",
+      "code": "DcjNPkZB_KF",
+      "url": "https://www.instagram.com/austen_paul/reel/DcjNPkZB_KF/",
+      "visual_review": "32 samples at8fps covering0-4s",
+      "observation": "Исходник со стаканом начинает с постепенного добавления света и пяти подписей; первый основной план держится3,92с. Это визуальный хук изменения света, а не отдельный вопрос или быстрый показ финала.",
+      "views_displayed_on_2026_11_06": "204K",
+      "views_rechecked_on_2026_11_07": false,
+      "audio_reviewed": false,
+      "source": "Previously saved source file, already verified during v04 analysis"
+    }
+  ],
+  "excluded": [
+    {
+      "handle": "sebastian_schieren",
+      "code": "DePCs66o-WH",
+      "reason": "Caption describes environmental reporting; not used as a direct product/editing hook template; first4s not claimed reviewed"
+    }
+  ],
+  "limits": [
+    "No subjective listening",
+    "No creator retention or hook A/B data",
+    "View counts are prior2026-11-06 observations, not fresh counts",
+    "A visual mechanism is adapted; performance is unproven"
+  ]
+}

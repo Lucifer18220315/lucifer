@@ -1,0 +1,285 @@
+{
+  "date": "2026-11-07",
+  "file": "/workspace/shared/downloads/LAB-R001-v04-2-hook.mp4",
+  "bytes": 11847319,
+  "sha256": "b8bb04d07ed727fbc85e44b8610c0237a0a43f6344d2a878627e948ce20f9836",
+  "base_sha256": "54a65cd060e544635e6b6d6a3832c3a00db44a12b240a8515a4453fab4e0f4f5",
+  "decode": "passed",
+  "width": 720,
+  "height": 1280,
+  "video_frames": 423,
+  "fps": "2997/125",
+  "font_native_px": 24,
+  "captions": {
+    "question": 1,
+    "light_labels": 5
+  },
+  "hook_frames": 94,
+  "hook_question": "Зачем стакану столько света?",
+  "text_style": {
+    "background": false,
+    "font_weight": 500,
+    "thin_outline": false,
+    "soft_shadow": true,
+    "single_line": true
+  },
+  "audio": {
+    "modified": false,
+    "encoded_packet_count": 382,
+    "all_payload_hashes_equal": true,
+    "requested_sfx_gain": 0.85,
+    "status": "pending separate effects track; mixed track not attenuated"
+  },
+  "frames_after_opening": {
+    "count": 329,
+    "all_decoded_frame_hashes_equal": true
+  },
+  "removed_boxes": [
+    "/moov/trak/mdia/minf/stbl/stsd/avc1/colr",
+    "/moov/udta"
+  ],
+  "metadata": {
+    "encoder_tags_removed": true,
+    "h264_sei_removed": true,
+    "icc_profile_removed": true,
+    "technical_mp4_fields_retained": true
+  },
+  "experiment": {
+    "changed": "opening frames0-93",
+    "fold_teaser_source_frames": [
+      14,
+      37
+    ],
+    "following_frames_unchanged": 329,
+    "competitor_visual_review": "5 openings across3 authors,32 samples each; no audio review"
+  },
+  "capcut_local": {
+    "completed": false,
+    "reason": "No connected control of user PC or local CapCut"
+  },
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 720,
+      "height": 1280,
+      "coded_width": 720,
+      "coded_height": 1280,
+      "closed_captions": 0,
+      "film_grain": 0,
+      "has_b_frames": 2,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "9:16",
+      "pix_fmt": "yuv420p",
+      "level": 31,
+      "color_range": "tv",
+      "color_space": "bt709",
+      "chroma_location": "center",
+      "field_order": "progressive",
+      "refs": 4,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "id": "0x1",
+      "r_frame_rate": "2997/125",
+      "avg_frame_rate": "2997/125",
+      "time_base": "1/23976",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 423000,
+      "duration": "17.642643",
+      "bit_rate": "5298056",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "423",
+      "nb_read_frames": "423",
+      "extradata_size": 50,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "HE-AAC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "sample_fmt": "fltp",
+      "sample_rate": "44100",
+      "channels": 2,
+      "channel_layout": "stereo",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "id": "0x2",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/44100",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 781187,
+      "duration": "17.713991",
+      "bit_rate": "67783",
+      "nb_frames": "382",
+      "nb_read_frames": "380",
+      "extradata_size": 4,
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "SoundHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    }
+  ],
+  "format": {
+    "filename": "/workspace/shared/downloads/LAB-R001-v04-2-hook.mp4",
+    "nb_streams": 2,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "17.713991",
+    "size": "11847319",
+    "bit_rate": "5350491",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41"
+    }
+  },
+  "browser": {
+    "studio": {
+      "http": 200,
+      "title": "HookV042 / video - Remotion Studio"
+    },
+    "dimensions": {
+      "width": 720,
+      "height": 1280,
+      "duration": 17.713991
+    },
+    "seek_frames": [
+      0,
+      24,
+      34,
+      46,
+      58,
+      70,
+      82,
+      94,
+      392,
+      422
+    ],
+    "playback": {
+      "ended": true,
+      "time": 17.713991,
+      "error": null
+    },
+    "muted": true,
+    "page_errors": [],
+    "subjective_listening": false
+  },
+  "audit": {
+    "native_frame_pairs": 423,
+    "sample_step_ms": 16.8,
+    "sample_grid_count": 1051,
+    "source_fps": "2997/125",
+    "sample_grid_fps": "1250/21",
+    "all_native_frames_covered": true,
+    "interpolation": "none; hold existing frames",
+    "comparison": "/workspace/shared/downloads/LAB-R001-v04-2-compare-16p8ms.mp4",
+    "native_pairs": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/v042-audit/pairs-native",
+    "contact_sheets": [
+      "LAB-R001-v04-2-audit-01.jpg",
+      "LAB-R001-v04-2-audit-02.jpg",
+      "LAB-R001-v04-2-audit-03.jpg",
+      "LAB-R001-v04-2-audit-04.jpg",
+      "LAB-R001-v04-2-audit-05.jpg",
+      "LAB-R001-v04-2-audit-06.jpg",
+      "LAB-R001-v04-2-audit-07.jpg",
+      "LAB-R001-v04-2-audit-08.jpg",
+      "LAB-R001-v04-2-audit-09.jpg",
+      "LAB-R001-v04-2-audit-10.jpg",
+      "LAB-R001-v04-2-audit-11.jpg",
+      "LAB-R001-v04-2-audit-12.jpg",
+      "LAB-R001-v04-2-audit-13.jpg",
+      "LAB-R001-v04-2-audit-14.jpg",
+      "LAB-R001-v04-2-audit-15.jpg",
+      "LAB-R001-v04-2-audit-16.jpg",
+      "LAB-R001-v04-2-audit-17.jpg",
+      "LAB-R001-v04-2-audit-18.jpg"
+    ],
+    "own_sha256": "b8bb04d07ed727fbc85e44b8610c0237a0a43f6344d2a878627e948ce20f9836",
+    "reference_sha256": "54a65cd060e544635e6b6d6a3832c3a00db44a12b240a8515a4453fab4e0f4f5",
+    "manual_review": "Inspect changed pairs f0-93; identical decoded frames f94-422 inherit the prior review. Record actual checks separately.",
+    "comparison_baseline": "v04.1 control, not the Austen Paul reference"
+  },
+  "manual_visual_review": {
+    "changed_native_pairs": [
+      0,
+      93
+    ],
+    "reviewed_contact_sheets": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "review_scale": "1080x712 sheet, reduced pairs; 15 boundary controls additionally checked, frame82 at native size",
+    "unchanged_frames": [
+      94,
+      422
+    ],
+    "unchanged_review_basis": "329 decoded frame hashes equal v04.1; inherited previous full reference review",
+    "competitor_review": "5 openings / 3 authors /160 samples",
+    "audio_listened": false
+  }
+}

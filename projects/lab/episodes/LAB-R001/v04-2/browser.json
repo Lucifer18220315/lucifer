@@ -1,0 +1,31 @@
+{
+  "studio": {
+    "http": 200,
+    "title": "HookV042 / video - Remotion Studio"
+  },
+  "dimensions": {
+    "width": 720,
+    "height": 1280,
+    "duration": 17.713991
+  },
+  "seek_frames": [
+    0,
+    24,
+    34,
+    46,
+    58,
+    70,
+    82,
+    94,
+    392,
+    422
+  ],
+  "playback": {
+    "ended": true,
+    "time": 17.713991,
+    "error": null
+  },
+  "muted": true,
+  "page_errors": [],
+  "subjective_listening": false
+}
