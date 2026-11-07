@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-07",
+  "baseline": "v04.1 synchronized to Austen Paul; no automatic registration",
+  "native_frames_visually_reviewed": 423,
+  "alpha_contact_sheets_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "image_size_per_native_frame_on_contact_sheet": [
+    144,
+    256
+  ],
+  "every_native_texture_pixel_reviewed": false,
+  "coordinate_grid_detail_frames": [
+    85,
+    94,
+    123,
+    153,
+    231,
+    381,
+    422
+  ],
+  "additional_triptych_frames": [
+    165,
+    215,
+    269,
+    330,
+    349,
+    353
+  ],
+  "full_folding_top_native_frames_reviewed": [
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268
+  ],
+  "manual_bbox_frames": [
+    85,
+    94,
+    123,
+    153,
+    231,
+    422
+  ],
+  "bbox_coordinate_uncertainty_pixels": 8,
+  "v042_content_review": {
+    "our_frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "reference_frames": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268
+    ],
+    "reference_transform": "Known authored scale1.12 around native (360,537.6), matching Hook.tsx; not optical registration",
+    "reference_inverse_affine": [
+      0.8928571428571428,
+      0,
+      38.57142857142861,
+      0,
+      0.8928571428571428,
+      57.60000000000002
+    ],
+    "all_24_content_overlays_reviewed": true
+  },
+  "v042_tail_identity": {
+    "frame_count": 329,
+    "all_decoded_rgb_hashes_equal_v041": true
+  },
+  "geometry_fidelity_accepted": false,
+  "no_overall_accuracy_percentage": true,
+  "subjective_audio_review": false,
+  "new_publication_video_created": false,
+  "diagnostic_video_created": true,
+  "previous_issue_qualification": "A02/A03 label timing is established; do not equate subtitle onset to physical light transition onset",
+  "artifacts": [
+    {
+      "path": "evidence/fold-top-all.jpg",
+      "bytes": 230119,
+      "sha256": "5399b77f0666079b123c3c36d46ca2bf1dc401f56659b4f03380717e12bff9b4"
+    },
+    {
+      "path": "evidence/measure-085.jpg",
+      "bytes": 89179,
+      "sha256": "b230fde4c8ca1dcb35ee64ccdb00818da72261427d36a08cd6f3b32fc88903a8"
+    },
+    {
+      "path": "evidence/measure-094.jpg",
+      "bytes": 111244,
+      "sha256": "e0a35c1a1f6a0b050cf472b88f2b885d93e4469807a8a0ea65c98caf758b9cb8"
+    },
+    {
+      "path": "evidence/measure-123.jpg",
+      "bytes": 108533,
+      "sha256": "869ebf944bb0ee1aebdbfdd556569dc1250f86e7962042b904d2383132972862"
+    },
+    {
+      "path": "evidence/measure-153.jpg",
+      "bytes": 109865,
+      "sha256": "e046adb9603ba94c8e04de7b4db53bb053f8e226c87bd279c46d5c1efd7cd033"
+    },
+    {
+      "path": "evidence/measure-231.jpg",
+      "bytes": 80916,
+      "sha256": "9ca354ce736c50661321dd2ba8d1cdeb692a815e39fdc28e6ee79571b8d57f29"
+    },
+    {
+      "path": "evidence/measure-422.jpg",
+      "bytes": 100384,
+      "sha256": "a0b6304e323f7a54a0470e46916ae6f9f24c2b8cf85dab1ca97c6fbbaeb9e73c"
+    },
+    {
+      "path": "evidence/pair-165.jpg",
+      "bytes": 78161,
+      "sha256": "11f2497196db43747cc189187a31b8ffad6e44613e4001f759d9033d0ff927aa"
+    },
+    {
+      "path": "evidence/pair-215.jpg",
+      "bytes": 64255,
+      "sha256": "74a6dac410339567aa968e9953bb2520838e7d2fae82955bd950977f9490d48c"
+    },
+    {
+      "path": "evidence/pair-269.jpg",
+      "bytes": 55810,
+      "sha256": "129b4db964af5ad049e21bf45228aaed24767a0145efecc9e26fe0ca7208dcfd"
+    },
+    {
+      "path": "evidence/pair-330.jpg",
+      "bytes": 89644,
+      "sha256": "5ea786be6338ce40c9ed4f7fa6885600f40eae0b1c991d689b46dce9cefcd035"
+    },
+    {
+      "path": "evidence/pair-349.jpg",
+      "bytes": 65135,
+      "sha256": "b853a7cc900ad1124def7fba60464656958ef5be5248eaf34c63dec5804de9c5"
+    },
+    {
+      "path": "evidence/pair-353.jpg",
+      "bytes": 53359,
+      "sha256": "f495b00d6276a44ffb508d31a06cf850bbf6883051aaebf159947d7100bfc775"
+    },
+    {
+      "path": "evidence/pair-381.jpg",
+      "bytes": 55082,
+      "sha256": "bf1ac4bd00a95362a42f576e4d9dbad235745e0da38b8cf8af8634758d0c7f23"
+    },
+    {
+      "path": "evidence/v042-content-all24.jpg",
+      "bytes": 142401,
+      "sha256": "c710a802065099509c03757a4fcc28194f89558ab512f01d3ecbc0b7e4780795"
+    }
+  ]
+}

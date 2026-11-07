@@ -1,0 +1,205 @@
+{
+  "coordinate_system": "native 720x1280, origin top-left; whole cup including visible flaps",
+  "registration": "none",
+  "method": "manual estimated bounding boxes; +/-8px per coordinate, not subpixel accuracy",
+  "records": [
+    {
+      "frame": 85,
+      "object": "visible full cup projection",
+      "reference_bbox_xyxy": [
+        284,
+        421,
+        466,
+        770
+      ],
+      "control_bbox_xyxy": [
+        285,
+        419,
+        464,
+        763
+      ],
+      "reference_size": [
+        182,
+        349
+      ],
+      "control_size": [
+        179,
+        344
+      ],
+      "width_ratio": 0.9835164835164835,
+      "height_ratio": 0.9856733524355301,
+      "center_delta_xy": [
+        -0.5,
+        -4.5
+      ],
+      "method": "manual screen-space bbox, native 720x1280 grid; approximate, no segmentation ground truth",
+      "coordinate_uncertainty_px": 8,
+      "interpretation": "Projected image size, not physical dimensions or a unique camera calibration"
+    },
+    {
+      "frame": 94,
+      "object": "visible full cup projection",
+      "reference_bbox_xyxy": [
+        265,
+        513,
+        417,
+        825
+      ],
+      "control_bbox_xyxy": [
+        241,
+        297,
+        533,
+        827
+      ],
+      "reference_size": [
+        152,
+        312
+      ],
+      "control_size": [
+        292,
+        530
+      ],
+      "width_ratio": 1.9210526315789473,
+      "height_ratio": 1.6987179487179487,
+      "center_delta_xy": [
+        46.0,
+        -107.0
+      ],
+      "method": "manual screen-space bbox, native 720x1280 grid; approximate, no segmentation ground truth",
+      "coordinate_uncertainty_px": 8,
+      "interpretation": "Projected image size, not physical dimensions or a unique camera calibration"
+    },
+    {
+      "frame": 123,
+      "object": "visible full cup projection",
+      "reference_bbox_xyxy": [
+        252,
+        477,
+        452,
+        864
+      ],
+      "control_bbox_xyxy": [
+        226,
+        304,
+        522,
+        827
+      ],
+      "reference_size": [
+        200,
+        387
+      ],
+      "control_size": [
+        296,
+        523
+      ],
+      "width_ratio": 1.48,
+      "height_ratio": 1.351421188630491,
+      "center_delta_xy": [
+        22.0,
+        -105.0
+      ],
+      "method": "manual screen-space bbox, native 720x1280 grid; approximate, no segmentation ground truth",
+      "coordinate_uncertainty_px": 8,
+      "interpretation": "Projected image size, not physical dimensions or a unique camera calibration"
+    },
+    {
+      "frame": 153,
+      "object": "visible full cup projection",
+      "reference_bbox_xyxy": [
+        240,
+        454,
+        480,
+        886
+      ],
+      "control_bbox_xyxy": [
+        212,
+        316,
+        512,
+        828
+      ],
+      "reference_size": [
+        240,
+        432
+      ],
+      "control_size": [
+        300,
+        512
+      ],
+      "width_ratio": 1.25,
+      "height_ratio": 1.1851851851851851,
+      "center_delta_xy": [
+        2.0,
+        -98.0
+      ],
+      "method": "manual screen-space bbox, native 720x1280 grid; approximate, no segmentation ground truth",
+      "coordinate_uncertainty_px": 8,
+      "interpretation": "Projected image size, not physical dimensions or a unique camera calibration"
+    },
+    {
+      "frame": 231,
+      "object": "visible full cup projection",
+      "reference_bbox_xyxy": [
+        254,
+        378,
+        495,
+        929
+      ],
+      "control_bbox_xyxy": [
+        256,
+        377,
+        491,
+        928
+      ],
+      "reference_size": [
+        241,
+        551
+      ],
+      "control_size": [
+        235,
+        551
+      ],
+      "width_ratio": 0.975103734439834,
+      "height_ratio": 1.0,
+      "center_delta_xy": [
+        -1.0,
+        -1.0
+      ],
+      "method": "manual screen-space bbox, native 720x1280 grid; approximate, no segmentation ground truth",
+      "coordinate_uncertainty_px": 8,
+      "interpretation": "Projected image size, not physical dimensions or a unique camera calibration"
+    },
+    {
+      "frame": 422,
+      "object": "visible full cup projection",
+      "reference_bbox_xyxy": [
+        249,
+        521,
+        478,
+        986
+      ],
+      "control_bbox_xyxy": [
+        238,
+        532,
+        482,
+        1003
+      ],
+      "reference_size": [
+        229,
+        465
+      ],
+      "control_size": [
+        244,
+        471
+      ],
+      "width_ratio": 1.0655021834061136,
+      "height_ratio": 1.0129032258064516,
+      "center_delta_xy": [
+        -3.5,
+        14.0
+      ],
+      "method": "manual screen-space bbox, native 720x1280 grid; approximate, no segmentation ground truth",
+      "coordinate_uncertainty_px": 8,
+      "interpretation": "Projected image size, not physical dimensions or a unique camera calibration"
+    }
+  ]
+}

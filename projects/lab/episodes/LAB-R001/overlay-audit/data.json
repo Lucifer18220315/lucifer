@@ -1,0 +1,184 @@
+{
+  "inputs": {
+    "reference": {
+      "path": "/tmp/playboy-editing-series/DcjNPkZB_KF.mp4",
+      "bytes": 1976811,
+      "sha256": "8882f3f37d224e5a984ff22d566bf6ee335710b745f8333ed8d0c8e271b6359c"
+    },
+    "control": {
+      "path": "/workspace/shared/downloads/LAB-R001-v04-1-text-clean.mp4",
+      "bytes": 11035470,
+      "sha256": "54a65cd060e544635e6b6d6a3832c3a00db44a12b240a8515a4453fab4e0f4f5"
+    },
+    "v042": {
+      "path": "/workspace/shared/downloads/LAB-R001-v04-2-hook.mp4",
+      "bytes": 11847319,
+      "sha256": "b8bb04d07ed727fbc85e44b8610c0237a0a43f6344d2a878627e948ce20f9836"
+    }
+  },
+  "native_frames": 423,
+  "fps": "2997/125",
+  "sample_step_ms": 16.8,
+  "grid_samples": 1051,
+  "all_native_frames_covered": true,
+  "interpolation": "none; native hold",
+  "registration": "none; identical native 720x1280 pixel coordinates",
+  "methods": [
+    "50 percent RGB blend",
+    "reference red / control cyan edges"
+  ],
+  "geometry_accuracy_percentage": null,
+  "v042_frames_94_422_equal_control": true,
+  "v042_opening": "Intentionally reordered/cropped; do not label timeline mismatch as geometry error",
+  "contact_sheets": [
+    {
+      "sheet": 1,
+      "from_frame": 0,
+      "to_frame_inclusive": 23,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/01.jpg"
+    },
+    {
+      "sheet": 2,
+      "from_frame": 24,
+      "to_frame_inclusive": 47,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/02.jpg"
+    },
+    {
+      "sheet": 3,
+      "from_frame": 48,
+      "to_frame_inclusive": 71,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/03.jpg"
+    },
+    {
+      "sheet": 4,
+      "from_frame": 72,
+      "to_frame_inclusive": 95,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/04.jpg"
+    },
+    {
+      "sheet": 5,
+      "from_frame": 96,
+      "to_frame_inclusive": 119,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/05.jpg"
+    },
+    {
+      "sheet": 6,
+      "from_frame": 120,
+      "to_frame_inclusive": 143,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/06.jpg"
+    },
+    {
+      "sheet": 7,
+      "from_frame": 144,
+      "to_frame_inclusive": 167,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/07.jpg"
+    },
+    {
+      "sheet": 8,
+      "from_frame": 168,
+      "to_frame_inclusive": 191,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/08.jpg"
+    },
+    {
+      "sheet": 9,
+      "from_frame": 192,
+      "to_frame_inclusive": 215,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/09.jpg"
+    },
+    {
+      "sheet": 10,
+      "from_frame": 216,
+      "to_frame_inclusive": 239,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/10.jpg"
+    },
+    {
+      "sheet": 11,
+      "from_frame": 240,
+      "to_frame_inclusive": 263,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/11.jpg"
+    },
+    {
+      "sheet": 12,
+      "from_frame": 264,
+      "to_frame_inclusive": 287,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/12.jpg"
+    },
+    {
+      "sheet": 13,
+      "from_frame": 288,
+      "to_frame_inclusive": 311,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/13.jpg"
+    },
+    {
+      "sheet": 14,
+      "from_frame": 312,
+      "to_frame_inclusive": 335,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/14.jpg"
+    },
+    {
+      "sheet": 15,
+      "from_frame": 336,
+      "to_frame_inclusive": 359,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/15.jpg"
+    },
+    {
+      "sheet": 16,
+      "from_frame": 360,
+      "to_frame_inclusive": 383,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/16.jpg"
+    },
+    {
+      "sheet": 17,
+      "from_frame": 384,
+      "to_frame_inclusive": 407,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/17.jpg"
+    },
+    {
+      "sheet": 18,
+      "from_frame": 408,
+      "to_frame_inclusive": 422,
+      "path": "/workspace/lucifer/projects/lab/episodes/LAB-R001/video/out/overlay-audit/contacts/18.jpg"
+    }
+  ],
+  "key_frames": [
+    0,
+    24,
+    58,
+    85,
+    94,
+    123,
+    153,
+    154,
+    165,
+    184,
+    215,
+    228,
+    231,
+    250,
+    268,
+    269,
+    300,
+    329,
+    330,
+    338,
+    349,
+    352,
+    353,
+    365,
+    381,
+    391,
+    405,
+    422
+  ],
+  "comparison": {
+    "path": "/workspace/shared/downloads/LAB-R001-overlay-16p8ms.mp4",
+    "bytes": 18838156,
+    "sha256": "4b101da6c44d21ba332938698428984000f85e7a1615cae252f2136046274845",
+    "audio": false,
+    "decode": "passed"
+  },
+  "manual_review": "Generation alone does not establish visual review. See review.md.",
+  "native_duration_seconds": 17.64264264264264,
+  "grid_duration_seconds": 17.6568,
+  "last_slot_padding_ms": 14.157357357357357
+}
