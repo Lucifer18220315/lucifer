@@ -1,0 +1,145 @@
+{
+  "checked_date": "2026-11-07",
+  "timezone": "Europe/Moscow",
+  "purpose": "Evidence review before further hook selection, no new edit or publication",
+  "user_example_is_not_selected_format": true,
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Motion onset captures attention",
+      "authors": [
+        "Abrams RA",
+        "Christ SE"
+      ],
+      "year": 2003,
+      "doi": "10.1111/1467-9280.01458",
+      "url": "https://doi.org/10.1111/1467-9280.01458",
+      "access": "Europe PMC core abstract; full text not read",
+      "method": "Three target-letter experiments; onset vs ongoing motion",
+      "limitation": "Laboratory attention task, not Reels retention or an optimal duration",
+      "retrieved_bytes": 13630,
+      "retrieved_sha256": "9c3112a37a3de5731c9edc92406da7eb61c6b823b371a7f1a1ad3a942062373a",
+      "abstract_retrieval": "Europe PMC REST search by exact DOI, resultType=core, HTTP 200"
+    },
+    {
+      "id": "S2",
+      "title": "Clustering of Gaze During Dynamic Scene Viewing is Predicted by Motion",
+      "authors": [
+        "Mital PK",
+        "Smith TJ",
+        "Hill RL",
+        "Henderson JM"
+      ],
+      "year": 2011,
+      "online_year": 2010,
+      "doi": "10.1007/s12559-010-9074-z",
+      "url": "https://link.springer.com/article/10.1007/s12559-010-9074-z",
+      "access": "Publisher abstract; full text not read",
+      "method": "Gaze-location and clustering analysis during free video viewing",
+      "limitation": "Predictive association, not causal retention gain; semantics may covary",
+      "retrieved_bytes": 434248,
+      "retrieved_sha256": "2aef0ae7438e436efb21067b68c930c27fcfc14c667df0b38ef07691fd7871da",
+      "retrieval_http_status": 200
+    },
+    {
+      "id": "S3",
+      "title": "The psychology of curiosity: A review and reinterpretation",
+      "authors": [
+        "George Loewenstein"
+      ],
+      "year": 1994,
+      "doi": "10.1037/0033-2909.116.1.75",
+      "url": "https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf",
+      "access": "Institution-hosted scanned PDF; OCR abstract and relevant sections, especially printed pp87–91 / PDF pp13–17; not all pages read",
+      "method": "Theoretical review, information-gap account",
+      "limitation": "Not an experiment on Reels or proof that every question induces useful curiosity",
+      "retrieved_bytes": 3066323,
+      "retrieved_sha256": "744bfe7ab2a44298e954b5706c84f24048add7d6cf548c379ca14d626fae2499",
+      "retrieval_http_status": 200
+    },
+    {
+      "id": "S4",
+      "title": "Edit Blindness: The Relationship Between Attention and Global Change Blindness in Dynamic Scenes",
+      "authors": [
+        "Tim J Smith",
+        "John M Henderson"
+      ],
+      "year": 2008,
+      "doi": "10.16910/jemr.2.2.6",
+      "url": "https://doi.org/10.16910/jemr.2.2.6",
+      "resolved_url": "https://www.mdpi.com/1995-8692/2/2/11",
+      "access": "Open full text available; methods, relevant results and discussion read",
+      "method": "7 participants, 7 five-minute film excerpts; edit detection and eye tracking; 117 eligible cuts",
+      "limitation": "Cut awareness, not retention; no significant difference between Within Scene and Match Action miss rates",
+      "retrieved_bytes": 503877,
+      "retrieved_sha256": "e9e2fcda6c7397bb3f90d36e3362187a07ec08c7378512e229add746e9b0d32a",
+      "retrieval_http_status": 200
+    },
+    {
+      "id": "S5",
+      "title": "Pip and pop: nonspatial auditory signals improve spatial visual search",
+      "authors": [
+        "Van der Burg E",
+        "Olivers CN",
+        "Bronkhorst AW",
+        "Theeuwes J"
+      ],
+      "year": 2008,
+      "doi": "10.1037/0096-1523.34.5.1053",
+      "url": "https://doi.org/10.1037/0096-1523.34.5.1053",
+      "access": "Europe PMC core abstract; full text not read",
+      "method": "Auditory/visual synchrony in dynamic visual search",
+      "limitation": "Not evidence of reach gains from music, volume or arbitrary sound effects",
+      "retrieved_bytes": 13630,
+      "retrieved_sha256": "9c3112a37a3de5731c9edc92406da7eb61c6b823b371a7f1a1ad3a942062373a",
+      "abstract_retrieval": "Europe PMC REST search by exact DOI, resultType=core, HTTP 200"
+    },
+    {
+      "id": "S6",
+      "title": "Instagram Ranking Explained",
+      "authors": [
+        "Adam Mosseri / Instagram"
+      ],
+      "year": 2023,
+      "publication_date": "2023-05-31",
+      "url": "https://about.instagram.com/blog/announcements/instagram-ranking-explained",
+      "access": "Official page, Reels section read",
+      "method": "Platform explanation, not an independent experiment",
+      "limitation": "Historical 2023 explanation; current weights and regional applicability not established",
+      "retrieved_bytes": 257058,
+      "retrieved_sha256": "b21791843d66aaf4e8a74435a3f40475d6c3c1edc32c71d8b4efa16c68247aa2",
+      "retrieval_http_status": 200
+    },
+    {
+      "id": "S7",
+      "title": "Remotion Video documentation",
+      "url": "https://www.remotion.dev/docs/media/video",
+      "access": "Official page; frame placement/trimming/duration properties checked",
+      "method": "Engineering documentation",
+      "limitation": "Reproducibility, not audience effectiveness",
+      "retrieved_bytes": 206092,
+      "retrieved_sha256": "06e6b98a9f830fd7b7954c89e46212543a339d3a1622506fcc16424448a5f36f",
+      "retrieval_http_status": 200
+    }
+  ],
+  "excluded_as_unread": [
+    {
+      "title": "The Attentional Theory of Cinematic Continuity",
+      "doi": "10.3167/proj.2012.060102",
+      "status": "Crossref metadata only; publisher HTTP 403"
+    },
+    {
+      "title": "Adobe match-cut page",
+      "status": "HTTP 404"
+    },
+    {
+      "title": "RED shutter page",
+      "status": "HTTP 200 shell without usable article"
+    }
+  ],
+  "limits": [
+    "No reviewed study tests LAB-R001 or its Instagram audience",
+    "Competitor view counts do not isolate hook performance",
+    "v04.2 remains an unvalidated prototype; audio sync not subjectively evaluated"
+  ]
+}
