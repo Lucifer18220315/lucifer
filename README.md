@@ -22,6 +22,8 @@
 
 Текущий производственный результат: [LAB-R001 v04 — полный монтаж и покадровая сверка](projects/lab/episodes/LAB-R001/v04/result.md), 17,64 с видео, 720 × 1280, 423 кадра. [Аудит](projects/lab/episodes/LAB-R001/v04/audit.md) выявил 24 пункта расхождений; точный ремейк ещё не принят. Сохранены [v03](projects/lab/episodes/LAB-R001/v03/result.md), [v02](projects/lab/episodes/LAB-R001/v02/result.md), [v01](projects/lab/episodes/LAB-R001/result.md) и [исходный проект](projects/lab/episodes/LAB-R001/video/README.md).
 
+[Первая статистика опубликованного пробного Reels](projects/lab/episodes/LAB-R001/analytics/2026-11-07-first-trial.md): 380 просмотров, 113 зрителей; разбор раннего оттока и предложение одного следующего теста.
+
 ## Карта базы
 
 | Раздел | Содержание |

@@ -1,0 +1,78 @@
+{
+  "received_date": "2026-11-07",
+  "working_timezone": "Europe/Moscow",
+  "source": "4 user-provided Instagram analytics screenshots in chat",
+  "ui_clock": "11:32",
+  "captured_at": null,
+  "post_age_hours_user_reported": 12,
+  "permalink": null,
+  "uploaded_file_version": null,
+  "published_by": "user",
+  "trial_reel": true,
+  "previous_user_report": {
+    "value": 300,
+    "wording": "зрителей за 12ч",
+    "metric_definition": "unclear; not equated with current views or viewers"
+  },
+  "metrics": {
+    "views": 380,
+    "viewers": 113,
+    "average_watch_seconds": 5.8,
+    "follows": 0,
+    "likes": 1,
+    "likes_rate_percent": 0.9,
+    "saves": 0,
+    "shares": 0,
+    "reposts": 0,
+    "comments": 0,
+    "skip_rate_percent": 42.5,
+    "followers_percent": 0,
+    "non_followers_percent": 100,
+    "retention_at_17s_percent": 11.5,
+    "last_ten_ui_label": "8 из 10 последних"
+  },
+  "retention_visual_estimates": [
+    {
+      "seconds": 3,
+      "range_percent": [
+        55,
+        65
+      ]
+    },
+    {
+      "seconds": 4,
+      "range_percent": [
+        40,
+        50
+      ]
+    },
+    {
+      "seconds": 6,
+      "range_percent": [
+        25,
+        30
+      ]
+    }
+  ],
+  "estimate_note": "Visual estimates from graph, not exact exported measurements. Retention at17s is not relabeled as a precise full completion rate.",
+  "comparison_labels": {
+    "views_rank": "8 из 10 последних",
+    "viewers": "Ниже",
+    "average_watch": "Ниже",
+    "likes_rate": "Ниже",
+    "skip_rate": "Выше"
+  },
+  "reference_timeline_condition": "Known delivered edit; exact uploaded version not verified",
+  "reference_scene_starts_seconds": {
+    "tabletop": 3.9205872539205875,
+    "blueprint": 6.42308975642309,
+    "folding": 9.634634634634635,
+    "pour": 11.219552886219553
+  },
+  "next_test_proposal": "P019: change opening edit only; pending user choice, not implemented",
+  "next_observations_proposed_hours": [
+    24,
+    48
+  ],
+  "causal_conclusion": null
+}
